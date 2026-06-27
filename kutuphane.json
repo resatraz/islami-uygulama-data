@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "ad": "Elifba",
+    "aciklama": "Kur'an harflerini öğren",
+    "kategori": "Eğitim",
+    "sayfa_sayisi": 50,
+    "icon": "book"
+  },
+  {
+    "id": 2,
+    "ad": "Namaz Hocası",
+    "aciklama": "Namazı adım adım öğren",
+    "kategori": "İbadet",
+    "sayfa_sayisi": 80,
+    "icon": "mosque"
+  },
+  {
+    "id": 3,
+    "ad": "Kısa İlmihal",
+    "aciklama": "Temel İslam bilgileri",
+    "kategori": "İlmihal",
+    "sayfa_sayisi": 120,
+    "icon": "menu_book"
+  },
+  {
+    "id": 4,
+    "ad": "40 Hadis",
+    "aciklama": "Hz. Peygamberin 40 hadisi",
+    "kategori": "Hadis",
+    "sayfa_sayisi": 60,
+    "icon": "format_quote"
+  },
+  {
+    "id": 5,
+    "ad": "Risale-i Nur Seçmeleri",
+    "aciklama": "Said Nursi'den seçme parçalar",
+    "kategori": "Risale",
+    "sayfa_sayisi": 200,
+    "icon": "library_books"
+  }
+]
