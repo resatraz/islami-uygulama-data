@@ -1,0 +1,51 @@
+[
+  {
+    "gun": 1,
+    "arapca": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ",
+    "meal": "Seni ancak âlemlere rahmet olarak gönderdik.",
+    "sure": "Enbiya",
+    "ayet": "107"
+  },
+  {
+    "gun": 2,
+    "arapca": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "meal": "Şüphesiz güçlükle birlikte kolaylık vardır.",
+    "sure": "İnşirah",
+    "ayet": "6"
+  },
+  {
+    "gun": 3,
+    "arapca": "وَتَوَكَّلْ عَلَى اللَّهِ وَكَفَى بِاللَّهِ وَكِيلًا",
+    "meal": "Allah'a tevekkül et. Vekil olarak Allah yeter.",
+    "sure": "Ahzab",
+    "ayet": "3"
+  },
+  {
+    "gun": 4,
+    "arapca": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "meal": "Şüphesiz Allah sabredenlerle beraberdir.",
+    "sure": "Bakara",
+    "ayet": "153"
+  },
+  {
+    "gun": 5,
+    "arapca": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ",
+    "meal": "Kullarım seni benden sorarlarsa, şüphesiz ben çok yakınım.",
+    "sure": "Bakara",
+    "ayet": "186"
+  },
+  {
+    "gun": 6,
+    "arapca": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+    "meal": "Allah göklerin ve yerin nurudur.",
+    "sure": "Nur",
+    "ayet": "35"
+  },
+  {
+    "gun": 7,
+    "arapca": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+    "meal": "Allah'ın rahmetinden umudunuzu kesmeyin.",
+    "sure": "Yusuf",
+    "ayet": "87"
+  }
+]
