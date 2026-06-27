@@ -1,0 +1,52 @@
+[
+  {
+    "soru": "Hz. Muhammed (s.a.v.) kaç yaşında peygamber oldu?",
+    "dogru": "40 yaşında",
+    "yanlis": "35 yaşında"
+  },
+  {
+    "soru": "Kur'an-ı Kerim kaç sureden oluşur?",
+    "dogru": "114 sure",
+    "yanlis": "120 sure"
+  },
+  {
+    "soru": "İslam'ın şartı kaçtır?",
+    "dogru": "5",
+    "yanlis": "6"
+  },
+  {
+    "soru": "Ramazan ayı kaçıncı aydır?",
+    "dogru": "9. ay",
+    "yanlis": "10. ay"
+  },
+  {
+    "soru": "Kur'an-ı Kerim kaç cüzden oluşur?",
+    "dogru": "30 cüz",
+    "yanlis": "25 cüz"
+  },
+  {
+    "soru": "Hz. Adem'in eşinin adı nedir?",
+    "dogru": "Hz. Havva",
+    "yanlis": "Hz. Meryem"
+  },
+  {
+    "soru": "Mekke'nin fethi hangi yılda gerçekleşti?",
+    "dogru": "Miladi 630",
+    "yanlis": "Miladi 620"
+  },
+  {
+    "soru": "Günde kaç vakit namaz kılınır?",
+    "dogru": "5 vakit",
+    "yanlis": "3 vakit"
+  },
+  {
+    "soru": "Kur'an'ın en uzun suresi hangisidir?",
+    "dogru": "Bakara Suresi",
+    "yanlis": "Al-i İmran Suresi"
+  },
+  {
+    "soru": "Hz. İbrahim hangi şehirde doğdu?",
+    "dogru": "Ur (Irak)",
+    "yanlis": "Mekke"
+  }
+]
