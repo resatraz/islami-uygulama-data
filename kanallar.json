@@ -1,0 +1,9 @@
+[
+  {"ad": "Mekke Canlı Yayın", "kategori": "TV", "link": "https://win.holymakkah.gov.sa/live/makkah.m3u8"},
+  {"ad": "Medine Canlı Yayın", "kategori": "TV", "link": "https://win.holymakkah.gov.sa/live/madinah.m3u8"},
+  {"ad": "Diyanet Radyo", "kategori": "Radyo", "link": "https://dyntr.radyotvonline.net/diyanetradyo/playlist.m3u8"},
+  {"ad": "Diyanet Kur'an Radyo", "kategori": "Radyo", "link": "https://dyntr.radyotvonline.net/kuranradyo/playlist.m3u8"},
+  {"ad": "Diyanet Risalet Radyo", "kategori": "Radyo", "link": "https://dyntr.radyotvonline.net/risaletradyo/playlist.m3u8"},
+  {"ad": "Lalegül FM", "kategori": "Radyo", "link": "https://yayin.lalegulfm.com/stream/1/"},
+  {"ad": "Moral FM", "kategori": "Radyo", "link": "https://yayin.moralfm.com.tr/moral.mp3"}
+]
