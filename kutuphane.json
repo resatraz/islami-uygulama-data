@@ -1,42 +1,17 @@
 [
-  {
-    "id": 1,
-    "ad": "Elifba",
-    "aciklama": "Kur'an harflerini öğren",
-    "kategori": "Eğitim",
-    "sayfa_sayisi": 50,
-    "icon": "book"
-  },
-  {
-    "id": 2,
-    "ad": "Namaz Hocası",
-    "aciklama": "Namazı adım adım öğren",
-    "kategori": "İbadet",
-    "sayfa_sayisi": 80,
-    "icon": "mosque"
-  },
-  {
-    "id": 3,
-    "ad": "Kısa İlmihal",
-    "aciklama": "Temel İslam bilgileri",
-    "kategori": "İlmihal",
-    "sayfa_sayisi": 120,
-    "icon": "menu_book"
-  },
-  {
-    "id": 4,
-    "ad": "40 Hadis",
-    "aciklama": "Hz. Peygamberin 40 hadisi",
-    "kategori": "Hadis",
-    "sayfa_sayisi": 60,
-    "icon": "format_quote"
-  },
-  {
-    "id": 5,
-    "ad": "Risale-i Nur Seçmeleri",
-    "aciklama": "Said Nursi'den seçme parçalar",
-    "kategori": "Risale",
-    "sayfa_sayisi": 200,
-    "icon": "library_books"
-  }
+  {"id":1,"ad":"Elifba","aciklama":"Kur'an harflerini öğren","kategori":"Eğitim","sayfa_sayisi":50},
+  {"id":2,"ad":"Namaz Hocası","aciklama":"Namazı adım adım öğren","kategori":"İbadet","sayfa_sayisi":80},
+  {"id":3,"ad":"Kısa İlmihal","aciklama":"Temel İslam bilgileri","kategori":"İlmihal","sayfa_sayisi":120},
+  {"id":4,"ad":"40 Hadis","aciklama":"Hz. Peygamberin 40 hadisi","kategori":"Hadis","sayfa_sayisi":60},
+  {"id":5,"ad":"Risale-i Nur Seçmeleri","aciklama":"Said Nursi'den seçme parçalar","kategori":"Risale","sayfa_sayisi":200},
+  {"id":6,"ad":"Peygamberler Tarihi","aciklama":"Hz. Adem'den Hz. Muhammed'e tüm peygamberler","kategori":"Tarih","sayfa_sayisi":180},
+  {"id":7,"ad":"Dua Kitabı","aciklama":"Günlük hayat duaları ve anlamları","kategori":"Dua","sayfa_sayisi":90},
+  {"id":8,"ad":"İslam Ahlakı","aciklama":"Güzel ahlak ve davranış rehberi","kategori":"Ahlak","sayfa_sayisi":110},
+  {"id":9,"ad":"Fıkıh Soruları","aciklama":"Günlük hayatta sık sorulan fıkhi sorular","kategori":"İlmihal","sayfa_sayisi":150},
+  {"id":10,"ad":"Siyer-i Nebi","aciklama":"Hz. Muhammed'in hayatı","kategori":"Tarih","sayfa_sayisi":220},
+  {"id":11,"ad":"Tecvid Dersleri","aciklama":"Kur'an okuma kuralları","kategori":"Eğitim","sayfa_sayisi":70},
+  {"id":12,"ad":"Esmaül Hüsna Şerhi","aciklama":"Allah'ın 99 isminin açıklaması","kategori":"Tefsir","sayfa_sayisi":130},
+  {"id":13,"ad":"Ramazan Rehberi","aciklama":"Ramazan ayı ibadetleri ve duaları","kategori":"İbadet","sayfa_sayisi":60},
+  {"id":14,"ad":"Kelime-i Tevhid","aciklama":"İmanın temeli ve açıklaması","kategori":"Ahlak","sayfa_sayisi":45},
+  {"id":15,"ad":"Çocuklar İçin İslam","aciklama":"Çocuklara yönelik temel İslam bilgisi","kategori":"Eğitim","sayfa_sayisi":55}
 ]
