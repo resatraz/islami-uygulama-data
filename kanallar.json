@@ -5,21 +5,15 @@
   {"ad": "Diyanet Kur'an Radyo", "kategori": "Radyo", "link": "https://dyntr.radyotvonline.net/kuranradyo/playlist.m3u8"},
   {"ad": "Diyanet Risalet Radyo", "kategori": "Radyo", "link": "https://dyntr.radyotvonline.net/risaletradyo/playlist.m3u8"},
   {"ad": "Lalegül FM", "kategori": "Radyo", "link": "https://yayin.lalegulfm.com/stream/1/"},
-  {"ad": "Diyanet Radyo", "kategori": "Radyo", "link": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8"},
-  {"ad": "Diyanet Kur'an Radyo", "kategori": "Radyo", "link": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8"},
-  {"ad": "Risalet Radyo", "kategori": "Radyo", "link": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8"},
-  {"ad": "Lalegül FM", "kategori": "Radyo", "link": "https://icecast.netmedya.net/lalegulfm"},
   {"ad": "Erkam Radyo", "kategori": "Radyo", "link": "https://api-tv5.yayin.com.tr:8002/mp3"},
   {"ad": "Akra FM", "kategori": "Radyo", "link": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"},
   {"ad": "Semerkand Radyo", "kategori": "Radyo", "link": "http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8"},
   {"ad": "Vav Radyo", "kategori": "Radyo", "link": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8"},
+  {"ad": "Moral FM", "kategori": "Radyo", "link": "https://yayin.moralfm.com.tr/moral.mp3"},
   {"ad": "Radyo Gül", "kategori": "Radyo", "link": "http://yayin2.canliyayin.org:8866/;*.mp3"},
   {"ad": "Bayram FM", "kategori": "Radyo", "link": "https://sslyayin.netyayin.net/3442/stream"},
   {"ad": "Dost FM", "kategori": "Radyo", "link": "http://yayin.dostfm.com:8920/;.mp3?no_dl"},
   {"ad": "Ribat FM", "kategori": "Radyo", "link": "http://yayin1.canliyayin.org:7010/;*.mp3"},
   {"ad": "Enderun FM", "kategori": "Radyo", "link": "http://yayin2.canliyayin.org:7052/;*.mp3"},
-  {"ad": "Gözyaşı FM", "kategori": "Radyo", "link": "http://yayin1.canliyayin.org:8700/;*.mp3"},
-  {"ad": "Mekke Canlı Yayın", "kategori": "TV", "link": "https://win.holymakkah.gov.sa/live/makkah.m3u8"},
-  {"ad": "Medine Canlı Yayın", "kategori": "TV", "link": "https://win.holymakkah.gov.sa/live/madinah.m3u8"}
-  {"ad": "Moral FM", "kategori": "Radyo", "link": "https://yayin.moralfm.com.tr/moral.mp3"}
+  {"ad": "Gözyaşı FM", "kategori": "Radyo", "link": "http://yayin1.canliyayin.org:8700/;*.mp3"}
 ]
