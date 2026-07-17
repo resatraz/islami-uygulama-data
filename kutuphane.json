@@ -536,7 +536,68 @@
     "aciklama": "Said Nursi'den seçme parçalar",
     "kategori": "Risale",
     "sayfa_sayisi": 200,
-    "bolumler": []
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "Şeriat ve Hürriyet",
+        "icerik": "Şeriat-ı garrâ, kelâm-ı ezelîden geldiğinden, ebede gidecektir. Nefs-i emmarenin istibdad-ı rezilesinden selâmetimiz, İslâmiyete istinad iledir. O hablülmetine temessük iledir. Ve haklı hürriyetten hakkıyla istifade etmek, imandan istimdad iledir. Zira, Sâni-i Âleme hakkıyla abd ve hizmetkâr olanın, halka ubudiyete tenezzül etmemesi gerektir.\n\n(Divan-ı Harb-i Örfî, s.62)"
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "Din ve Siyaset",
+        "icerik": "Dünya için din feda olunmaz. Gebermiş istibdadı muhafaza için, vaktiyle mesâil-i şeriat rüşvet verilirdi. Dinin meseleleri terk ve feda edilmesinden, zarardan başka ne faydası görüldü? Milletin kalb hastalığı zaaf-ı diyanettir. Bunu takviye ile sıhhat bulabilir.\n\n(Divan-ı Harb-i Örfî, s.63)"
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "İstibdat ve Şeriat",
+        "icerik": "Şeriat-ı Garrâ zemine nüzul etti; ta ki zeminin yüzünü temiz ve insanın yüzünü ak etsin, şu insaniyetten siyah lekesini izale etsin. Meşrutiyetin sırrı, kuvvet kanundadır, şahıs hiçtir. İstibdadın esası, kuvvet şahısta olur, kanunu kendi keyfine tabi edebilir, hak kuvvetin mağlubu.\n\n(Münazarat, s.37-38)"
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "İslâmiyet Güneş Gibidir",
+        "icerik": "İslâmiyet güneş gibidir, üflemekle sönmez. Gündüz gibidir; göz yummakla gece olmaz. Gözünü kapayan, yalnız kendine gece yapar. Hiss-i dinî, bâhusus din-i hakk-ı fıtrînin sözü daha nâfiz, hükmü daha âlî, tesiri daha şedittir.\n\n(Münazarat, s.44-47)"
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Adalet-i Mahza",
+        "icerik": "Bir masumun hakkı, bütün halk için dahi iptal edilmez. Bir fert dahi, umumun selameti için feda edilmez. Cenâb-ı Hakk'ın nazar-ı merhametinde hak haktır, küçüğüne büyüğüne bakılmaz. Küçük büyük için iptal edilmez. Bir cemaatin selameti için, bir ferdin rızası bulunmadan hayatı ve hakkı feda edilmez.\n\n(Mektubat, s.57)"
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Hilâfet ve Saltanat",
+        "icerik": "Hazret-i İmam-ı Ali, ahkâm-ı dini ve hakaik-i İslâmiyeyi ve âhireti esas tutup, saltanatın bir kısım kanunlarını ve siyasetin merhametsiz mukteziyatlarını onlara feda ediyordu. Hazret-i Muaviye ve taraftarları ise, hayat-ı içtimaiye-i İslâmiyeyi saltanat siyasetleriyle takviye etmek için azimeti bırakıp ruhsatı iltizam ettiler, hataya düştüler.\n\n(Mektubat, s.58)"
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Deccal",
+        "icerik": "Tabiiyyun, maddiyyun felsefesinden tevellüt eden bir cereyan-ı nemrudâne, gittikçe âhirzamanda felsefe-i maddiye vasıtasıyla intişar ederek kuvvet bulup, Ulûhiyeti inkâr edecek bir dereceye gelir. Bir sineğe mağlûp olan ve bir sineğin kanadını bile icad edemeyen âciz bir insanın ulûhiyet dâvâ etmesi ne derece ahmakçasına bir maskaralık olduğu malûmdur.\n\n(Mektubat, s.60)"
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Risale-i Nur ve Siyaset",
+        "icerik": "Risale-i Nur'daki şefkat, hakikat, hak, bizi siyasetten men etmiş. Çünkü mâsumlar belâya düşerler; onlara zulmetmiş oluruz. Kur'ân'ın emriyle, gayet şiddetle ve nefretle siyasetten ve idareye karışmaktan kaçındığımızın hakikî hikmeti ve sebebi budur. Yoksa bizde öyle bir hak kuvveti var ki, hakkımızı tam ve mükemmel müdafaa edebilirdik.\n\n(Şualar, s.260)"
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "Velâ Teziru",
+        "icerik": "\"Velâ teziru vâziretü'n vizra uhra\" — Bir adamın cinayetiyle başkalar mes'ul olmaz. Hem bir mâsum, rızası olmadan, bütün insana da feda edilmez. İki Harb-i Umumî, bu gaddar kanun-u esasînin su-i istimalinden çıkıp bin sene beşerin terakkiyatını zîr ü zeber ettiği gibi, on câni yüzünden doksan mâsumun mahvına fetva verdi.\n\n(Emirdağ Lahikası II, s.333-334)"
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Dört Parti",
+        "icerik": "Bu vatanda şimdilik dört parti var. Biri Halk Partisi, biri Demokrat, biri Millet, diğeri İttihad-ı İslâmdır. Demokratlık, hürriyet-i vicdan, İslâmiyetin kanun-u esasîsine dayanabilir. Çünkü kuvvet kanunda olmazsa şahsa geçer. İstibdad, mutlak keyfî olur.\n\n(Emirdağ Lahikası II, s.386-387)"
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Adnan Menderes'e Mektup",
+        "icerik": "İslâmiyetin bir kanun-u esasîsi: \"Seyyidu'l kavmi hadimuhum\" — Memuriyet bir hizmetkârlıktır; bir hâkimiyet ve benlik için tahakküm âleti değil. Bu zamanda terbiye-i İslâmiyenin noksaniyetiyle benlik, enaniyet kuvvet bulmuş. Memuriyeti hizmetkârlıktan çıkarıp bir hâkimiyet tarzına getirdiğinden, adalet esasiyle bozulur.\n\n(Emirdağ Lahikası II, s.393-396)"
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Dahil ve Hariç Cihad",
+        "icerik": "Biz bütün kuvvetimizle dahilde ancak âsâyişi muhafaza için müsbet hareket edeceğiz. Haricî tecavüze karşı kuvvetle mukabele edilir. Dahilde ise öyle değildir. Dâhildeki hareket, müsbet bir şekilde mânevî tahribata karşı mânevî, ihlâs sırrıyla hareket etmektir. Bizim vazifemiz hizmettir; netice Cenab-ı Hakka âittir.\n\n(Emirdağ Lahikası II, s.455-456)"
+      }
+    ]
   },
   {
     "id": 6,
