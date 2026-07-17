@@ -1,333 +1,420 @@
 [
-  {"id":1,"ad":"Elifba","aciklama":"Kur'an harflerini öğren","kategori":"Eğitim","sayfa_sayisi":50},
   {
-  "id": 1,
-  "ad": "Elifba",
-  "kategori": "Eğitim",
-  "bolumler": [
-    {
-      "bolum_no": 1,
-      "baslik": "Elif - ا",
-      "icerik": "Elif (ا), Arap alfabesinin ilk harfidir. Tek başına bir sesi temsil etmez; uzun 'â' sesini taşıyan harflere destek olur. Besmele'nin başında ve pek çok kelamda karşımıza çıkar. Elif'in şekli dik bir çizgiden ibarettir ve Allah'ın birliğini simgeler."
-    },
-    {
-      "bolum_no": 2,
-      "baslik": "Be - ب",
-      "icerik": "Be (ب), Arap alfabesinin ikinci harfidir. 'B' sesini verir. Besmele'nin ilk harfi olup 'Bismillah' kelimesinin başlangıcıdır. Altında bir nokta bulunur. Kelime başında, ortasında ve sonunda farklı şekiller alır."
-    },
-    {
-      "bolum_no": 3,
-      "baslik": "Te - ت",
-      "icerik": "Te (ت), 'T' sesini verir. Üstünde iki nokta bulunur. Be harfiyle gövdesi aynıdır, yalnızca nokta sayısı farklıdır. Kelime içindeki konumuna göre şekli değişir."
-    },
-    {
-      "bolum_no": 4,
-      "baslik": "Se - ث",
-      "icerik": "Se (ث), İngilizcedeki 'th' sesine benzer, dişlerin arasından çıkan bir ses verir. Üstünde üç nokta vardır. Türkçede karşılığı tam olmayan bu sesi doğru telaffuz etmek için dil ucu üst dişlere değdirilir."
-    },
-    {
-      "bolum_no": 5,
-      "baslik": "Cim - ج",
-      "icerik": "Cim (ج), 'C' sesini verir. Altında bir nokta bulunur. Kur'an'da pek çok ayette geçer. Kelime başında, ortasında ve sonunda farklı görünümler alır."
-    },
-    {
-      "bolum_no": 6,
-      "baslik": "Ha - ح",
-      "icerik": "Ha (ح), gırtlaktan çıkan nefesli 'H' sesidir. Türkçedeki 'H'den daha güçlüdür, boğazdan gelir. Noktası yoktur. Bu harfi doğru telaffuz edebilmek için boğazı hafifçe sıkarak nefes vermek gerekir."
-    },
-    {
-      "bolum_no": 7,
-      "baslik": "Hı - خ",
-      "icerik": "Hı (خ), gırtlaktan çıkan sert bir 'H' sesidir. Üstünde bir nokta vardır. Türkçedeki 'H'den daha sert telaffuz edilir. 'Hayır' kelimesindeki sese benzer ama daha derindir."
-    },
-    {
-      "bolum_no": 8,
-      "baslik": "Dal - د",
-      "icerik": "Dal (د), 'D' sesini verir. Noktası yoktur. Yalnızca kelime başında veya sonunda kullanılır, sonraki harfle birleşmez. Bu özelliği onu diğer harflerden ayırır."
-    },
-    {
-      "bolum_no": 9,
-      "baslik": "Zel - ذ",
-      "icerik": "Zel (ذ), İngilizcedeki 'th' sesinin sesli biçimine benzer. Üstünde bir nokta vardır. Dil ucu üst dişlere değdirilerek çıkarılır. Dal harfinin noktalı versiyonudur."
-    },
-    {
-      "bolum_no": 10,
-      "baslik": "Re - ر",
-      "icerik": "Re (ر), 'R' sesini verir. Noktası yoktur. Sonraki harfle birleşmez. Kur'an okurken bu harfin ince veya kalın okunması tecvid kurallarına göre belirlenir."
-    },
-    {
-      "bolum_no": 11,
-      "baslik": "Ze - ز",
-      "icerik": "Ze (ز), 'Z' sesini verir. Üstünde bir nokta vardır. Re harfinin noktalı biçimidir. Sonraki harfle birleşmez."
-    },
-    {
-      "bolum_no": 12,
-      "baslik": "Sin - س",
-      "icerik": "Sin (س), 'S' sesini verir. Noktası yoktur, üç dişli görünümüyle tanınır. Kelime içindeki konumuna göre şekli değişir. Kur'an'da 'Subhanallah' gibi önemli kelimelerin başında yer alır."
-    },
-    {
-      "bolum_no": 13,
-      "baslik": "Şın - ش",
-      "icerik": "Şın (ش), 'Ş' sesini verir. Sin harfinin üstüne üç nokta eklenmiş halidir. Kelime içindeki konumuna göre şekli değişir."
-    },
-    {
-      "bolum_no": 14,
-      "baslik": "Sad - ص",
-      "icerik": "Sad (ص), kalın 'S' sesini verir. Türkçedeki 'S'den farklı olarak damaktan çıkar, daha dolgun bir ses verir. Noktası yoktur."
-    },
-    {
-      "bolum_no": 15,
-      "baslik": "Dad - ض",
-      "icerik": "Dad (ض), kalın 'D' sesini verir. Arap alfabesinin en zor harflerinden biridir ve Arapçaya özgüdür. Bu yüzden Arapça bazen 'Dad dili' olarak anılır. Üstünde bir nokta vardır."
-    },
-    {
-      "bolum_no": 16,
-      "baslik": "Tı - ط",
-      "icerik": "Tı (ط), kalın 'T' sesini verir. Damaktan çıkar, Türkçedeki 'T'den daha güçlüdür. Noktası yoktur. Kur'an'da 'Taha' suresinin ilk harfidir."
-    },
-    {
-      "bolum_no": 17,
-      "baslik": "Zı - ظ",
-      "icerik": "Zı (ظ), kalın 'Z' sesini verir. Tı harfinin noktalı versiyonudur. Dil ucu üst dişlere değdirilerek ve damak kullanılarak çıkarılır."
-    },
-    {
-      "bolum_no": 18,
-      "baslik": "Ayn - ع",
-      "icerik": "Ayn (ع), gırtlaktan çıkan kendine özgü bir sestir. Türkçede karşılığı yoktur. Boğaz hafifçe sıkılarak çıkarılır. 'Allah' kelimesinin kökünde bu harf vardır."
-    },
-    {
-      "bolum_no": 19,
-      "baslik": "Ğayn - غ",
-      "icerik": "Ğayn (غ), gırtlaktan çıkan ve Fransızca 'r'ye benzeyen bir sestir. Ayn harfinin noktalı versiyonudur. Türkçedeki 'ğ' harfine benzer ama daha güçlüdür."
-    },
-    {
-      "bolum_no": 20,
-      "baslik": "Fe - ف",
-      "icerik": "Fe (ف), 'F' sesini verir. Üstünde bir nokta vardır. Kelime içindeki konumuna göre şekli değişir. 'Fatiha' suresinin adı bu harfle başlar."
-    },
-    {
-      "bolum_no": 21,
-      "baslik": "Kaf - ق",
-      "icerik": "Kaf (ق), damağın en arkasından çıkan kalın 'K' sesidir. Altında iki nokta vardır. Türkçedeki 'K'den farklı olarak boğaza yakın bir noktadan çıkar. Kur'an'da bir sure bu harfle adlandırılmıştır: 'Kaf' suresi."
-    },
-    {
-      "bolum_no": 22,
-      "baslik": "Kef - ك",
-      "icerik": "Kef (ك), 'K' sesini verir. Türkçedeki 'K'ye en yakın Arapça harftir. Kelime içindeki konumuna göre farklı şekiller alır."
-    },
-    {
-      "bolum_no": 23,
-      "baslik": "Lam - ل",
-      "icerik": "Lam (ل), 'L' sesini verir. 'Allah' kelimesinde özel bir telaffuzu vardır: Allah lafzından önce ötre veya üstün gelirse kalın, esre gelirse ince okunur. Bu kural tecvid açısından çok önemlidir."
-    },
-    {
-      "bolum_no": 24,
-      "baslik": "Mim - م",
-      "icerik": "Mim (م), 'M' sesini verir. Kur'an'da 'Muhammet' isminin ilk harfidir. Kelime içindeki konumuna göre şekli değişir."
-    },
-    {
-      "bolum_no": 25,
-      "baslik": "Nun - ن",
-      "icerik": "Nun (ن), 'N' sesini verir. Üstünde bir nokta vardır. Tecvid kurallarında 'idğam', 'ihfa', 'iklab' ve 'izhar' gibi özel okuma kuralları Nun harfiyle ilgilidir."
-    },
-    {
-      "bolum_no": 26,
-      "baslik": "He - ه",
-      "icerik": "He (ه), yumuşak 'H' sesini verir. Türkçedeki 'H'ye en yakın Arapça harftir. Kelime içindeki konumuna göre farklı şekiller alır."
-    },
-    {
-      "bolum_no": 27,
-      "baslik": "Vav - و",
-      "icerik": "Vav (و), 'V' veya uzun 'U' sesini verir. Sonraki harfle birleşmez. Hem sessiz harf hem de uzatma harfi olarak kullanılır."
-    },
-    {
-      "bolum_no": 28,
-      "baslik": "Ye - ي",
-      "icerik": "Ye (ي), 'Y' veya uzun 'İ' sesini verir. Arap alfabesinin son harfidir. Hem sessiz harf hem de uzatma harfi olarak kullanılır. Altında iki nokta bulunur."
-    }
-  ]
-}
-  {"id":2,"ad":"Namaz Hocası","aciklama":"Namazı adım adım öğren","kategori":"İbadet","sayfa_sayisi":80},
+    "id": 1,
+    "ad": "Elifba",
+    "aciklama": "Kur'an harflerini öğren",
+    "kategori": "Eğitim",
+    "sayfa_sayisi": 50,
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "Elif - ا",
+        "icerik": "Elif (ا), Arap alfabesinin ilk harfidir. Tek başına bir sesi temsil etmez; uzun 'â' sesini taşıyan harflere destek olur. Besmele'nin başında ve pek çok kelamda karşımıza çıkar. Elif'in şekli dik bir çizgiden ibarettir ve Allah'ın birliğini simgeler."
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "Be - ب",
+        "icerik": "Be (ب), Arap alfabesinin ikinci harfidir. 'B' sesini verir. Besmele'nin ilk harfi olup 'Bismillah' kelimesinin başlangıcıdır. Altında bir nokta bulunur. Kelime başında, ortasında ve sonunda farklı şekiller alır."
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "Te - ت",
+        "icerik": "Te (ت), 'T' sesini verir. Üstünde iki nokta bulunur. Be harfiyle gövdesi aynıdır, yalnızca nokta sayısı farklıdır. Kelime içindeki konumuna göre şekli değişir."
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "Se - ث",
+        "icerik": "Se (ث), İngilizcedeki 'th' sesine benzer, dişlerin arasından çıkan bir ses verir. Üstünde üç nokta vardır. Türkçede karşılığı tam olmayan bu sesi doğru telaffuz etmek için dil ucu üst dişlere değdirilir."
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Cim - ج",
+        "icerik": "Cim (ج), 'C' sesini verir. Altında bir nokta bulunur. Kur'an'da pek çok ayette geçer. Kelime başında, ortasında ve sonunda farklı görünümler alır."
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Ha - ح",
+        "icerik": "Ha (ح), gırtlaktan çıkan nefesli 'H' sesidir. Türkçedeki 'H'den daha güçlüdür, boğazdan gelir. Noktası yoktur. Bu harfi doğru telaffuz edebilmek için boğazı hafifçe sıkarak nefes vermek gerekir."
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Hı - خ",
+        "icerik": "Hı (خ), gırtlaktan çıkan sert bir 'H' sesidir. Üstünde bir nokta vardır. Türkçedeki 'H'den daha sert telaffuz edilir. 'Hayır' kelimesindeki sese benzer ama daha derindir."
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Dal - د",
+        "icerik": "Dal (د), 'D' sesini verir. Noktası yoktur. Yalnızca kelime başında veya sonunda kullanılır, sonraki harfle birleşmez. Bu özelliği onu diğer harflerden ayırır."
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "Zel - ذ",
+        "icerik": "Zel (ذ), İngilizcedeki 'th' sesinin sesli biçimine benzer. Üstünde bir nokta vardır. Dil ucu üst dişlere değdirilerek çıkarılır. Dal harfinin noktalı versiyonudur."
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Re - ر",
+        "icerik": "Re (ر), 'R' sesini verir. Noktası yoktur. Sonraki harfle birleşmez. Kur'an okurken bu harfin ince veya kalın okunması tecvid kurallarına göre belirlenir."
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Ze - ز",
+        "icerik": "Ze (ز), 'Z' sesini verir. Üstünde bir nokta vardır. Re harfinin noktalı biçimidir. Sonraki harfle birleşmez."
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Sin - س",
+        "icerik": "Sin (س), 'S' sesini verir. Noktası yoktur, üç dişli görünümüyle tanınır. Kelime içindeki konumuna göre şekli değişir. Kur'an'da 'Subhanallah' gibi önemli kelimelerin başında yer alır."
+      },
+      {
+        "bolum_no": 13,
+        "baslik": "Şın - ش",
+        "icerik": "Şın (ش), 'Ş' sesini verir. Sin harfinin üstüne üç nokta eklenmiş halidir. Kelime içindeki konumuna göre şekli değişir."
+      },
+      {
+        "bolum_no": 14,
+        "baslik": "Sad - ص",
+        "icerik": "Sad (ص), kalın 'S' sesini verir. Türkçedeki 'S'den farklı olarak damaktan çıkar, daha dolgun bir ses verir. Noktası yoktur."
+      },
+      {
+        "bolum_no": 15,
+        "baslik": "Dad - ض",
+        "icerik": "Dad (ض), kalın 'D' sesini verir. Arap alfabesinin en zor harflerinden biridir ve Arapçaya özgüdür. Bu yüzden Arapça bazen 'Dad dili' olarak anılır. Üstünde bir nokta vardır."
+      },
+      {
+        "bolum_no": 16,
+        "baslik": "Tı - ط",
+        "icerik": "Tı (ط), kalın 'T' sesini verir. Damaktan çıkar, Türkçedeki 'T'den daha güçlüdür. Noktası yoktur. Kur'an'da 'Taha' suresinin ilk harfidir."
+      },
+      {
+        "bolum_no": 17,
+        "baslik": "Zı - ظ",
+        "icerik": "Zı (ظ), kalın 'Z' sesini verir. Tı harfinin noktalı versiyonudur. Dil ucu üst dişlere değdirilerek ve damak kullanılarak çıkarılır."
+      },
+      {
+        "bolum_no": 18,
+        "baslik": "Ayn - ع",
+        "icerik": "Ayn (ع), gırtlaktan çıkan kendine özgü bir sestir. Türkçede karşılığı yoktur. Boğaz hafifçe sıkılarak çıkarılır. 'Allah' kelimesinin kökünde bu harf vardır."
+      },
+      {
+        "bolum_no": 19,
+        "baslik": "Ğayn - غ",
+        "icerik": "Ğayn (غ), gırtlaktan çıkan ve Fransızca 'r'ye benzeyen bir sestir. Ayn harfinin noktalı versiyonudur. Türkçedeki 'ğ' harfine benzer ama daha güçlüdür."
+      },
+      {
+        "bolum_no": 20,
+        "baslik": "Fe - ف",
+        "icerik": "Fe (ف), 'F' sesini verir. Üstünde bir nokta vardır. Kelime içindeki konumuna göre şekli değişir. 'Fatiha' suresinin adı bu harfle başlar."
+      },
+      {
+        "bolum_no": 21,
+        "baslik": "Kaf - ق",
+        "icerik": "Kaf (ق), damağın en arkasından çıkan kalın 'K' sesidir. Altında iki nokta vardır. Türkçedeki 'K'den farklı olarak boğaza yakın bir noktadan çıkar. Kur'an'da bir sure bu harfle adlandırılmıştır: 'Kaf' suresi."
+      },
+      {
+        "bolum_no": 22,
+        "baslik": "Kef - ك",
+        "icerik": "Kef (ك), 'K' sesini verir. Türkçedeki 'K'ye en yakın Arapça harftir. Kelime içindeki konumuna göre farklı şekiller alır."
+      },
+      {
+        "bolum_no": 23,
+        "baslik": "Lam - ل",
+        "icerik": "Lam (ل), 'L' sesini verir. 'Allah' kelimesinde özel bir telaffuzu vardır: Allah lafzından önce ötre veya üstün gelirse kalın, esre gelirse ince okunur. Bu kural tecvid açısından çok önemlidir."
+      },
+      {
+        "bolum_no": 24,
+        "baslik": "Mim - م",
+        "icerik": "Mim (م), 'M' sesini verir. Kur'an'da 'Muhammet' isminin ilk harfidir. Kelime içindeki konumuna göre şekli değişir."
+      },
+      {
+        "bolum_no": 25,
+        "baslik": "Nun - ن",
+        "icerik": "Nun (ن), 'N' sesini verir. Üstünde bir nokta vardır. Tecvid kurallarında 'idğam', 'ihfa', 'iklab' ve 'izhar' gibi özel okuma kuralları Nun harfiyle ilgilidir."
+      },
+      {
+        "bolum_no": 26,
+        "baslik": "He - ه",
+        "icerik": "He (ه), yumuşak 'H' sesini verir. Türkçedeki 'H'ye en yakın Arapça harftir. Kelime içindeki konumuna göre farklı şekiller alır."
+      },
+      {
+        "bolum_no": 27,
+        "baslik": "Vav - و",
+        "icerik": "Vav (و), 'V' veya uzun 'U' sesini verir. Sonraki harfle birleşmez. Hem sessiz harf hem de uzatma harfi olarak kullanılır."
+      },
+      {
+        "bolum_no": 28,
+        "baslik": "Ye - ي",
+        "icerik": "Ye (ي), 'Y' veya uzun 'İ' sesini verir. Arap alfabesinin son harfidir. Hem sessiz harf hem de uzatma harfi olarak kullanılır. Altında iki nokta bulunur."
+      }
+    ]
+  },
   {
-  "id": 2,
-  "ad": "Namaz Hocası",
-  "kategori": "İbadet",
-  "bolumler": [
-    {
-      "bolum_no": 1,
-      "baslik": "Namaz Nedir?",
-      "icerik": "Namaz, İslam'ın beş şartından ikincisidir. Günde beş vakit kılınan namaz, Müslümanın Allah ile kurduğu en doğrudan bağdır. Arapçada 'salat' denilen namaz, hem bedeni hem de ruhi bir ibadettir. Hz. Peygamber (s.a.v.) namazı 'dinin direği' olarak tanımlamıştır."
-    },
-    {
-      "bolum_no": 2,
-      "baslik": "Namazın Şartları",
-      "icerik": "Namazın kabul olması için bazı şartlar gereklidir. Bunlar: 1) Hadesten taharet (abdest veya gusül), 2) Necasetten taharet (bedenin, elbisenin ve namaz yerinin temiz olması), 3) Setr-i avret (avret yerlerinin örtülmesi), 4) İstikbal-i kıble (Kâbe'ye yönelmek), 5) Vakit (her namazın belirli vakti), 6) Niyet."
-    },
-    {
-      "bolum_no": 3,
-      "baslik": "Abdest Nasıl Alınır?",
-      "icerik": "Abdest şu sırayla alınır: 1) Niyet edilir ve Besmele çekilir. 2) Eller bileklere kadar üç kez yıkanır. 3) Ağız üç kez çalkalanır. 4) Burun üç kez temizlenir. 5) Yüz üç kez yıkanır. 6) Sağ kol dirsekle birlikte üç kez, ardından sol kol yıkanır. 7) Başın dörtte biri mesh edilir. 8) Kulaklar mesh edilir. 9) Ayaklar topuklarla birlikte üç kez yıkanır."
-    },
-    {
-      "bolum_no": 4,
-      "baslik": "Namazın Vakitleri",
-      "icerik": "Beş vakit namazın vakitleri şöyledir: Sabah namazı fecrin doğmasından güneşin doğmasına kadar; Öğle namazı güneşin zirveyi geçmesinden öğleden sonra gölgenin uzamasına kadar; İkindi namazı öğle vaktinin bitmesinden güneşin batmasına kadar; Akşam namazı güneşin batmasından şafağın kaybolmasına kadar; Yatsı namazı akşam vaktinin bitmesinden fecrin doğmasına kadar kılınır."
-    },
-    {
-      "bolum_no": 5,
-      "baslik": "Ezan ve Kamet",
-      "icerik": "Ezan, namaz vaktinin girdiğini ilan eden çağrıdır. Müezzin tarafından minareден okunur. Ezan okunurken dinleyenlerin ezanı tekrarlaması sünettir. Kamet ise namazın başlamak üzere olduğunu ilan eden çağrıdır ve cemaatle namazdan hemen önce okunur."
-    },
-    {
-      "bolum_no": 6,
-      "baslik": "Niyet ve Tekbir",
-      "icerik": "Namaza başlamadan önce niyet edilir. Niyet kalple yapılır, dille söylemek sünnettir. Ardından eller kulak hizasına kaldırılarak 'Allahu Ekber' denilir. Bu tekbire 'iftitah tekbiri' veya 'tahrime tekbiri' denir ve namazı diğer amellerden ayırır."
-    },
-    {
-      "bolum_no": 7,
-      "baslik": "Kıyam - Ayakta Duruş",
-      "icerik": "Kıyam, namazda ayakta durmaktır. Farz namazlarda kıyam farzdır. Ayakta dururken sağ el sol elin üzerine konularak göbek altına bağlanır (Hanefi mezhebine göre). Gözler secde yerine bakacak şekilde tutulur. Kıyamda önce Sübhaneke, ardından Eûzü-Besmele ve Fatiha suresi okunur."
-    },
-    {
-      "bolum_no": 8,
-      "baslik": "Rükû - Eğilme",
-      "icerik": "Rükû, namaz kılınırken belde öne doğru eğilmektir. Eller dizlere konulur, sırt düz tutulur, baş sırtla aynı hizada olur. Rükûda en az üç kez 'Sübhane Rabbiyel Azîm' denir. Rükûdan doğrulurken 'Semiallahü limen hamideh' ve ardından 'Rabbenâ lekel hamd' denir."
-    },
-    {
-      "bolum_no": 9,
-      "baslik": "Secde - Yere Kapanma",
-      "icerik": "Secde, namazın en özel anıdır; kulun Allah'a en yakın olduğu andır. Secde yedi organ üzerine yapılır: alın ve burun, iki el, iki diz ve iki ayak parmağı. Secdede en az üç kez 'Sübhane Rabbiyel A'lâ' denir. İki secde arasında kısa bir oturuş yapılır."
-    },
-    {
-      "bolum_no": 10,
-      "baslik": "Ka'de - Oturuş ve Tahiyyat",
-      "icerik": "Namazın ikinci ve son rek'atlarında oturuş yapılır. Oturuşta Tahiyyat (Et-Tahiyyatü) duası okunur. Son oturuşta Tahiyyat'ın ardından Allahümme Salli ve Allahümme Barik duaları (Salavatlar) ve Rabbena duası okunur. Ardından sağa ve sola selam verilir."
-    },
-    {
-      "bolum_no": 11,
-      "baslik": "Sabah Namazı Nasıl Kılınır?",
-      "icerik": "Sabah namazı iki rek'at sünnet ve iki rek'at farzdan oluşur. Sünnete başlarken 'Sabah namazının sünnetine' diye niyet edilir. İki rek'at kılındıktan sonra selam verilir. Ardından farz için niyet edilerek iki rek'at daha kılınır ve selam verilir. Sabah namazının sünneti diğer namazların sünnetlerinden daha kıymetlidir."
-    },
-    {
-      "bolum_no": 12,
-      "baslik": "Öğle Namazı Nasıl Kılınır?",
-      "icerik": "Öğle namazı dört rek'at ilk sünnet, dört rek'at farz ve iki rek'at son sünnetten oluşur. İlk dört rek'at sünnet kılındıktan sonra selam verilir. Ardından farz kılınır. Farzın ardından iki rek'at son sünnet kılınır. Bazı alimlere göre son sünnetten önce iki rek'at daha nafile namaz kılmak müstehaptır."
-    },
-    {
-      "bolum_no": 13,
-      "baslik": "İkindi Namazı Nasıl Kılınır?",
-      "icerik": "İkindi namazı dört rek'at sünnet ve dört rek'at farzdan oluşur. Sünneti kılındıktan sonra farz kılınır ve selam verilir. İkindi namazından sonra güneş batana kadar nafile namaz kılmak mekruhtur. Hz. Peygamber (s.a.v.) ikindi namazına özellikle önem vermiştir."
-    },
-    {
-      "bolum_no": 14,
-      "baslik": "Akşam Namazı Nasıl Kılınır?",
-      "icerik": "Akşam namazı üç rek'at farz ve iki rek'at sünnetten oluşur. Önce üç rek'at farz kılınır: ilk iki rek'atta Fatiha ve sure okunur, üçüncü rek'atta yalnızca Fatiha okunur. Farzdan sonra iki rek'at sünnet kılınır. Akşam namazının vakti kısa olduğundan hemen kılınması önerilir."
-    },
-    {
-      "bolum_no": 15,
-      "baslik": "Yatsı Namazı Nasıl Kılınır?",
-      "icerik": "Yatsı namazı dört rek'at ilk sünnet, dört rek'at farz, iki rek'at son sünnet ve üç rek'at vitirden oluşur. Vitr namazı vacip olup yatsı namazıyla birlikte kılınır. Vitrin üçüncü rek'atında rükûdan önce Kunut duası okunur. Vitri kılmadan uyumak mekruhtur."
-    },
-    {
-      "bolum_no": 16,
-      "baslik": "Cemaatle Namaz",
-      "icerik": "Cemaatle namaz kılmak, tek başına kılmaktan yirmi yedi derece daha fazla sevap kazandırır. İmam öne geçer, cemaat arkasında saf tutar. Cemaat imamın hareketlerine uyar. Camiye gidip cemaatle namaz kılmak erkekler için kuvvetli sünnet veya vaciptir. Kadınlar evlerinde kılabilirler."
-    }
-  ]
-}
-  {"id":3,"ad":"Kısa İlmihal","aciklama":"Temel İslam bilgileri","kategori":"İlmihal","sayfa_sayisi":120},
+    "id": 2,
+    "ad": "Namaz Hocası",
+    "aciklama": "Namazı adım adım öğren",
+    "kategori": "İbadet",
+    "sayfa_sayisi": 80,
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "Namaz Nedir?",
+        "icerik": "Namaz, İslam'ın beş şartından ikincisidir. Günde beş vakit kılınan namaz, Müslümanın Allah ile kurduğu en doğrudan bağdır. Arapçada 'salat' denilen namaz, hem bedeni hem de ruhi bir ibadettir. Hz. Peygamber (s.a.v.) namazı 'dinin direği' olarak tanımlamıştır."
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "Namazın Şartları",
+        "icerik": "Namazın kabul olması için bazı şartlar gereklidir. Bunlar: 1) Hadesten taharet (abdest veya gusül), 2) Necasetten taharet (bedenin, elbisenin ve namaz yerinin temiz olması), 3) Setr-i avret (avret yerlerinin örtülmesi), 4) İstikbal-i kıble (Kâbe'ye yönelmek), 5) Vakit (her namazın belirli vakti), 6) Niyet."
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "Abdest Nasıl Alınır?",
+        "icerik": "Abdest şu sırayla alınır: 1) Niyet edilir ve Besmele çekilir. 2) Eller bileklere kadar üç kez yıkanır. 3) Ağız üç kez çalkalanır. 4) Burun üç kez temizlenir. 5) Yüz üç kez yıkanır. 6) Sağ kol dirsekle birlikte üç kez, ardından sol kol yıkanır. 7) Başın dörtte biri mesh edilir. 8) Kulaklar mesh edilir. 9) Ayaklar topuklarla birlikte üç kez yıkanır."
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "Namazın Vakitleri",
+        "icerik": "Beş vakit namazın vakitleri şöyledir: Sabah namazı fecrin doğmasından güneşin doğmasına kadar; Öğle namazı güneşin zirveyi geçmesinden öğleden sonra gölgenin uzamasına kadar; İkindi namazı öğle vaktinin bitmesinden güneşin batmasına kadar; Akşam namazı güneşin batmasından şafağın kaybolmasına kadar; Yatsı namazı akşam vaktinin bitmesinden fecrin doğmasına kadar kılınır."
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Ezan ve Kamet",
+        "icerik": "Ezan, namaz vaktinin girdiğini ilan eden çağrıdır. Müezzin tarafından minareden okunur. Ezan okunurken dinleyenlerin ezanı tekrarlaması sünettir. Kamet ise namazın başlamak üzere olduğunu ilan eden çağrıdır ve cemaatle namazdan hemen önce okunur."
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Niyet ve Tekbir",
+        "icerik": "Namaza başlamadan önce niyet edilir. Niyet kalple yapılır, dille söylemek sünnettir. Ardından eller kulak hizasına kaldırılarak 'Allahu Ekber' denilir. Bu tekbire 'iftitah tekbiri' veya 'tahrime tekbiri' denir ve namazı diğer amellerden ayırır."
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Kıyam - Ayakta Duruş",
+        "icerik": "Kıyam, namazda ayakta durmaktır. Farz namazlarda kıyam farzdır. Ayakta dururken sağ el sol elin üzerine konularak göbek altına bağlanır (Hanefi mezhebine göre). Gözler secde yerine bakacak şekilde tutulur. Kıyamda önce Sübhaneke, ardından Eûzü-Besmele ve Fatiha suresi okunur."
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Rükû - Eğilme",
+        "icerik": "Rükû, namaz kılınırken belde öne doğru eğilmektir. Eller dizlere konulur, sırt düz tutulur, baş sırtla aynı hizada olur. Rükûda en az üç kez 'Sübhane Rabbiyel Azîm' denir. Rükûdan doğrulurken 'Semiallahü limen hamideh' ve ardından 'Rabbenâ lekel hamd' denir."
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "Secde - Yere Kapanma",
+        "icerik": "Secde, namazın en özel anıdır; kulun Allah'a en yakın olduğu andır. Secde yedi organ üzerine yapılır: alın ve burun, iki el, iki diz ve iki ayak parmağı. Secdede en az üç kez 'Sübhane Rabbiyel A'lâ' denir. İki secde arasında kısa bir oturuş yapılır."
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Ka'de - Oturuş ve Tahiyyat",
+        "icerik": "Namazın ikinci ve son rek'atlarında oturuş yapılır. Oturuşta Tahiyyat (Et-Tahiyyatü) duası okunur. Son oturuşta Tahiyyat'ın ardından Allahümme Salli ve Allahümme Barik duaları (Salavatlar) ve Rabbena duası okunur. Ardından sağa ve sola selam verilir."
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Sabah Namazı Nasıl Kılınır?",
+        "icerik": "Sabah namazı iki rek'at sünnet ve iki rek'at farzdan oluşur. Sünnete başlarken 'Sabah namazının sünnetine' diye niyet edilir. İki rek'at kılındıktan sonra selam verilir. Ardından farz için niyet edilerek iki rek'at daha kılınır ve selam verilir. Sabah namazının sünneti diğer namazların sünnetlerinden daha kıymetlidir."
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Öğle Namazı Nasıl Kılınır?",
+        "icerik": "Öğle namazı dört rek'at ilk sünnet, dört rek'at farz ve iki rek'at son sünnetten oluşur. İlk dört rek'at sünnet kılındıktan sonra selam verilir. Ardından farz kılınır. Farzın ardından iki rek'at son sünnet kılınır. Bazı alimlere göre son sünnetten önce iki rek'at daha nafile namaz kılmak müstehaptır."
+      },
+      {
+        "bolum_no": 13,
+        "baslik": "İkindi Namazı Nasıl Kılınır?",
+        "icerik": "İkindi namazı dört rek'at sünnet ve dört rek'at farzdan oluşur. Sünneti kılındıktan sonra farz kılınır ve selam verilir. İkindi namazından sonra güneş batana kadar nafile namaz kılmak mekruhtur. Hz. Peygamber (s.a.v.) ikindi namazına özellikle önem vermiştir."
+      },
+      {
+        "bolum_no": 14,
+        "baslik": "Akşam Namazı Nasıl Kılınır?",
+        "icerik": "Akşam namazı üç rek'at farz ve iki rek'at sünnetten oluşur. Önce üç rek'at farz kılınır: ilk iki rek'atta Fatiha ve sure okunur, üçüncü rek'atta yalnızca Fatiha okunur. Farzdan sonra iki rek'at sünnet kılınır. Akşam namazının vakti kısa olduğundan hemen kılınması önerilir."
+      },
+      {
+        "bolum_no": 15,
+        "baslik": "Yatsı Namazı Nasıl Kılınır?",
+        "icerik": "Yatsı namazı dört rek'at ilk sünnet, dört rek'at farz, iki rek'at son sünnet ve üç rek'at vitirden oluşur. Vitr namazı vacip olup yatsı namazıyla birlikte kılınır. Vitrin üçüncü rek'atında rükûdan önce Kunut duası okunur. Vitri kılmadan uyumak mekruhtur."
+      },
+      {
+        "bolum_no": 16,
+        "baslik": "Cemaatle Namaz",
+        "icerik": "Cemaatle namaz kılmak, tek başına kılmaktan yirmi yedi derece daha fazla sevap kazandırır. İmam öne geçer, cemaat arkasında saf tutar. Cemaat imamın hareketlerine uyar. Camiye gidip cemaatle namaz kılmak erkekler için kuvvetli sünnet veya vaciptir. Kadınlar evlerinde kılabilirler."
+      }
+    ]
+  },
   {
-  "id": 3,
-  "ad": "Kısa İlmihal",
-  "kategori": "İlmihal",
-  "bolumler": [
-    {
-      "bolum_no": 1,
-      "baslik": "İman ve İslam",
-      "icerik": "İman, Allah'ın varlığına ve birliğine, Hz. Muhammed'in peygamberliğine ve İslam'ın temel esaslarına kalp ile inanıp dil ile ikrar etmektir. İslam ise bu inanç doğrultusunda yaşamaktır. İman ile İslam birbirini tamamlar. Kelime-i Şehadet getiren kişi İslam'a girmiş sayılır."
-    },
-    {
-      "bolum_no": 2,
-      "baslik": "İmanın Şartları",
-      "icerik": "İmanın altı şartı vardır: 1) Allah'a iman: Allah'ın var olduğuna, bir olduğuna ve hiçbir şeye ihtiyacı olmadığına inanmak. 2) Meleklere iman: Nurdan yaratılan, günah işlemeyen ve Allah'a ibadet eden varlıklara inanmak. 3) Kitaplara iman: Allah tarafından peygamberlere gönderilen kutsal kitaplara inanmak. 4) Peygamberlere iman: Hz. Adem'den Hz. Muhammed'e kadar tüm peygamberlere inanmak. 5) Ahiret gününe iman: Ölümden sonra dirilişe, hesaba ve cennete ya da cehenneme inanmak. 6) Kadere iman: Her şeyin Allah'ın ilmi ve iradesiyle olduğuna inanmak."
-    },
-    {
-      "bolum_no": 3,
-      "baslik": "İslam'ın Şartları",
-      "icerik": "İslam'ın beş şartı vardır: 1) Kelime-i Şehadet: 'Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühü ve rasûlüh' demek. 2) Namaz: Günde beş vakit namaz kılmak. 3) Oruç: Ramazan ayında oruç tutmak. 4) Zekât: Nisap miktarına ulaşan malın kırkta birini ihtiyaç sahiplerine vermek. 5) Hac: Gücü yetenin ömründe bir kez Mekke'ye gidip hac ibadetini yapmak."
-    },
-    {
-      "bolum_no": 4,
-      "baslik": "Allah'ın Sıfatları",
-      "icerik": "Allah'ın zatına ait sıfatlar şunlardır: Vücud (var olma), Kıdem (ezeli olma), Beka (ebedi olma), Vahdaniyet (bir olma), Muhalefetün lil-havadis (yaratıklara benzememek), Kıyam bi-nefsihî (varlığı için hiçbir şeye muhtaç olmamak). Subuti sıfatlar ise: Hayat, İlim, Semi', Basar, İrade, Kudret, Kelam, Tekvin."
-    },
-    {
-      "bolum_no": 5,
-      "baslik": "Melekler",
-      "icerik": "Melekler nurdan yaratılmış, günah işlemeyen, şekilden şekle girebilen varlıklardır. Yemezler, içmezler, uyumazlar. Dört büyük melek: Cebrail (vahiy getirir), Mikail (doğa olaylarını yönetir), İsrafil (Sûr'a üfler), Azrael (can alır). Her insanın yanında hafaza melekleri bulunur."
-    },
-    {
-      "bolum_no": 6,
-      "baslik": "Peygamberler",
-      "icerik": "Peygamberler, Allah'ın insanlara elçi olarak gönderdiği seçkin kullardır. İlk peygamber Hz. Adem, son peygamber Hz. Muhammed'dir. Kur'an'da 25 peygamberin adı geçmektedir. Peygamberlerin dört temel özelliği vardır: Sıdk (doğruluk), Emanet (güvenilirlik), Fetanet (zeka), İsmet (günahsızlık)."
-    },
-    {
-      "bolum_no": 7,
-      "baslik": "Kutsal Kitaplar",
-      "icerik": "Allah dört büyük kitap göndermiştir: Tevrat (Hz. Musa'ya), Zebur (Hz. Davud'a), İncil (Hz. İsa'ya), Kur'an-ı Kerim (Hz. Muhammed'e). Bunların yanı sıra sahifeler de gönderilmiştir. Kur'an, diğer kitapların tasdikçisi ve son ilahi mesajdır. Kıyamete kadar korunacağı Allah tarafından garanti altına alınmıştır."
-    },
-    {
-      "bolum_no": 8,
-      "baslik": "Ahiret İnancı",
-      "icerik": "Ahiret, bu dünyanın bitmesinin ardından başlayan sonsuz hayattır. Ölümden sonra sırasıyla şunlar yaşanır: Kabir hayatı, Kıyamet, Haşr (yeniden diriliş), Mahşer (toplanma yeri), Mizan (amel terazisi), Sırat köprüsü, Cennet veya Cehennem. Müminler cennette Allah'ın rızasına ererler."
-    },
-    {
-      "bolum_no": 9,
-      "baslik": "Kader ve Kaza",
-      "icerik": "Kader, Allah'ın ezelden beri her şeyi bilmesi ve takdir etmesidir. Kaza ise bu takdirin vaktinde gerçekleşmesidir. Kadere iman, insanı tembelliğe sürüklemez; aksine tevekkülü öğretir. İnsan kendi iradesini kullanır, Allah da bu iradeye göre yaratır. Başa gelen musibetler sabırla karşılanmalıdır."
-    },
-    {
-      "bolum_no": 10,
-      "baslik": "Helal ve Haram",
-      "icerik": "Helal, dinen yapılmasına izin verilen şeylerdir. Haram ise kesinlikle yasak olanlardır. Temel haramlar: domuz eti, içki, zina, faiz, hırsızlık, yalan, gıybet, iftira. Helal kazanç, helal yiyecek ve helal ilişkiler Müslümanın temel hedefidir. Şüpheli şeylerden de uzak durmak takvadır."
-    },
-    {
-      "bolum_no": 11,
-      "baslik": "Taharet - Temizlik",
-      "icerik": "İslam'da temizlik imanın yarısıdır. Hades temizliği: küçük hades (abdest bozulması) abdest alınarak, büyük hades (gusül gerektiren durumlar) gusül abdesti alınarak giderilir. Necaset temizliği ise beden, elbise ve mekan temizliğini kapsar. Teyemmüm ise su bulunmadığında veya kullanılamadığında toprağa vurularak yapılır."
-    },
-    {
-      "bolum_no": 12,
-      "baslik": "Oruç",
-      "icerik": "Oruç, Ramazan ayında fecrin doğuşundan güneşin batışına kadar yemek, içmek ve cinsel ilişkiden uzak durmaktır. Orucun farz olması için Müslüman, akıllı, ergin ve sağlıklı olmak gerekir. Hasta, yolcu, hamile ve emziren kadınlar oruçlarını sonradan kaza edebilirler. Ramazan orucunun fidyesi her gün için bir fakir doyurmaktır."
-    },
-    {
-      "bolum_no": 13,
-      "baslik": "Zekât",
-      "icerik": "Zekât, belirli miktarda mala sahip olan Müslümanların, mallarının kırkta birini her yıl ihtiyaç sahiplerine vermesidir. Nisap miktarı altın için 80.18 gram, gümüş için 561 gramdır. Zekât; fakirlere, yoksullara, zekât toplayıcılarına, kalpleri ısındırılacaklara, kölelere, borçlulara, Allah yolundakilere ve yolda kalanlara verilir."
-    },
-    {
-      "bolum_no": 14,
-      "baslik": "Hac",
-      "icerik": "Hac, maddi ve bedeni gücü yeten her Müslümanın ömründe bir kez Mekke'ye gidip belirli ibadetleri yapmasıdır. Hac mevsimi Zilhicce ayının 8-13. günleridir. Haccın farzları: İhrama girmek, Arafat'ta vakfe yapmak ve Kâbe'yi tavaf etmek. Hac, günahları siler ve insanı yeniden doğmuş gibi arındırır."
-    },
-    {
-      "bolum_no": 15,
-      "baslik": "Aile ve Nikah",
-      "icerik": "İslam'da evlilik, toplumun temelidir. Nikah, dini açıdan geçerli bir evlilik akdidir. Nikahta evlenecek olan erkek ve kadın ile iki şahit ve veli bulunması gerekir. Mehir, erkeğin kadına vermesi gereken bir haktır. İslam'da dört eşe kadar evlenmek mubah olmakla birlikte adalet şartı aranır."
-    }
-  ]
-}
-  {"id":4,"ad":"40 Hadis","aciklama":"Hz. Peygamberin 40 hadisi","kategori":"Hadis","sayfa_sayisi":60},
-  {"id":5,"ad":"Risale-i Nur Seçmeleri","aciklama":"Said Nursi'den seçme parçalar","kategori":"Risale","sayfa_sayisi":200},
-  {"id":6,"ad":"Peygamberler Tarihi","aciklama":"Hz. Adem'den Hz. Muhammed'e tüm peygamberler","kategori":"Tarih","sayfa_sayisi":180},
-  {"id":7,"ad":"Dua Kitabı","aciklama":"Günlük hayat duaları ve anlamları","kategori":"Dua","sayfa_sayisi":90},
-  {"id":8,"ad":"İslam Ahlakı","aciklama":"Güzel ahlak ve davranış rehberi","kategori":"Ahlak","sayfa_sayisi":110},
-  {"id":9,"ad":"Fıkıh Soruları","aciklama":"Günlük hayatta sık sorulan fıkhi sorular","kategori":"İlmihal","sayfa_sayisi":150},
-  {"id":10,"ad":"Siyer-i Nebi","aciklama":"Hz. Muhammed'in hayatı","kategori":"Tarih","sayfa_sayisi":220},
-  {"id":11,"ad":"Tecvid Dersleri","aciklama":"Kur'an okuma kuralları","kategori":"Eğitim","sayfa_sayisi":70},
-  {"id":12,"ad":"Esmaül Hüsna Şerhi","aciklama":"Allah'ın 99 isminin açıklaması","kategori":"Tefsir","sayfa_sayisi":130},
-  {"id":13,"ad":"Ramazan Rehberi","aciklama":"Ramazan ayı ibadetleri ve duaları","kategori":"İbadet","sayfa_sayisi":60},
-  {"id":14,"ad":"Kelime-i Tevhid","aciklama":"İmanın temeli ve açıklaması","kategori":"Ahlak","sayfa_sayisi":45},
-  {"id":15,"ad":"Çocuklar İçin İslam","aciklama":"Çocuklara yönelik temel İslam bilgisi","kategori":"Eğitim","sayfa_sayisi":55}
+    "id": 3,
+    "ad": "Kısa İlmihal",
+    "aciklama": "Temel İslam bilgileri",
+    "kategori": "İlmihal",
+    "sayfa_sayisi": 120,
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "İman ve İslam",
+        "icerik": "İman, Allah'ın varlığına ve birliğine, Hz. Muhammed'in peygamberliğine ve İslam'ın temel esaslarına kalp ile inanıp dil ile ikrar etmektir. İslam ise bu inanç doğrultusunda yaşamaktır. İman ile İslam birbirini tamamlar. Kelime-i Şehadet getiren kişi İslam'a girmiş sayılır."
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "İmanın Şartları",
+        "icerik": "İmanın altı şartı vardır: 1) Allah'a iman: Allah'ın var olduğuna, bir olduğuna ve hiçbir şeye ihtiyacı olmadığına inanmak. 2) Meleklere iman: Nurdan yaratılan, günah işlemeyen ve Allah'a ibadet eden varlıklara inanmak. 3) Kitaplara iman: Allah tarafından peygamberlere gönderilen kutsal kitaplara inanmak. 4) Peygamberlere iman: Hz. Adem'den Hz. Muhammed'e kadar tüm peygamberlere inanmak. 5) Ahiret gününe iman: Ölümden sonra dirilişe, hesaba ve cennete ya da cehenneme inanmak. 6) Kadere iman: Her şeyin Allah'ın ilmi ve iradesiyle olduğuna inanmak."
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "İslam'ın Şartları",
+        "icerik": "İslam'ın beş şartı vardır: 1) Kelime-i Şehadet: 'Eşhedü en lâ ilâhe illallah ve eşhedü enne Muhammeden abdühü ve rasûlüh' demek. 2) Namaz: Günde beş vakit namaz kılmak. 3) Oruç: Ramazan ayında oruç tutmak. 4) Zekât: Nisap miktarına ulaşan malın kırkta birini ihtiyaç sahiplerine vermek. 5) Hac: Gücü yetenin ömründe bir kez Mekke'ye gidip hac ibadetini yapmak."
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "Allah'ın Sıfatları",
+        "icerik": "Allah'ın zatına ait sıfatlar şunlardır: Vücud (var olma), Kıdem (ezeli olma), Beka (ebedi olma), Vahdaniyet (bir olma), Muhalefetün lil-havadis (yaratıklara benzememek), Kıyam bi-nefsihî (varlığı için hiçbir şeye muhtaç olmamak). Subuti sıfatlar ise: Hayat, İlim, Semi', Basar, İrade, Kudret, Kelam, Tekvin."
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Melekler",
+        "icerik": "Melekler nurdan yaratılmış, günah işlemeyen, şekilden şekle girebilen varlıklardır. Yemezler, içmezler, uyumazlar. Dört büyük melek: Cebrail (vahiy getirir), Mikail (doğa olaylarını yönetir), İsrafil (Sûr'a üfler), Azrael (can alır). Her insanın yanında hafaza melekleri bulunur."
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Peygamberler",
+        "icerik": "Peygamberler, Allah'ın insanlara elçi olarak gönderdiği seçkin kullardır. İlk peygamber Hz. Adem, son peygamber Hz. Muhammed'dir. Kur'an'da 25 peygamberin adı geçmektedir. Peygamberlerin dört temel özelliği vardır: Sıdk (doğruluk), Emanet (güvenilirlik), Fetanet (zeka), İsmet (günahsızlık)."
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Kutsal Kitaplar",
+        "icerik": "Allah dört büyük kitap göndermiştir: Tevrat (Hz. Musa'ya), Zebur (Hz. Davud'a), İncil (Hz. İsa'ya), Kur'an-ı Kerim (Hz. Muhammed'e). Bunların yanı sıra sahifeler de gönderilmiştir. Kur'an, diğer kitapların tasdikçisi ve son ilahi mesajdır. Kıyamete kadar korunacağı Allah tarafından garanti altına alınmıştır."
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Ahiret İnancı",
+        "icerik": "Ahiret, bu dünyanın bitmesinin ardından başlayan sonsuz hayattır. Ölümden sonra sırasıyla şunlar yaşanır: Kabir hayatı, Kıyamet, Haşr (yeniden diriliş), Mahşer (toplanma yeri), Mizan (amel terazisi), Sırat köprüsü, Cennet veya Cehennem. Müminler cennette Allah'ın rızasına ererler."
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "Kader ve Kaza",
+        "icerik": "Kader, Allah'ın ezelden beri her şeyi bilmesi ve takdir etmesidir. Kaza ise bu takdirin vaktinde gerçekleşmesidir. Kadere iman, insanı tembelliğe sürüklemez; aksine tevekkülü öğretir. İnsan kendi iradesini kullanır, Allah da bu iradeye göre yaratır. Başa gelen musibetler sabırla karşılanmalıdır."
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Helal ve Haram",
+        "icerik": "Helal, dinen yapılmasına izin verilen şeylerdir. Haram ise kesinlikle yasak olanlardır. Temel haramlar: domuz eti, içki, zina, faiz, hırsızlık, yalan, gıybet, iftira. Helal kazanç, helal yiyecek ve helal ilişkiler Müslümanın temel hedefidir. Şüpheli şeylerden de uzak durmak takvadır."
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Taharet - Temizlik",
+        "icerik": "İslam'da temizlik imanın yarısıdır. Hades temizliği: küçük hades (abdest bozulması) abdest alınarak, büyük hades (gusül gerektiren durumlar) gusül abdesti alınarak giderilir. Necaset temizliği ise beden, elbise ve mekan temizliğini kapsar. Teyemmüm ise su bulunmadığında veya kullanılamadığında toprağa vurularak yapılır."
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Oruç",
+        "icerik": "Oruç, Ramazan ayında fecrin doğuşundan güneşin batışına kadar yemek, içmek ve cinsel ilişkiden uzak durmaktır. Orucun farz olması için Müslüman, akıllı, ergin ve sağlıklı olmak gerekir. Hasta, yolcu, hamile ve emziren kadınlar oruçlarını sonradan kaza edebilirler. Ramazan orucunun fidyesi her gün için bir fakir doyurmaktır."
+      },
+      {
+        "bolum_no": 13,
+        "baslik": "Zekât",
+        "icerik": "Zekât, belirli miktarda mala sahip olan Müslümanların, mallarının kırkta birini her yıl ihtiyaç sahiplerine vermesidir. Nisap miktarı altın için 80.18 gram, gümüş için 561 gramdır. Zekât; fakirlere, yoksullara, zekât toplayıcılarına, kalpleri ısındırılacaklara, kölelere, borçlulara, Allah yolundakilere ve yolda kalanlara verilir."
+      },
+      {
+        "bolum_no": 14,
+        "baslik": "Hac",
+        "icerik": "Hac, maddi ve bedeni gücü yeten her Müslümanın ömründe bir kez Mekke'ye gidip belirli ibadetleri yapmasıdır. Hac mevsimi Zilhicce ayının 8-13. günleridir. Haccın farzları: İhrama girmek, Arafat'ta vakfe yapmak ve Kâbe'yi tavaf etmek. Hac, günahları siler ve insanı yeniden doğmuş gibi arındırır."
+      },
+      {
+        "bolum_no": 15,
+        "baslik": "Aile ve Nikah",
+        "icerik": "İslam'da evlilik, toplumun temelidir. Nikah, dini açıdan geçerli bir evlilik akdidir. Nikahta evlenecek olan erkek ve kadın ile iki şahit ve veli bulunması gerekir. Mehir, erkeğin kadına vermesi gereken bir haktır. İslam'da dört eşe kadar evlenmek mubah olmakla birlikte adalet şartı aranır."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ad": "40 Hadis",
+    "aciklama": "Hz. Peygamberin 40 hadisi",
+    "kategori": "Hadis",
+    "sayfa_sayisi": 60,
+    "bolumler": []
+  },
+  {
+    "id": 5,
+    "ad": "Risale-i Nur Seçmeleri",
+    "aciklama": "Said Nursi'den seçme parçalar",
+    "kategori": "Risale",
+    "sayfa_sayisi": 200,
+    "bolumler": []
+  },
+  {
+    "id": 6,
+    "ad": "Peygamberler Tarihi",
+    "aciklama": "Hz. Adem'den Hz. Muhammed'e tüm peygamberler",
+    "kategori": "Tarih",
+    "sayfa_sayisi": 180,
+    "bolumler": []
+  },
+  {
+    "id": 7,
+    "ad": "Dua Kitabı",
+    "aciklama": "Günlük hayat duaları ve anlamları",
+    "kategori": "Dua",
+    "sayfa_sayisi": 90,
+    "bolumler": []
+  },
+  {
+    "id": 8,
+    "ad": "İslam Ahlakı",
+    "aciklama": "Güzel ahlak ve davranış rehberi",
+    "kategori": "Ahlak",
+    "sayfa_sayisi": 110,
+    "bolumler": []
+  },
+  {
+    "id": 9,
+    "ad": "Fıkıh Soruları",
+    "aciklama": "Günlük hayatta sık sorulan fıkhi sorular",
+    "kategori": "İlmihal",
+    "sayfa_sayisi": 150,
+    "bolumler": []
+  },
+  {
+    "id": 10,
+    "ad": "Siyer-i Nebi",
+    "aciklama": "Hz. Muhammed'in hayatı",
+    "kategori": "Tarih",
+    "sayfa_sayisi": 220,
+    "bolumler": []
+  },
+  {
+    "id": 11,
+    "ad": "Tecvid Dersleri",
+    "aciklama": "Kur'an okuma kuralları",
+    "kategori": "Eğitim",
+    "sayfa_sayisi": 70,
+    "bolumler": []
+  },
+  {
+    "id": 12,
+    "ad": "Esmaül Hüsna Şerhi",
+    "aciklama": "Allah'ın 99 isminin açıklaması",
+    "kategori": "Tefsir",
+    "sayfa_sayisi": 130,
+    "bolumler": []
+  },
+  {
+    "id": 13,
+    "ad": "Ramazan Rehberi",
+    "aciklama": "Ramazan ayı ibadetleri ve duaları",
+    "kategori": "İbadet",
+    "sayfa_sayisi": 60,
+    "bolumler": []
+  },
+  {
+    "id": 14,
+    "ad": "Kelime-i Tevhid",
+    "aciklama": "İmanın temeli ve açıklaması",
+    "kategori": "Ahlak",
+    "sayfa_sayisi": 45,
+    "bolumler": []
+  },
+  {
+    "id": 15,
+    "ad": "Çocuklar İçin İslam",
+    "aciklama": "Çocuklara yönelik temel İslam bilgisi",
+    "kategori": "Eğitim",
+    "sayfa_sayisi": 55,
+    "bolumler": []
+  }
 ]
