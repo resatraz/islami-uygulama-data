@@ -327,7 +327,208 @@
     "aciklama": "Hz. Peygamberin 40 hadisi",
     "kategori": "Hadis",
     "sayfa_sayisi": 60,
-    "bolumler": []
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "Besmele",
+        "icerik": "بِسْمِ اللّٰهِ الرَّحْمَانِ الرَّحِيمِ مِفْتَاحُ كُلِّ كِتَابٍ\n\n\"Bütün semâvî kitâbların anahtarı, Besmele-i Şerîfe'dir.\" (Câmi'u's-sağîr)"
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "Hamdele",
+        "icerik": "اَلْحَمْدُ عَلٰي النِّعْمَةِ أَمَانٌ لِزَوَالِهِ\n\n\"Cenâb-ı Hakk'ın ni'metlerine şükür, o ni'metin zevâline emândır.\" (Deylemî)"
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "Salvele",
+        "icerik": "اِنَّ اَوْلَي النَّاسِ بِي اَكْثَرُهُمْ عَلَيَّ صَلاَةً\n\n\"Sizden bana en yakın olan kimse, bana çokça salevât getirendir.\" (Câmi'u's-sağîr)"
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "İman ve Amel",
+        "icerik": "لاَيَقْبَلُ اللّٰهُ اِيمَانًا بِلاَعَمَلٍ وَلاَعَمَلاً بِلاَاِيمَانٍ\n\n\"Cenâb-ı Allah amelsiz îmânı ve îmânsız da ameli kabûl buyurmaz.\" (Menâvî)"
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Niyet",
+        "icerik": "اِنَّمَا الْأَعْمَالُ بِالنِّيّٰاتِ\n\n\"Ameller niyetlere göredir.\" (Menâvi)"
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Sevgi",
+        "icerik": "اَلْمَرْءُ مَعَ مَنْ اَحَبَّ\n\n\"Kişi sevdiği ile beraberdir.\" (Buhârî, Müslim)"
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Âhiret Niyeti",
+        "icerik": "اِنَّ اللّٰهَ تَعَالٰي يُعْطِي الدُّنْيَا عَلٰي نِيَّةِ الْاٰخِرَةِ\n\n\"Âhiret saâdeti için çalışanlara Cenâb-ı Hakk dünya saâdetini de ihsân buyurur.\" (Deylemî)"
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Güzel Niyet",
+        "icerik": "اَلنِّيَّةُ الْحَسَنَةُ تُدْخِلُ صَاحِبَهَا الْجَنَّةَ\n\n\"Cenâb-ı Hakk'ın rızâsını kazanmak için beslenen güzel niyet, sâhibini cennete dâhil eder.\" (Deylemî)"
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "İhlâs",
+        "icerik": "أَخْلَصْ دِينَكَ يَكْفِيكَ الْعَمَلُ الْقَلِيلُ\n\n\"İbâdetini riyâ, garaz ve ivazdan hâlis et. Bu halde az bir amel senin için kâfîdir.\" (Münâvî)"
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Lisan ve Kalb",
+        "icerik": "لاَيُؤْمِنُ عَبْدٌ حَتّٰي يَكُونَ قَلْبُهُ وَلِسَانُهُ سَوَاءً\n\n\"Lisan ile kalb bir olmadıkça hiçbir kul, mü'min-i kâmil olmaz.\" (Kenzü'l İrfân)"
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Evlilik",
+        "icerik": "تَزَوَّجُوا فَاِنِّي اُبَاهِي بِكُمُ الْاُمَمَ\n\n\"Evlenin çünkü ben diğer ümmetlere karşı sizin çokluğunuzla iftihar edeceğim.\" (Buhârî, Müslim)"
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Yetim Himayesi",
+        "icerik": "أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هٰكَذَا\n\n\"Yetimi himâye eden cennette şöylece benimle beraberdir.\" (Buhârî)"
+      },
+      {
+        "bolum_no": 13,
+        "baslik": "Helâl Kazanç",
+        "icerik": "طَلَبُ الْحَلاَلِ جِهَادٌ\n\n\"Helâlinden kazanmak hak yolunda yapılan muhârebe kadar ecirlidir.\" (Deylemî)"
+      },
+      {
+        "bolum_no": 14,
+        "baslik": "Güzel Ahlâk",
+        "icerik": "أَفْضَلُ الْمُؤْمِنِينَ اَحْسَنُهُمْ خُلُقًا\n\n\"Mü'minin en fazîletlisi, ahlâkı en güzel olanıdır.\" (Buhârî)"
+      },
+      {
+        "bolum_no": 15,
+        "baslik": "İlim",
+        "icerik": "قَيِّدُوا الْعِلْمَ بِالْكِتَابَةِ\n\n\"İlmi kitâbetle; yani yazarak bağlayın.\" (Tirmizî)"
+      },
+      {
+        "bolum_no": 16,
+        "baslik": "Hayra Delâlet",
+        "icerik": "مَنْ دَلَّ عَلٰي خَيْرٍ فَلَهُ أَجْرُ فَاعِلِهِ\n\n\"Kim bir hayra delâlet ederse onu işleyen gibi ecir alır.\" (Beyhakî)"
+      },
+      {
+        "bolum_no": 17,
+        "baslik": "Tevekkül",
+        "icerik": "قَيِّدْ وَتَوَكَّلْ\n\n\"Deveni bağla, ondan sonra Allah'a tevekkül et.\" (Tirmizî)"
+      },
+      {
+        "bolum_no": 18,
+        "baslik": "Peygamberin Gönderilişi",
+        "icerik": "بُعِثْتُ لِاُتَمِّمَ مَكَارِمَ الْاَخْلاَقِ\n\n\"Ben güzel ahlâkı tamamlamak üzere peygamber gönderildim.\" (Buhârî, Müslim)"
+      },
+      {
+        "bolum_no": 19,
+        "baslik": "Kanaat",
+        "icerik": "لَيْسَ الْغِنٰي عَنْ كَثْرَةِ الْعَرَضِ وَلٰكِنَّ الْغِنٰي غَنِيَ النَّفْسِ\n\n\"Zenginlik arâzî ve mal çokluğundan ibâret değildir. Asıl zenginlik kalp zenginliği yani kanaattir.\" (Müslim)"
+      },
+      {
+        "bolum_no": 20,
+        "baslik": "İtidal",
+        "icerik": "خَيْرُ الْأُمُورِ اَوْسَاطُهَا\n\n\"İşlerin hayırlısı ortalarıdır. Yani aşırılıktan uzak, orta olandır.\" (Beyhakî)"
+      },
+      {
+        "bolum_no": 21,
+        "baslik": "İsraf",
+        "icerik": "اِنَّ مِنَ السَّرَفِ اَنْ تَأْكُلَ كُلَّ مَآاِشْتَحَيْتَ\n\n\"Canın her istediğini yemek de israf cümlesindendir.\" (Ebû Dâvud)"
+      },
+      {
+        "bolum_no": 22,
+        "baslik": "Uzun Ömür",
+        "icerik": "طُوبٰي لِمَنْ طَالَ عُمْرُهُ وَحَسُنَ عَمَلُهُ\n\n\"Ömrü uzun ve ameli güzel olan kimseye ne mutlu!\" (Taberânî)"
+      },
+      {
+        "bolum_no": 23,
+        "baslik": "Devamlı Amel",
+        "icerik": "أَحَبُّ الْاَعْمَالِ اِلٰي اللّٰهِ اَدْوَمُهَا وَاِنْ قَلَّ\n\n\"Amellerin Allah'a en sevgilisi, az da olsa devamlı olanıdır.\" (Buhârî)"
+      },
+      {
+        "bolum_no": 24,
+        "baslik": "Cuma Guslü",
+        "icerik": "اِذَا جَاءَ اَحَدَكُمْ اَلْجُمْعَةَ فَلْيَغْتَسِلْ\n\n\"Sizden herhangi biriniz Cumâ namazına gideceği zaman gusletsin.\" (Buhârî, Müslim)"
+      },
+      {
+        "bolum_no": 25,
+        "baslik": "Temizlik",
+        "icerik": "عَامَّةُ عَذَابِ الْقَبْرِ مِنَ الْبَوْلِ\n\n\"Kabir azâbının çoğu idrardan temizlenmeye ehemmiyet vermemektendir.\" (İbn Mâce, Nesaî)"
+      },
+      {
+        "bolum_no": 26,
+        "baslik": "Misvak",
+        "icerik": "اَلسِّوَاكُ شِفٰاءُ مِنْ كُلِّ دَاءٍ اِلاَّ السَّامُ\n\n\"Dişleri misvak ile temizlemek ölümden başka bütün hastalıkların mühim bir kısmına şifâdır.\" (Keşfü'l hafâ, Deylemî)"
+      },
+      {
+        "bolum_no": 27,
+        "baslik": "Temizlik ve İman",
+        "icerik": "اَلنَّظَافَةُ تَدْعُوا اِلٰي الْاِيمَانِ\n\n\"Temizliğe itinâ ve devamlılık, insanı tam bir îmâna da'vet eder.\" (Taberânî)"
+      },
+      {
+        "bolum_no": 28,
+        "baslik": "Abdest",
+        "icerik": "اِذَا تَوَضَّأَ اَحَدُكُمْ فَهُوَ فِي صَلاَةٍ مَالَمْ يُحْدِثْ\n\n\"Sizden birisi abdestli bulunmak niyetiyle abdest alırsa, abdesti bozulmadıkça namazda bulunmuş gibi ecir alır.\" (Münâvî)"
+      },
+      {
+        "bolum_no": 29,
+        "baslik": "Saflar",
+        "icerik": "اَحْسِنُوا اِقَامَةَ الصُّفُوفِ فِي الصَّلاَةِ\n\n\"Namazda safları iyi doğrultunuz, yani bir hizâda ve muntazam tutunuz.\" (Müslim)"
+      },
+      {
+        "bolum_no": 30,
+        "baslik": "Mescide Giriş",
+        "icerik": "اِذَا دَخَلَ اَحَدُكُمْ اَلْمَسْجِدَ فَلاَ يَجْلِسْ حَتّٰي يُصَلِّيَ رَكْعَتَيْنِ\n\n\"Sizden biriniz mescide girdiği zaman iki rek'at namaz kılmadıkça oturmasın.\" (Müslim)"
+      },
+      {
+        "bolum_no": 31,
+        "baslik": "Cenaze Namazı",
+        "icerik": "اَوَّلُ تُحْفَةُ الْمُؤْمِنِ اَنْ يُغْفَرَ لِمَنْ صَلّٰي عَلَيْهِ\n\n\"Mü'minin öldükten sonra verilmesine sebeb olduğu ilk hediyesi, cenâze namazını kılan kimsenin Allah katından mağfiret dilemesidir.\" (Deylemî)"
+      },
+      {
+        "bolum_no": 32,
+        "baslik": "Orucun Zekâtı",
+        "icerik": "لِكُلِّ شَيْءٍ زَكَاةٌ وَزَكَاةُ الْجَسَدِ الصَّوْمُ\n\n\"Her şeyin bir zekâtı vardır. Cesedin zekâtı da oruçtur.\" (İbn-i Mâce)"
+      },
+      {
+        "bolum_no": 33,
+        "baslik": "İtikâf",
+        "icerik": "مَنْ اِعْتَكَفَ عَشْرًا فِي رَمَضَانَ كَانَ كَحَجَّتَيْنِ وَ عُمْرَتَيْنِ\n\n\"Kim ramazanın son on gününde itikâf ederse iki hac ve iki umre sevabı alır.\" (Suyûtî)"
+      },
+      {
+        "bolum_no": 34,
+        "baslik": "Zekât",
+        "icerik": "اِذَا أَدَّيْتَ زَكَاةَ مَالِكَ فَقَدْ قَضَيْتَ مَا عَلَيْكَ\n\n\"Malının zekâtını ödediğin zaman artık üzerinde olan borcunu yerine getirmiş olursun.\" (Buhârî)"
+      },
+      {
+        "bolum_no": 35,
+        "baslik": "Sadaka",
+        "icerik": "اِذَا تَصَدَّقْتَ فَأَمْضِهَا\n\n\"Sadaka vereceğin zaman geciktirme.\" (Müsned)"
+      },
+      {
+        "bolum_no": 36,
+        "baslik": "Su Sadakası",
+        "icerik": "أَفْضَلُ الصَّدَقَةِ سَقْيُ الْمَاءِ\n\n\"Sadakaların en fazîletlisi su içirmek ve su hayrı yapmaktır.\" (Ahmed bin Hanbel)"
+      },
+      {
+        "bolum_no": 37,
+        "baslik": "Allah'ın Elçileri",
+        "icerik": "وَفْدُ اللّٰهِ ثَلاَثَةٌ: اَلْغَازِي وَالْحَاجُّ وَالْمُعْتَمِرُ\n\n\"Allah'ın elçisi üçtür: 1. Gazâ eden 2. Hacceden 3. Umre yapan.\" (Sünen-i Nesâî)"
+      },
+      {
+        "bolum_no": 38,
+        "baslik": "Cennet",
+        "icerik": "اَلْجَنَّةُ تَحْتَ ظِلاَلِ السُّيُوفِ\n\n\"Cennet gâzîlerin kullandığı kılıçların gölgesi altındadır.\" (Buhârî)"
+      },
+      {
+        "bolum_no": 39,
+        "baslik": "En Fazîletli Amel",
+        "icerik": "أَفْضَلُ اَعْمَالِ الْمُؤْمِنِينَ جِهَادٌ فِي سَبِيلِ اللّٰهِ\n\n\"Mü'minlerin amellerinin en fazîletlisi Allah yolunda savaşmaktır.\" (İbn Asâkir)"
+      },
+      {
+        "bolum_no": 40,
+        "baslik": "Harp",
+        "icerik": "اَلْحَرْبُ خُدْعَةٌ\n\n\"Harb bir hud'adır (hiledir).\" (Müslim)"
+      }
+    ]
   },
   {
     "id": 5,
