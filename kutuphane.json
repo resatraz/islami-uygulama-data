@@ -605,7 +605,133 @@
     "aciklama": "Hz. Adem'den Hz. Muhammed'e tüm peygamberler",
     "kategori": "Tarih",
     "sayfa_sayisi": 180,
-    "bolumler": []
+    "bolumler": [
+      {
+        "bolum_no": 1,
+        "baslik": "Hz. Âdem (a.s.)",
+        "icerik": "Hz. Âdem, Allah'ın yarattığı ilk insan ve ilk peygamberdir. Topraktan yaratılmış, Allah ona kendi ruhundan üflemiş ve meleklere secde ettirmiştir. Cennette eşi Hz. Havva ile yaşamış, yasak ağaçtan yemesi üzerine yeryüzüne indirilmiştir. Tövbe edip Allah'tan af dilemiş, tövbesi kabul edilmiştir. Yeryüzünde ilk toplumu kurmuş, çocuklarına dini öğretmiştir. Kur'an'da adı 25 yerde geçmektedir."
+      },
+      {
+        "bolum_no": 2,
+        "baslik": "Hz. İdris (a.s.)",
+        "icerik": "Hz. İdris, Kur'an'da 'sıddık ve nebî' olarak anılan peygamberdir. 'Biz onu yüce bir mekâna yükselttik' âyetiyle Allah'ın ona büyük bir derece verdiği bildirilmektedir. Rivayetlere göre ilk kalem kullanan, ilk dikiş diken ve ilk astronomiyle uğraşan kişidir. Sabırlı ve doğru sözlü olmasıyla tanınmıştır."
+      },
+      {
+        "bolum_no": 3,
+        "baslik": "Hz. Nuh (a.s.)",
+        "icerik": "Hz. Nuh, kavmine 950 yıl boyunca Allah'ın birliğini tebliğ etmiştir. Kavmi inanmayınca Allah ona gemi yapmasını emretmiş, büyük tufan gerçekleşmiştir. Her canlıdan birer çift gemiyle kurtarılmış, inkârcılar helâk olmuştur. Oğlu Kenan inanmayıp boğulmuştur. Hz. Nuh'un sabrı ve Allah'a tevekkülü Kur'an'da örnek gösterilmektedir. Kendisine Ulü'l-Azm peygamberler arasında yer verilmiştir."
+      },
+      {
+        "bolum_no": 4,
+        "baslik": "Hz. Hud (a.s.)",
+        "icerik": "Hz. Hud, Arabistan'ın güneyinde yaşayan Âd kavmine gönderilmiştir. Âd kavmi güçlü ve müreffeh bir toplumdu; ancak putlara tapıyor ve zulüm yapıyorlardı. Hz. Hud onları tevhide davet etmiş, kavmi onu yalanlamıştır. Allah, inkârcı Âd kavmini şiddetli bir rüzgar azabıyla helâk etmiş, Hz. Hud ve beraberindeki müminleri kurtarmıştır."
+      },
+      {
+        "bolum_no": 5,
+        "baslik": "Hz. Salih (a.s.)",
+        "icerik": "Hz. Salih, kayalara ev yapan Semud kavmine gönderilmiştir. Mucize olarak Allah'tan bir dişi deve istenmesini sağlamış, Allah bu deveyi vermiştir. Kavmine deveye dokunmamaları emredilmiş, ancak onlar deveyi kesivermiştir. Bunun üzerine Semud kavmi üç gün sonra korkunç bir sesle helâk edilmiştir. Hz. Salih ve iman edenler kurtulmuştur."
+      },
+      {
+        "bolum_no": 6,
+        "baslik": "Hz. İbrahim (a.s.)",
+        "icerik": "Hz. İbrahim, putperest bir toplumda yetişmiş, aklıyla ve kalbiyle Allah'ı bulmuştur. Babasının ve kavminin putlarını kırmış, ateşe atılmış ancak Allah ateşi ona serin ve selâmet kılmıştır. Oğlu Hz. İsmail'i kurban etmeye karar verdiğinde, Allah onu imtihandan geçirmiş ve büyük bir kurbanlık göndermiştir. Hz. İsmail ile birlikte Kâbe'yi inşa etmiştir. 'Halilullah' (Allah'ın dostu) unvanıyla anılmaktadır. Ulü'l-Azm peygamberlerdendir."
+      },
+      {
+        "bolum_no": 7,
+        "baslik": "Hz. Lut (a.s.)",
+        "icerik": "Hz. Lut, Hz. İbrahim'in yeğenidir ve Sodom halkına peygamber olarak gönderilmiştir. Kavmi, tarihte görülmemiş ahlâksızlıklar içindeydi. Hz. Lut yıllarca onları uyarmış, ancak kavmi dinlememiştir. Allah melekleri insan kılığında göndermiş, Hz. Lut ve kızları kurtarılmış, inkârcı şehir alt üst edilerek helâk edilmiştir. Hz. Lut'un karısı da inkârcılarla birlikte helâk olmuştur."
+      },
+      {
+        "bolum_no": 8,
+        "baslik": "Hz. İsmail (a.s.)",
+        "icerik": "Hz. İsmail, Hz. İbrahim'in oğludur. Küçük yaşta annesi Hacer ile Mekke çölüne bırakılmış, zemzem suyu mucizesiyle hayatta kalmışlardır. Babası Hz. İbrahim ile birlikte Kâbe'yi inşa etmiştir. Kurban edilmek üzere yatırıldığında tam bir teslimiyetle razı olmuş, Allah onu bu imtihandan kurtarmıştır. Arab kabilelerinin atası sayılmakta olup Hz. Muhammed (s.a.v.) onun soyundan gelmektedir."
+      },
+      {
+        "bolum_no": 9,
+        "baslik": "Hz. İshak (a.s.)",
+        "icerik": "Hz. İshak, Hz. İbrahim ve Hz. Sare'nin oğludur. Yaşlı anne babasına müjdelenmiş, bu haber onları şaşırtmıştır. İsrailoğullarının atasıdır. Kur'an'da salih, hayırlı ve bereketli biri olarak tanıtılmaktadır. Hz. Yakup'un babasıdır. Allah'ın Hz. İbrahim'e verdiği nimetlerin devamı olarak Hz. İshak'ı gönderdiği bildirilmektedir."
+      },
+      {
+        "bolum_no": 10,
+        "baslik": "Hz. Yakup (a.s.)",
+        "icerik": "Hz. Yakup, Hz. İshak'ın oğludur ve İsrail adıyla da bilinmektedir. On iki oğlu olup bunlar İsrailoğullarının on iki kolunun atasıdır. Oğlu Hz. Yusuf'un yıllar sonra Mısır'da hayatta olduğunu öğrendiğinde gözleri açılmıştır. Kur'an'da sabır ve tevekkülü ile övülmektedir. Oğlu Yusuf'a olan sevgisi ve ayrılık acısını sabırla taşıması ibret verici bir örnek olarak anlatılmaktadır."
+      },
+      {
+        "bolum_no": 11,
+        "baslik": "Hz. Yusuf (a.s.)",
+        "icerik": "Hz. Yusuf'un kıssası Kur'an'da 'kıssaların en güzeli' olarak nitelendirilmektedir. Kardeşleri tarafından kuyuya atılmış, Mısır'a köle olarak satılmış, yıllar hapis yatmış; ancak tüm sıkıntılara sabretmiştir. Allah onu rüya tabiriyle donatan ve güzel ahlâkıyla donanmış bir peygamber yapmıştır. En sonunda Mısır'ın hazinelerine yönetici olmuş, kardeşlerini ve babasını affetmiştir. Sabrın ve iffetinin zaferidir."
+      },
+      {
+        "bolum_no": 12,
+        "baslik": "Hz. Eyyub (a.s.)",
+        "icerik": "Hz. Eyyub, sabrın sembolü olan peygamberdir. Yıllarca ağır hastalık ve sıkıntılara maruz kalmış, malını, çocuklarını ve sağlığını yitirmiştir. Buna rağmen Allah'a şikâyet etmemiş, sabrını korumuştur. 'Bana zarar dokundu, sen merhametlilerin en merhametlisisin' diye dua etmiş, Allah duasını kabul ederek onu iyileştirmiş ve her şeyini geri vermiştir. Sabreden kulların örneğidir."
+      },
+      {
+        "bolum_no": 13,
+        "baslik": "Hz. Şuayb (a.s.)",
+        "icerik": "Hz. Şuayb, Medyen halkına ve Eyke ashabına gönderilmiştir. Kavmi ticaret ahlâkını bozmuş, ölçü ve tartıda hile yapıyordu. Hz. Şuayb onları doğru ölçüp tartmaya, insanların haklarını yemeye son vermeye davet etmiştir. Kavmi onu dinlemeyince şiddetli bir azapla helâk edilmişlerdir. İslâm'da ticaret ahlâkının ne denli önemli olduğunun canlı örneğidir."
+      },
+      {
+        "bolum_no": 14,
+        "baslik": "Hz. Musa (a.s.)",
+        "icerik": "Hz. Musa, İsrailoğullarına gönderilen ve Firavun'a karşı mücadele eden büyük peygamberdir. Bebek iken Nil nehrine bırakılmış, Firavun'un sarayında büyümüştür. Tur Dağı'nda Allah ile konuşmuş, Tevrat kendisine indirilmiştir. Asası ile denizi yarmış, Firavun ve ordusu denizde boğulmuştur. Kırk yıl çöl de İsrailoğullarına önderlik etmiştir. Ulü'l-Azm peygamberlerdendir ve Kur'an'da en çok adı geçen peygamberdir."
+      },
+      {
+        "bolum_no": 15,
+        "baslik": "Hz. Harun (a.s.)",
+        "icerik": "Hz. Harun, Hz. Musa'nın kardeşi ve yardımcısıdır. Hz. Musa'nın isteğiyle Allah onu da peygamber yapmıştır. Hz. Musa Tur'a gittiğinde kavme önderlik etmiş, ancak Samiri'nin altın buzağısına tapan kavmi uyarmasına rağmen engelleyememiştir. Yumuşak huylu ve uzlaştırıcı kişiliğiyle tanınmaktadır. Hz. Musa'dan önce vefat etmiştir."
+      },
+      {
+        "bolum_no": 16,
+        "baslik": "Hz. Davud (a.s.)",
+        "icerik": "Hz. Davud, hem peygamber hem de hükümdardır. Golyat ile savaşında küçük bir taşla onu yenmiştir. Allah ona Zebur'u indirmiş ve demir işlemeyi öğretmiştir. Sesi çok güzeldi; dağlar ve kuşlar onunla birlikte Allah'ı tesbih ederdi. Adaletli bir hükümdar olarak yönetmiştir. Hz. Süleyman'ın babasıdır. Kur'an'da 'Ona hikmet ve güzel konuşma verdik' buyrulmaktadır."
+      },
+      {
+        "bolum_no": 17,
+        "baslik": "Hz. Süleyman (a.s.)",
+        "icerik": "Hz. Süleyman, Hz. Davud'un oğlu ve hem peygamber hem de hükümdardır. Allah ona rüzgarı, cinleri ve hayvanların dilini bilmeyi vermiştir. Karıncaların konuşmasını duymuş, Hüdhüd aracılığıyla Yemen'deki Belkıs'ın haberini almıştır. Büyük bir saltanat kurmuş, Mescid-i Aksa'yı inşa etmiştir. Zenginliğine rağmen şükürden ayrılmamıştır. Kur'an'da 'Ne güzel kul! O daima Allah'a yönelirdi' buyrulmaktadır."
+      },
+      {
+        "bolum_no": 18,
+        "baslik": "Hz. İlyas (a.s.)",
+        "icerik": "Hz. İlyas, putperest Ba'l heykeline tapan kavmine gönderilmiştir. Kavmini Allah'a davet etmiş, onları putlara tapmaktan vazgeçirmeye çalışmıştır. Kur'an'da 'Şüphesiz İlyas da gönderilen peygamberlerdendi' buyrulmaktadır. Kavminin inkârına rağmen tebliğden vazgeçmemiş, Allah katında değerli bir kul olarak anılmaktadır. 'İlyas'a selâm olsun' şeklinde Kur'an'da selâmla anılan peygamberlerdendir."
+      },
+      {
+        "bolum_no": 19,
+        "baslik": "Hz. Elyesa (a.s.)",
+        "icerik": "Hz. Elyesa, Kur'an'da Hz. İlyas ile birlikte anılan peygamberlerdendir. 'İsmail'i, Elyesa'yı, Yunus'u ve Lut'u da hatırla; hepsini âlemlere üstün kıldık' âyetiyle yâd edilmektedir. İsrailoğullarına gönderilmiş, Hz. İlyas'ın tebliğini devam ettirmiştir. Sabır ve sebatıyla tanınmakta olup Allah katında seçkin kullar arasında sayılmaktadır."
+      },
+      {
+        "bolum_no": 20,
+        "baslik": "Hz. Yunus (a.s.)",
+        "icerik": "Hz. Yunus, Ninova halkına gönderilmiş; kavmi inanmayınca izinsiz terk etmiş ve denizde balığa yutulmuştur. Balığın karnında 'Senden başka ilah yoktur, seni tenzih ederim, ben zalimlerden oldum' diyerek dua etmiş, Allah onu kurtarmıştır. Kavmi sonunda iman etmiştir. Sabırsızlık ve Allah'ın izni olmadan görevden ayrılmanın dersi bu kıssada verilmektedir. 'Zü'n-Nun' (balık sahibi) lakabıyla anılmaktadır."
+      },
+      {
+        "bolum_no": 21,
+        "baslik": "Hz. Zekeriyya (a.s.)",
+        "icerik": "Hz. Zekeriyya, Beytü'l-Makdis'te hizmet eden bir peygamberdir. Hz. Meryem'in bakımını üstlenmiştir. Çok ileri yaşında ve eşi kısır olmasına rağmen Allah'tan çocuk istemiş, duası kabul edilmiştir. 'Rabbim! Beni tek başıma bırakma, sen varislerin en hayırlısısın' duasıyla tanınmaktadır. Hz. Yahya'nın babasıdır. Kur'an'da duasına icabet edilmesinin büyük bir nimet olduğu vurgulanmaktadır."
+      },
+      {
+        "bolum_no": 22,
+        "baslik": "Hz. Yahya (a.s.)",
+        "icerik": "Hz. Yahya, Hz. Zekeriyya'nın oğludur. İleri yaşta ve kısır bir anneden dünyaya gelmiştir. Kur'an'da 'Ona çocukken hikmet verdik' buyrulmaktadır. Merhametli, temiz kalpli ve takva sahibi bir peygamberdir. Hiç günah işlememiş ve evlenmemiştir. Hz. İsa ile çağdaştır. Zalim bir hükümdarın emriyle şehit edilmiştir. Adı Kur'an'da 'Yahya' olarak geçmekte olup bu isim daha önce kimseye verilmemişti."
+      },
+      {
+        "bolum_no": 23,
+        "baslik": "Hz. İsa (a.s.)",
+        "icerik": "Hz. İsa, babasız olarak Hz. Meryem'den dünyaya gelmiştir. Beşikte konuşmuş, ölüleri diriltmiş, anadan doğma körleri iyileştirmiş ve Allah'ın izniyle çamurdan kuş şekli yapıp ona üflemiş, canlı hale getirmiştir. Kendisine İncil indirilmiştir. Yahudiler onu öldürmek istemiş, Allah onu göğe yükseltmiştir. Kur'an'da 'Allah'ın kulu ve resulü, Meryem'e ilka ettiği kelimesi ve Allah'tan bir ruh' olarak tanımlanmaktadır. Ulü'l-Azm peygamberlerdendir."
+      },
+      {
+        "bolum_no": 24,
+        "baslik": "Hz. Zülkifl (a.s.)",
+        "icerik": "Hz. Zülkifl, Kur'an'da Hz. İsmail ve Hz. İdris ile birlikte anılan peygamberlerdendir. Sabırlı olduğu için övülmektedir. Kur'an'da 'Hepsini sabredenlerden kıldık ve onları rahmetimize dahil ettik. Çünkü onlar salih kimselerdendi' buyrulmaktadır. İsrailoğullarına gönderildiği rivayet edilmektedir. Üstlendiği sorumluluğu eksiksiz yerine getirmesiyle tanınmaktadır."
+      },
+      {
+        "bolum_no": 25,
+        "baslik": "Hz. Muhammed (s.a.v.)",
+        "icerik": "Hz. Muhammed, peygamberlerin sonuncusu ve en büyüğüdür. 571 yılında Mekke'de doğmuş, 40 yaşında peygamberlikle görevlendirilmiştir. 23 yıl boyunca Kur'an-ı Kerim kendisine vahyedilmiştir. Mekke'de 13 yıl tebliğ etmiş, Medine'ye hicret etmiş, orada İslâm devletini kurmuştur. Mekke'yi fethederek putları yıkmıştır. 63 yaşında vefat etmiştir. 'Sen ancak âlemlere rahmet olarak gönderildin' âyetiyle tüm insanlığa ve cinlere gönderildiği bildirilmektedir. Ulü'l-Azm peygamberlerin sonuncusudur."
+      }
+    ]
   },
   {
     "id": 7,
