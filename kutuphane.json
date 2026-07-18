@@ -1583,5 +1583,59 @@
       "icerik": "İslam'da aşırı yas tutmak, feryat etmek, elbiseleri yırtmak, saç başını yolmak gibi davranışlar hoş karşılanmaz. Sabırlı olmak ve Allah'ın takdirine razı olmak tavsiye edilir. Kadınların yas süresi (iddet), kocasını kaybeden bir kadın için dört ay on gündür; bu süre içinde evlilik teklifleri kabul edilmez ve süslenmekten kaçınılır. Yakınını kaybedenlere sabır ve tevekkül telkin edilir."
     }
   ]
-} 
+},
+  {
+    "id": 21,
+    "ad": "Zekât Rehberi",
+    "aciklama": "Zekâtın hükümleri, nisap miktarları ve verilecek yerler",
+    "kategori": "İbadet",
+    "sayfa_sayisi": 55,
+    "bolumler": [
+        {
+            "bolum_no": 1,
+            "baslik": "Zekât Nedir?",
+            "icerik": "Zekât, İslam'ın beş şartından biridir ve belirli bir miktara (nisap) ulaşan malın kırkta birinin (%2,5) her yıl ihtiyaç sahiplerine verilmesidir. Zekât, hem malı temizleyen hem de toplumsal dayanışmayı sağlayan bir ibadettir. Kur'an'da namazla birlikte sıkça zikredilir. Zekât vermek, zenginin malındaki fakirin hakkını ona teslim etmesi anlamına gelir; bu sebeple zekât vermeyen kişi büyük günah işlemiş olur."
+        },
+        {
+            "bolum_no": 2,
+            "baslik": "Zekâtın Farz Olma Şartları",
+            "icerik": "Zekâtın farz olması için kişinin Müslüman, hür, akıllı ve baliğ (ergin) olması; nisap miktarı mala sahip olması ve bu malın üzerinden bir kamerî yıl (hicrî yıl) geçmiş olması gerekir. Ayrıca malın 'nâmi' olması, yani artmaya elverişli olması gerekir (ticaret malı, para, hayvan gibi). Borçlu olan kişi, borcunu düştükten sonra kalan mal nisaba ulaşıyorsa zekât vermekle yükümlüdür."
+        },
+        {
+            "bolum_no": 3,
+            "baslik": "Nisap Miktarları",
+            "icerik": "Altın için nisap miktarı 80,18 gramdır. Gümüş için nisap 561 gramdır. Nakit para ve ticaret malları, günün altın veya gümüş değerine göre hesaplanır. Günümüzde genellikle gümüş nisabı esas alınır çünkü bu, fakirin lehine daha düşük bir eşiktir. Koyun ve keçi için nisap 40 baş, sığır için 30 baş, deve için 5 baş hayvandır. Bu miktarlara ulaşan ve üzerinden bir yıl geçen mallar zekâta tabidir."
+        },
+        {
+            "bolum_no": 4,
+            "baslik": "Zekâta Tabi Mallar",
+            "icerik": "Zekâta tabi mallar şunlardır: altın ve gümüş (ve bunların para karşılığı), ticaret malları, nakit para ve banka hesapları, sağmal veya besi hayvanları (koyun, keçi, sığır, deve), toprak ürünleri (öşür olarak ayrıca değerlendirilir). Kişinin ikamet ettiği ev, kullandığı araba, ev eşyaları gibi ihtiyaç maddeleri zekâta tabi değildir; bunlara 'havaic-i asliyye' denir."
+        },
+        {
+            "bolum_no": 5,
+            "baslik": "Zekât Kimlere Verilir?",
+            "icerik": "Kur'an'da (Tevbe suresi 60. ayet) zekâtın verileceği sekiz sınıf belirtilmiştir: fakirler, yoksullar (miskinler), zekât toplamakla görevli memurlar, kalpleri İslam'a ısındırılacak olanlar, köleler (kölelikten kurtulmak isteyenler), borçlular, Allah yolunda olanlar (cihad, ilim gibi hizmetler) ve yolda kalmış kimseler (gurbette imkânsız kalanlar). Zekât, bu sınıflardan birine veya birkaçına verilebilir."
+        },
+        {
+            "bolum_no": 6,
+            "baslik": "Zekât Kimlere Verilmez?",
+            "icerik": "Zekât; anne, baba, dede, nine gibi usul (üst soy) ile çocuk ve torun gibi füru' (alt soy) akrabalara verilemez, çünkü bunların nafakası zaten kişinin üzerine borçtur. Eşe de zekât verilmez. Zengin kişilere, gayrimüslimlere (bazı istisnalar dışında) ve Hz. Peygamber'in soyundan gelen seyyid ve şeriflere zekât verilmesi caiz görülmemiştir; onlara sadaka da verilmez, ancak hediye verilebilir."
+        },
+        {
+            "bolum_no": 7,
+            "baslik": "Zekâtın Hesaplanması",
+            "icerik": "Zekât hesaplanırken kişinin sahip olduğu tüm zekâta tabi mal ve nakit toplanır, varsa borçları düşülür. Kalan miktar nisabı aşıyorsa, bu miktarın %2,5'i (kırkta biri) zekât olarak verilir. Örneğin 100.000 TL değerinde zekâta tabi malı olan bir kişi, 2.500 TL zekât vermelidir. Zekât hesaplamasında, kişinin zekât verme gününü (örneğin Ramazan'ın belirli bir günü) sabit tutması ve her yıl aynı günde hesaplama yapması tavsiye edilir."
+        },
+        {
+            "bolum_no": 8,
+            "baslik": "Fitre (Fıtır Sadakası)",
+            "icerik": "Fitre, zekâttan farklı bir yükümlülüktür; temel ihtiyaç fazlası mala sahip her Müslümanın, Ramazan Bayramı'ndan önce vermesi gereken bir sadakadır. Fitre, kişinin kendisi ve bakmakla yükümlü olduğu kişiler (eş, çocuk gibi) için ayrı ayrı verilir. Miktarı, günün buğday veya un fiyatına göre dinî kurumlarca her yıl belirlenir. Fitre, Ramazan Bayramı namazından önce verilmesi sünnet olan bir sadakadır, ancak Ramazan boyunca da verilebilir."
+        },
+        {
+            "bolum_no": 9,
+            "baslik": "Zekâtın Faydaları ve Hikmetleri",
+            "icerik": "Zekât, zenginle fakir arasında bir denge kurar, toplumsal adaleti pekiştirir ve kin, haset gibi olumsuz duyguların önüne geçer. Zekât veren kişi malını temizlemiş, nefsini cimrilikten arındırmış olur. Peygamberimiz, 'Zekât vermekle mallarınızı koruma altına alın' buyurmuştur. Zekât, aynı zamanda İslam toplumunda kurumsal bir yardımlaşma ve dayanışma sistemi olarak işlev görür; fakirlerin, yolda kalmışların ve borçluların yükünü hafifletir."
+        }
+    ]
+}
 ]
