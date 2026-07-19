@@ -1,33 +1,502 @@
 [
-  {"gun": 1, "hadis": "Ameller niyetlere göredir.", "kaynak": "Buhari, Müslim"},
-  {"gun": 2, "hadis": "Müslüman, dilinden ve elinden müslümanların selamette olduğu kimsedir.", "kaynak": "Buhari"},
-  {"gun": 3, "hadis": "Kolaylaştırınız, zorlaştırmayınız.", "kaynak": "Buhari, Müslim"},
-  {"gun": 4, "hadis": "Komşusu açken tok yatan bizden değildir.", "kaynak": "Hakim"},
-  {"gun": 5, "hadis": "Güçlü kişi güreşte yenen değil, öfkesine hakim olandır.", "kaynak": "Buhari, Müslim"},
-  {"gun": 6, "hadis": "Temizlik imanın yarısıdır.", "kaynak": "Müslim"},
-  {"gun": 7, "hadis": "Cennete gidiniz, zira ben size onu emrediyorum.", "kaynak": "Müslim"},
-  {"gun": 8, "hadis": "Her biriniz çobanınızdır ve sürüsünden sorumludur.", "kaynak": "Buhari, Müslim"},
-  {"gun": 9, "hadis": "Bir kimse için, kendi nefsi için istediğini kardeşi için de istemedikçe gerçek anlamda iman etmiş olmaz.", "kaynak": "Buhari, Müslim"},
-  {"gun": 10, "hadis": "Allah'ın en çok sevdiği amel, az da olsa devamlı yapılandır.", "kaynak": "Buhari, Müslim"},
-  {"gun": 11, "hadis": "Utanmadıktan sonra dilediğini yap.", "kaynak": "Buhari"},
-  {"gun": 12, "hadis": "Dünya mümine zindan, kâfire cennettir.", "kaynak": "Müslim"},
-  {"gun": 13, "hadis": "İnsanlara teşekkür etmeyen Allah'a da şükretmez.", "kaynak": "Ebu Davud"},
-  {"gun": 14, "hadis": "Söz taşıyan cennete giremez.", "kaynak": "Buhari, Müslim"},
-  {"gun": 15, "hadis": "Yüzünle kardeşine gülmen sadakadır.", "kaynak": "Tirmizi"},
-  {"gun": 16, "hadis": "Ana-babana iyilik et ki çocukların da sana iyilik etsin.", "kaynak": "Hakim"},
-  {"gun": 17, "hadis": "İlim Çin'de de olsa alınız.", "kaynak": "Beyhaki"},
-  {"gun": 18, "hadis": "Kişi dostunun dini üzeredir.", "kaynak": "Ebu Davud, Tirmizi"},
-  {"gun": 19, "hadis": "Büyüklere saygı, küçüklere merhamet etmeyen bizden değildir.", "kaynak": "Tirmizi"},
-  {"gun": 20, "hadis": "Cömertlik Allah'ın ahlakındandır.", "kaynak": "Taberani"},
-  {"gun": 21, "hadis": "En hayırlınız Kur'an'ı öğrenen ve öğretendir.", "kaynak": "Buhari"},
-  {"gun": 22, "hadis": "Sabır imanın yarısıdır.", "kaynak": "Beyhaki"},
-  {"gun": 23, "hadis": "Merhamet etmeyene merhamet edilmez.", "kaynak": "Buhari, Müslim"},
-  {"gun": 24, "hadis": "Dini bütün, güzel ahlaklı kadın, diğer malların en hayırlısıdır.", "kaynak": "Müslim"},
-  {"gun": 25, "hadis": "Şüphe veren şeyi bırak, şüphe vermeyeni al.", "kaynak": "Tirmizi, Nesai"},
-  {"gun": 26, "hadis": "Kim Allah'a ve ahiret gününe inanıyorsa ya hayır söylesin ya da sussun.", "kaynak": "Buhari, Müslim"},
-  {"gun": 27, "hadis": "Helali haram, haramı helal saymadıkça ümmetim fıtrat üzeredir.", "kaynak": "Taberani"},
-  {"gun": 28, "hadis": "Günahından tövbe eden, hiç günah işlememiş gibidir.", "kaynak": "İbn Mace"},
-  {"gun": 29, "hadis": "Allah güzeldir, güzelliği sever.", "kaynak": "Müslim"},
-  {"gun": 30, "hadis": "Kolaylık göster, güçlük çıkarma; müjdele, nefret ettirme.", "kaynak": "Buhari, Müslim"},
-  {"gun": 31, "hadis": "Kendin için istediğini başkaları için de iste.", "kaynak": "Tirmizi"}
+  {
+    "gun": 1,
+    "hadis": "Ameller niyetlere göredir.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 2,
+    "hadis": "Müslüman, dilinden ve elinden müslümanların selamette olduğu kimsedir.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 3,
+    "hadis": "Kolaylaştırınız, zorlaştırmayınız.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 4,
+    "hadis": "Komşusu açken tok yatan bizden değildir.",
+    "kaynak": "Hakim"
+  },
+  {
+    "gun": 5,
+    "hadis": "Güçlü kişi güreşte yenen değil, öfkesine hakim olandır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 6,
+    "hadis": "Temizlik imanın yarısıdır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 7,
+    "hadis": "Cennete gidiniz, zira ben size onu emrediyorum.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 8,
+    "hadis": "Her biriniz çobanınızdır ve sürüsünden sorumludur.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 9,
+    "hadis": "Bir kimse için, kendi nefsi için istediğini kardeşi için de istemedikçe gerçek anlamda iman etmiş olmaz.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 10,
+    "hadis": "Allah'ın en çok sevdiği amel, az da olsa devamlı yapılandır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 11,
+    "hadis": "Utanmadıktan sonra dilediğini yap.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 12,
+    "hadis": "Dünya mümine zindan, kâfire cennettir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 13,
+    "hadis": "İnsanlara teşekkür etmeyen Allah'a da şükretmez.",
+    "kaynak": "Ebu Davud"
+  },
+  {
+    "gun": 14,
+    "hadis": "Söz taşıyan cennete giremez.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 15,
+    "hadis": "Yüzünle kardeşine gülmen sadakadır.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 16,
+    "hadis": "Ana-babana iyilik et ki çocukların da sana iyilik etsin.",
+    "kaynak": "Hakim"
+  },
+  {
+    "gun": 17,
+    "hadis": "İlim Çin'de de olsa alınız.",
+    "kaynak": "Beyhaki"
+  },
+  {
+    "gun": 18,
+    "hadis": "Kişi dostunun dini üzeredir.",
+    "kaynak": "Ebu Davud, Tirmizi"
+  },
+  {
+    "gun": 19,
+    "hadis": "Büyüklere saygı, küçüklere merhamet etmeyen bizden değildir.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 20,
+    "hadis": "Cömertlik Allah'ın ahlakındandır.",
+    "kaynak": "Taberani"
+  },
+  {
+    "gun": 21,
+    "hadis": "En hayırlınız Kur'an'ı öğrenen ve öğretendir.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 22,
+    "hadis": "Sabır imanın yarısıdır.",
+    "kaynak": "Beyhaki"
+  },
+  {
+    "gun": 23,
+    "hadis": "Merhamet etmeyene merhamet edilmez.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 24,
+    "hadis": "Dini bütün, güzel ahlaklı kadın, diğer malların en hayırlısıdır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 25,
+    "hadis": "Şüphe veren şeyi bırak, şüphe vermeyeni al.",
+    "kaynak": "Tirmizi, Nesai"
+  },
+  {
+    "gun": 26,
+    "hadis": "Kim Allah'a ve ahiret gününe inanıyorsa ya hayır söylesin ya da sussun.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 27,
+    "hadis": "Helali haram, haramı helal saymadıkça ümmetim fıtrat üzeredir.",
+    "kaynak": "Taberani"
+  },
+  {
+    "gun": 28,
+    "hadis": "Günahından tövbe eden, hiç günah işlememiş gibidir.",
+    "kaynak": "İbn Mace"
+  },
+  {
+    "gun": 29,
+    "hadis": "Allah güzeldir, güzelliği sever.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 30,
+    "hadis": "Kolaylık göster, güçlük çıkarma; müjdele, nefret ettirme.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 31,
+    "hadis": "Kendin için istediğini başkaları için de iste.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 32,
+    "hadis": "Mümin, bal arısı gibidir; yediği temiz, bıraktığı temizdir, konduğu dalı kırmaz.",
+    "kaynak": "Ahmed bin Hanbel"
+  },
+  {
+    "gun": 33,
+    "hadis": "Veren el, alan elden üstündür.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 34,
+    "hadis": "Zulüm, kıyamet gününde karanlıklar olacaktır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 35,
+    "hadis": "Dünyada bir garip yahut bir yolcu gibi ol.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 36,
+    "hadis": "Mümin, tek bir delikten iki defa sokulmaz (aynı hataya iki kez düşmez).",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 37,
+    "hadis": "İnsanların en hayırlısı, insanlara en faydalı olandır.",
+    "kaynak": "Taberani, Deylemi"
+  },
+  {
+    "gun": 38,
+    "hadis": "Kim bir kötülük görürse onu eliyle düzeltsin; gücü yetmezse diliyle; ona da gücü yetmezse kalbiyle buğz etsin.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 39,
+    "hadis": "Bir hayra vesile olan, onu yapan gibi sevap kazanır.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 40,
+    "hadis": "Kim Allah için tevazu gösterirse Allah onu yükseltir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 41,
+    "hadis": "Kişi, sevdiği ile beraberdir.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 42,
+    "hadis": "Mümin, mümin kardeşinin aynasıdır.",
+    "kaynak": "Ebu Davud"
+  },
+  {
+    "gun": 43,
+    "hadis": "Şaka bile olsa yalan söylemeyi terk eden kimseye cennette bir köşk verilir.",
+    "kaynak": "Ebu Davud"
+  },
+  {
+    "gun": 44,
+    "hadis": "Allah, sizin bedenlerinize ve suretlerinize değil, kalplerinize ve amellerinize bakar.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 45,
+    "hadis": "Zenginlik mal çokluğu değildir; asıl zenginlik gönül tokluğudur.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 46,
+    "hadis": "Konuklarına ikramda bulunmayan, gerçek anlamda iman etmiş olmaz.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 47,
+    "hadis": "Din, samimiyet ve nasihattir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 48,
+    "hadis": "İki nimet vardır ki insanların çoğu bunlarda aldanmıştır: Sağlık ve boş vakit.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 49,
+    "hadis": "Sadaka, malı eksiltmez.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 50,
+    "hadis": "Namaz dinin direğidir.",
+    "kaynak": "Beyhaki"
+  },
+  {
+    "gun": 51,
+    "hadis": "Allah'ın en sevdiği yerler mescitler, en sevmediği yerler ise çarşılardır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 52,
+    "hadis": "Cennet, annelerin ayakları altındadır.",
+    "kaynak": "Nesai, İbn Mace"
+  },
+  {
+    "gun": 53,
+    "hadis": "Zor işlerde sabreden, kolay işlerde şükreden mümin ne güzeldir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 54,
+    "hadis": "İyilik güzel ahlaktır, günah ise kalbini rahatsız eden ve başkalarının bilmesini istemediğin şeydir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 55,
+    "hadis": "Allah katında amellerin en sevimlisi, az da olsa devamlı yapılanıdır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 56,
+    "hadis": "Kişi, akrabalık bağlarını koparırsa cennete giremez.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 57,
+    "hadis": "Kolay olanı seçin, insanları nefret ettirmeyin.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 58,
+    "hadis": "Allah'a en sevimli amel, vaktinde kılınan namazdır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 59,
+    "hadis": "Kim bir Müslümanın dünya sıkıntılarından birini giderirse, Allah da kıyamet günü onun sıkıntılarından birini giderir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 60,
+    "hadis": "Mü'minlerin iman bakımından en olgunu, ahlakı en güzel olanıdır.",
+    "kaynak": "Ebu Davud, Tirmizi"
+  },
+  {
+    "gun": 61,
+    "hadis": "Her doğan, fıtrat üzere doğar; sonra anne babası onu Yahudi, Hristiyan veya Mecusi yapar.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 62,
+    "hadis": "Sizin en hayırlınız, ailesine karşı en hayırlı olanınızdır.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 63,
+    "hadis": "Kim Allah yolunda bir yol tutup ilim ararsa, Allah ona cennetin yolunu kolaylaştırır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 64,
+    "hadis": "Alimler, peygamberlerin varisleridir.",
+    "kaynak": "Ebu Davud, Tirmizi"
+  },
+  {
+    "gun": 65,
+    "hadis": "Bir topluluk, Allah'ın evlerinden birinde toplanıp Kur'an okur ve müzakere ederse üzerlerine sekinet iner.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 66,
+    "hadis": "Kim bana bir salevat getirirse, Allah da ona on salevat getirir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 67,
+    "hadis": "Cuma günü bir saat vardır ki, o saatte yapılan dua reddolunmaz.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 68,
+    "hadis": "Oruç, kalkandır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 69,
+    "hadis": "Ramazan ayı girdiğinde cennet kapıları açılır, cehennem kapıları kapanır ve şeytanlar zincire vurulur.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 70,
+    "hadis": "Kim Ramazan'da inanarak ve sevabını Allah'tan bekleyerek oruç tutarsa, geçmiş günahları bağışlanır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 71,
+    "hadis": "Oruçlunun iki sevinci vardır: biri iftar ettiğinde, diğeri Rabbine kavuştuğunda.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 72,
+    "hadis": "Zekât, İslam'ın köprüsüdür.",
+    "kaynak": "Beyhaki"
+  },
+  {
+    "gun": 73,
+    "hadis": "Sadaka vermek, günahı söndürür tıpkı suyun ateşi söndürdüğü gibi.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 74,
+    "hadis": "Hacca giden ve kötü söz söylemeyen, günah işlemeyen kimse, annesinden doğduğu gündeki gibi günahsız döner.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 75,
+    "hadis": "Umre, bir sonraki umreye kadar aralarında işlenen günahlara kefarettir.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 76,
+    "hadis": "Allah'ın en sevdiği ameller, az da olsa devamlı olanlarıdır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 77,
+    "hadis": "Kim güzel bir çığır açarsa, ona ve onunla amel edenlerin sevabı kadar sevap vardır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 78,
+    "hadis": "Müslüman kardeşine gülümsemen sadakadır.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 79,
+    "hadis": "Yolda insanlara eziyet veren şeyi kaldırmak imandandır.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 80,
+    "hadis": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir.",
+    "kaynak": "Tirmizi, Birr 15"
+  },
+  {
+    "gun": 81,
+    "hadis": "Allah'a ve ahiret gününe iman eden, komşusuna eziyet etmesin.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 82,
+    "hadis": "Müslümanın Müslüman üzerindeki beş hakkı vardır: selam almak, hasta ziyareti, cenazeye katılmak, davete icabet, aksırana dua etmek.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 83,
+    "hadis": "Bir Müslüman, din kardeşiyle üç günden fazla dargın kalamaz.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 84,
+    "hadis": "Allah, kolaylaştıranı sever, zorlaştırmayı sevmez.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 85,
+    "hadis": "Verdiği sözde duran, emanete riayet eden kimse mükemmel imana sahiptir.",
+    "kaynak": "Ahmed bin Hanbel"
+  },
+  {
+    "gun": 86,
+    "hadis": "İyiliği emretmek ve kötülükten sakındırmak, imanın bir parçasıdır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 87,
+    "hadis": "Allah, kulunun tövbesinden, çölde devesini kaybedip sonra bulan kimseden daha çok sevinir.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 88,
+    "hadis": "Kalpler paslanır; onun cilası zikirdir.",
+    "kaynak": "Beyhaki"
+  },
+  {
+    "gun": 89,
+    "hadis": "Allah'ı zikreden ile zikretmeyenin durumu, diri ile ölünün durumu gibidir.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 90,
+    "hadis": "Dua, ibadetin özüdür.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 91,
+    "hadis": "Müminin hali ne güzeldir: İyilik gelse şükreder, kötülük gelse sabreder; ikisi de onun için hayırdır.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 92,
+    "hadis": "Allah bir kulunu severse, onu imtihan eder.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 93,
+    "hadis": "Musibetlere sabreden, Allah katında büyük mükafat kazanır.",
+    "kaynak": "Buhari, Tirmizi"
+  },
+  {
+    "gun": 94,
+    "hadis": "Kişinin en hayırlı kazancı, kendi elinin emeğidir.",
+    "kaynak": "Ahmed bin Hanbel"
+  },
+  {
+    "gun": 95,
+    "hadis": "Ticarette doğru ve güvenilir olan tacir, peygamberler, sıddıklar ve şehitlerle beraberdir.",
+    "kaynak": "Tirmizi"
+  },
+  {
+    "gun": 96,
+    "hadis": "Alışverişte yalan yeminden sakının, çünkü o, malı satar ama bereketi giderir.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 97,
+    "hadis": "Faiz yiyen, yediren, ona şahitlik eden ve onu yazan kimseler lanetlenmiştir.",
+    "kaynak": "Müslim"
+  },
+  {
+    "gun": 98,
+    "hadis": "Ölçüyü ve tartıyı adaletle yapın.",
+    "kaynak": "Buhari"
+  },
+  {
+    "gun": 99,
+    "hadis": "Rızkını kolayca kazanmak isteyen, akrabalarını ziyaret etsin.",
+    "kaynak": "Buhari, Müslim"
+  },
+  {
+    "gun": 100,
+    "hadis": "Allah, işini sağlam ve güzel yapan kulunu sever.",
+    "kaynak": "Beyhaki"
+  }
 ]
