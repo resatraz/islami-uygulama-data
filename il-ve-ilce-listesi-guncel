@@ -1,4379 +1,4379 @@
 [
   {
-    "value": 1,
-    "text": "ADANA",
-    "districts": [
+    "id": "1",
+    "name": "ADANA",
+    "ilceler": [
       {
-        "value": 1757,
-        "text": "ALADAĞ"
+        "ilce_id": "1757",
+        "ilce": "ALADAĞ"
       },
       {
-        "value": 1219,
-        "text": "CEYHAN"
+        "ilce_id": "1219",
+        "ilce": "CEYHAN"
       },
       {
-        "value": 2033,
-        "text": "ÇUKUROVA"
+        "ilce_id": "2033",
+        "ilce": "ÇUKUROVA"
       },
       {
-        "value": 1329,
-        "text": "FEKE"
+        "ilce_id": "1329",
+        "ilce": "FEKE"
       },
       {
-        "value": 1806,
-        "text": "İMAMOĞLU"
+        "ilce_id": "1806",
+        "ilce": "İMAMOĞLU"
       },
       {
-        "value": 1437,
-        "text": "KARAİSALI"
+        "ilce_id": "1437",
+        "ilce": "KARAİSALI"
       },
       {
-        "value": 1443,
-        "text": "KARATAŞ"
+        "ilce_id": "1443",
+        "ilce": "KARATAŞ"
       },
       {
-        "value": 1486,
-        "text": "KOZAN"
+        "ilce_id": "1486",
+        "ilce": "KOZAN"
       },
       {
-        "value": 1580,
-        "text": "POZANTI"
+        "ilce_id": "1580",
+        "ilce": "POZANTI"
       },
       {
-        "value": 1588,
-        "text": "SAİMBEYLİ"
+        "ilce_id": "1588",
+        "ilce": "SAİMBEYLİ"
       },
       {
-        "value": 2032,
-        "text": "SARIÇAM"
+        "ilce_id": "2032",
+        "ilce": "SARIÇAM"
       },
       {
-        "value": 1104,
-        "text": "SEYHAN"
+        "ilce_id": "1104",
+        "ilce": "SEYHAN"
       },
       {
-        "value": 1687,
-        "text": "TUFANBEYLİ"
+        "ilce_id": "1687",
+        "ilce": "TUFANBEYLİ"
       },
       {
-        "value": 1734,
-        "text": "YUMURTALIK"
+        "ilce_id": "1734",
+        "ilce": "YUMURTALIK"
       },
       {
-        "value": 1748,
-        "text": "YÜREĞİR"
+        "ilce_id": "1748",
+        "ilce": "YÜREĞİR"
       }
     ]
   },
   {
-    "value": 2,
-    "text": "ADIYAMAN",
-    "districts": [
+    "id": "2",
+    "name": "ADIYAMAN",
+    "ilceler": [
       {
-        "value": 1182,
-        "text": "BESNİ"
+        "ilce_id": "1182",
+        "ilce": "BESNİ"
       },
       {
-        "value": 1246,
-        "text": "ÇELİKHAN"
+        "ilce_id": "1246",
+        "ilce": "ÇELİKHAN"
       },
       {
-        "value": 1347,
-        "text": "GERGER"
+        "ilce_id": "1347",
+        "ilce": "GERGER"
       },
       {
-        "value": 1354,
-        "text": "GÖLBAŞI"
+        "ilce_id": "1354",
+        "ilce": "GÖLBAŞI"
       },
       {
-        "value": 1425,
-        "text": "KAHTA"
+        "ilce_id": "1425",
+        "ilce": "KAHTA"
       },
       {
-        "value": 1105,
-        "text": "MERKEZ"
+        "ilce_id": "1105",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1592,
-        "text": "SAMSAT"
+        "ilce_id": "1592",
+        "ilce": "SAMSAT"
       },
       {
-        "value": 1985,
-        "text": "SİNCİK"
+        "ilce_id": "1985",
+        "ilce": "SİNCİK"
       },
       {
-        "value": 1989,
-        "text": "TUT"
+        "ilce_id": "1989",
+        "ilce": "TUT"
       }
     ]
   },
   {
-    "value": 3,
-    "text": "AFYONKARAHİSAR",
-    "districts": [
+    "id": "3",
+    "name": "AFYONKARAHİSAR",
+    "ilceler": [
       {
-        "value": 1771,
-        "text": "BAŞMAKÇI"
+        "ilce_id": "1771",
+        "ilce": "BAŞMAKÇI"
       },
       {
-        "value": 1773,
-        "text": "BAYAT"
+        "ilce_id": "1773",
+        "ilce": "BAYAT"
       },
       {
-        "value": 1200,
-        "text": "BOLVADİN"
+        "ilce_id": "1200",
+        "ilce": "BOLVADİN"
       },
       {
-        "value": 1239,
-        "text": "ÇAY"
+        "ilce_id": "1239",
+        "ilce": "ÇAY"
       },
       {
-        "value": 1906,
-        "text": "ÇOBANLAR"
+        "ilce_id": "1906",
+        "ilce": "ÇOBANLAR"
       },
       {
-        "value": 1267,
-        "text": "DAZKIRI"
+        "ilce_id": "1267",
+        "ilce": "DAZKIRI"
       },
       {
-        "value": 1281,
-        "text": "DİNAR"
+        "ilce_id": "1281",
+        "ilce": "DİNAR"
       },
       {
-        "value": 1306,
-        "text": "EMİRDAĞ"
+        "ilce_id": "1306",
+        "ilce": "EMİRDAĞ"
       },
       {
-        "value": 1923,
-        "text": "EVCİLER"
+        "ilce_id": "1923",
+        "ilce": "EVCİLER"
       },
       {
-        "value": 1944,
-        "text": "HOCALAR"
+        "ilce_id": "1944",
+        "ilce": "HOCALAR"
       },
       {
-        "value": 1404,
-        "text": "İHSANİYE"
+        "ilce_id": "1404",
+        "ilce": "İHSANİYE"
       },
       {
-        "value": 1809,
-        "text": "İSCEHİSAR"
+        "ilce_id": "1809",
+        "ilce": "İSCEHİSAR"
       },
       {
-        "value": 1961,
-        "text": "KIZILÖREN"
+        "ilce_id": "1961",
+        "ilce": "KIZILÖREN"
       },
       {
-        "value": 1108,
-        "text": "MERKEZ"
+        "ilce_id": "1108",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1594,
-        "text": "SANDIKLI"
+        "ilce_id": "1594",
+        "ilce": "SANDIKLI"
       },
       {
-        "value": 1626,
-        "text": "SİNANPAŞA"
+        "ilce_id": "1626",
+        "ilce": "SİNANPAŞA"
       },
       {
-        "value": 1664,
-        "text": "ŞUHUT"
+        "ilce_id": "1664",
+        "ilce": "ŞUHUT"
       },
       {
-        "value": 1639,
-        "text": "SULTANDAĞI"
+        "ilce_id": "1639",
+        "ilce": "SULTANDAĞI"
       }
     ]
   },
   {
-    "value": 4,
-    "text": "AĞRI",
-    "districts": [
+    "id": "4",
+    "name": "AĞRI",
+    "ilceler": [
       {
-        "value": 1283,
-        "text": "DİYADİN"
+        "ilce_id": "1283",
+        "ilce": "DİYADİN"
       },
       {
-        "value": 1287,
-        "text": "DOĞUBAYAZIT"
+        "ilce_id": "1287",
+        "ilce": "DOĞUBAYAZIT"
       },
       {
-        "value": 1301,
-        "text": "ELEŞKİRT"
+        "ilce_id": "1301",
+        "ilce": "ELEŞKİRT"
       },
       {
-        "value": 1379,
-        "text": "HAMUR"
+        "ilce_id": "1379",
+        "ilce": "HAMUR"
       },
       {
-        "value": 1111,
-        "text": "MERKEZ"
+        "ilce_id": "1111",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1568,
-        "text": "PATNOS"
+        "ilce_id": "1568",
+        "ilce": "PATNOS"
       },
       {
-        "value": 1667,
-        "text": "TAŞLIÇAY"
+        "ilce_id": "1667",
+        "ilce": "TAŞLIÇAY"
       },
       {
-        "value": 1691,
-        "text": "TUTAK"
+        "ilce_id": "1691",
+        "ilce": "TUTAK"
       }
     ]
   },
   {
-    "value": 68,
-    "text": "AKSARAY",
-    "districts": [
+    "id": "68",
+    "name": "AKSARAY",
+    "ilceler": [
       {
-        "value": 1860,
-        "text": "AĞAÇÖREN"
+        "ilce_id": "1860",
+        "ilce": "AĞAÇÖREN"
       },
       {
-        "value": 1921,
-        "text": "ESKİL"
+        "ilce_id": "1921",
+        "ilce": "ESKİL"
       },
       {
-        "value": 1932,
-        "text": "GÜLAĞAÇ"
+        "ilce_id": "1932",
+        "ilce": "GÜLAĞAÇ"
       },
       {
-        "value": 1861,
-        "text": "GÜZELYURT"
+        "ilce_id": "1861",
+        "ilce": "GÜZELYURT"
       },
       {
-        "value": 1120,
-        "text": "MERKEZ"
+        "ilce_id": "1120",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1557,
-        "text": "ORTAKÖY"
+        "ilce_id": "1557",
+        "ilce": "ORTAKÖY"
       },
       {
-        "value": 1866,
-        "text": "SARIYAHŞİ"
+        "ilce_id": "1866",
+        "ilce": "SARIYAHŞİ"
       },
       {
-        "value": 2106,
-        "text": "SULTANHANI"
+        "ilce_id": "2106",
+        "ilce": "SULTANHANI"
       }
     ]
   },
   {
-    "value": 5,
-    "text": "AMASYA",
-    "districts": [
+    "id": "5",
+    "name": "AMASYA",
+    "ilceler": [
       {
-        "value": 1363,
-        "text": "GÖYNÜCEK"
+        "ilce_id": "1363",
+        "ilce": "GÖYNÜCEK"
       },
       {
-        "value": 1368,
-        "text": "GÜMÜŞHACIKÖY"
+        "ilce_id": "1368",
+        "ilce": "GÜMÜŞHACIKÖY"
       },
       {
-        "value": 1938,
-        "text": "HAMAMÖZÜ"
+        "ilce_id": "1938",
+        "ilce": "HAMAMÖZÜ"
       },
       {
-        "value": 1134,
-        "text": "MERKEZ"
+        "ilce_id": "1134",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1524,
-        "text": "MERZİFON"
+        "ilce_id": "1524",
+        "ilce": "MERZİFON"
       },
       {
-        "value": 1641,
-        "text": "SULUOVA"
+        "ilce_id": "1641",
+        "ilce": "SULUOVA"
       },
       {
-        "value": 1668,
-        "text": "TAŞOVA"
+        "ilce_id": "1668",
+        "ilce": "TAŞOVA"
       }
     ]
   },
   {
-    "value": 6,
-    "text": "ANKARA",
-    "districts": [
+    "id": "6",
+    "name": "ANKARA",
+    "ilceler": [
       {
-        "value": 1872,
-        "text": "AKYURT"
+        "ilce_id": "1872",
+        "ilce": "AKYURT"
       },
       {
-        "value": 1130,
-        "text": "ALTINDAĞ"
+        "ilce_id": "1130",
+        "ilce": "ALTINDAĞ"
       },
       {
-        "value": 1157,
-        "text": "AYAŞ"
+        "ilce_id": "1157",
+        "ilce": "AYAŞ"
       },
       {
-        "value": 1167,
-        "text": "BALA"
+        "ilce_id": "1167",
+        "ilce": "BALA"
       },
       {
-        "value": 1187,
-        "text": "BEYPAZARI"
+        "ilce_id": "1187",
+        "ilce": "BEYPAZARI"
       },
       {
-        "value": 1227,
-        "text": "ÇAMLIDERE"
+        "ilce_id": "1227",
+        "ilce": "ÇAMLIDERE"
       },
       {
-        "value": 1231,
-        "text": "ÇANKAYA"
+        "ilce_id": "1231",
+        "ilce": "ÇANKAYA"
       },
       {
-        "value": 1260,
-        "text": "ÇUBUK"
+        "ilce_id": "1260",
+        "ilce": "ÇUBUK"
       },
       {
-        "value": 1302,
-        "text": "ELMADAĞ"
+        "ilce_id": "1302",
+        "ilce": "ELMADAĞ"
       },
       {
-        "value": 1922,
-        "text": "ETİMESGUT"
+        "ilce_id": "1922",
+        "ilce": "ETİMESGUT"
       },
       {
-        "value": 1924,
-        "text": "EVREN"
+        "ilce_id": "1924",
+        "ilce": "EVREN"
       },
       {
-        "value": 1744,
-        "text": "GÖLBAŞI"
+        "ilce_id": "1744",
+        "ilce": "GÖLBAŞI"
       },
       {
-        "value": 1365,
-        "text": "GÜDÜL"
+        "ilce_id": "1365",
+        "ilce": "GÜDÜL"
       },
       {
-        "value": 1387,
-        "text": "HAYMANA"
+        "ilce_id": "1387",
+        "ilce": "HAYMANA"
       },
       {
-        "value": 1815,
-        "text": "KAHRAMANKAZAN"
+        "ilce_id": "1815",
+        "ilce": "KAHRAMANKAZAN"
       },
       {
-        "value": 1427,
-        "text": "KALECİK"
+        "ilce_id": "1427",
+        "ilce": "KALECİK"
       },
       {
-        "value": 1745,
-        "text": "KEÇİÖREN"
+        "ilce_id": "1745",
+        "ilce": "KEÇİÖREN"
       },
       {
-        "value": 1473,
-        "text": "KIZILCAHAMAM"
+        "ilce_id": "1473",
+        "ilce": "KIZILCAHAMAM"
       },
       {
-        "value": 1746,
-        "text": "MAMAK"
+        "ilce_id": "1746",
+        "ilce": "MAMAK"
       },
       {
-        "value": 1539,
-        "text": "NALLIHAN"
+        "ilce_id": "1539",
+        "ilce": "NALLIHAN"
       },
       {
-        "value": 1578,
-        "text": "POLATLI"
+        "ilce_id": "1578",
+        "ilce": "POLATLI"
       },
       {
-        "value": 2034,
-        "text": "PURSAKLAR"
+        "ilce_id": "2034",
+        "ilce": "PURSAKLAR"
       },
       {
-        "value": 1658,
-        "text": "ŞEREFLİKOÇHİSAR"
+        "ilce_id": "1658",
+        "ilce": "ŞEREFLİKOÇHİSAR"
       },
       {
-        "value": 1747,
-        "text": "SİNCAN"
+        "ilce_id": "1747",
+        "ilce": "SİNCAN"
       },
       {
-        "value": 1723,
-        "text": "YENİMAHALLE"
+        "ilce_id": "1723",
+        "ilce": "YENİMAHALLE"
       }
     ]
   },
   {
-    "value": 7,
-    "text": "ANTALYA",
-    "districts": [
+    "id": "7",
+    "name": "ANTALYA",
+    "ilceler": [
       {
-        "value": 1121,
-        "text": "AKSEKİ"
+        "ilce_id": "1121",
+        "ilce": "AKSEKİ"
       },
       {
-        "value": 2035,
-        "text": "AKSU"
+        "ilce_id": "2035",
+        "ilce": "AKSU"
       },
       {
-        "value": 1126,
-        "text": "ALANYA"
+        "ilce_id": "1126",
+        "ilce": "ALANYA"
       },
       {
-        "value": 1811,
-        "text": "DEMRE"
+        "ilce_id": "1811",
+        "ilce": "DEMRE"
       },
       {
-        "value": 2036,
-        "text": "DÖŞEMEALTI"
+        "ilce_id": "2036",
+        "ilce": "DÖŞEMEALTI"
       },
       {
-        "value": 1303,
-        "text": "ELMALI"
+        "ilce_id": "1303",
+        "ilce": "ELMALI"
       },
       {
-        "value": 1333,
-        "text": "FİNİKE"
+        "ilce_id": "1333",
+        "ilce": "FİNİKE"
       },
       {
-        "value": 1337,
-        "text": "GAZİPAŞA"
+        "ilce_id": "1337",
+        "ilce": "GAZİPAŞA"
       },
       {
-        "value": 1370,
-        "text": "GÜNDOĞMUŞ"
+        "ilce_id": "1370",
+        "ilce": "GÜNDOĞMUŞ"
       },
       {
-        "value": 1946,
-        "text": "İBRADI"
+        "ilce_id": "1946",
+        "ilce": "İBRADI"
       },
       {
-        "value": 1451,
-        "text": "KAŞ"
+        "ilce_id": "1451",
+        "ilce": "KAŞ"
       },
       {
-        "value": 1959,
-        "text": "KEMER"
+        "ilce_id": "1959",
+        "ilce": "KEMER"
       },
       {
-        "value": 2037,
-        "text": "KEPEZ"
+        "ilce_id": "2037",
+        "ilce": "KEPEZ"
       },
       {
-        "value": 2038,
-        "text": "KONYAALTI"
+        "ilce_id": "2038",
+        "ilce": "KONYAALTI"
       },
       {
-        "value": 1483,
-        "text": "KORKUTELİ"
+        "ilce_id": "1483",
+        "ilce": "KORKUTELİ"
       },
       {
-        "value": 1492,
-        "text": "KUMLUCA"
+        "ilce_id": "1492",
+        "ilce": "KUMLUCA"
       },
       {
-        "value": 1512,
-        "text": "MANAVGAT"
+        "ilce_id": "1512",
+        "ilce": "MANAVGAT"
       },
       {
-        "value": 2039,
-        "text": "MURATPAŞA"
+        "ilce_id": "2039",
+        "ilce": "MURATPAŞA"
       },
       {
-        "value": 1616,
-        "text": "SERİK"
+        "ilce_id": "1616",
+        "ilce": "SERİK"
       }
     ]
   },
   {
-    "value": 75,
-    "text": "ARDAHAN",
-    "districts": [
+    "id": "75",
+    "name": "ARDAHAN",
+    "ilceler": [
       {
-        "value": 1252,
-        "text": "ÇILDIR"
+        "ilce_id": "1252",
+        "ilce": "ÇILDIR"
       },
       {
-        "value": 2008,
-        "text": "DAMAL"
+        "ilce_id": "2008",
+        "ilce": "DAMAL"
       },
       {
-        "value": 1356,
-        "text": "GÖLE"
+        "ilce_id": "1356",
+        "ilce": "GÖLE"
       },
       {
-        "value": 1380,
-        "text": "HANAK"
+        "ilce_id": "1380",
+        "ilce": "HANAK"
       },
       {
-        "value": 1144,
-        "text": "MERKEZ"
+        "ilce_id": "1144",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1579,
-        "text": "POSOF"
+        "ilce_id": "1579",
+        "ilce": "POSOF"
       }
     ]
   },
   {
-    "value": 8,
-    "text": "ARTVİN",
-    "districts": [
+    "id": "8",
+    "name": "ARTVİN",
+    "ilceler": [
       {
-        "value": 1145,
-        "text": "ARDANUÇ"
+        "ilce_id": "1145",
+        "ilce": "ARDANUÇ"
       },
       {
-        "value": 1147,
-        "text": "ARHAVİ"
+        "ilce_id": "1147",
+        "ilce": "ARHAVİ"
       },
       {
-        "value": 1202,
-        "text": "BORÇKA"
+        "ilce_id": "1202",
+        "ilce": "BORÇKA"
       },
       {
-        "value": 1395,
-        "text": "HOPA"
+        "ilce_id": "1395",
+        "ilce": "HOPA"
       },
       {
-        "value": 2105,
-        "text": "KEMALPAŞA"
+        "ilce_id": "2105",
+        "ilce": "KEMALPAŞA"
       },
       {
-        "value": 1152,
-        "text": "MERKEZ"
+        "ilce_id": "1152",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1828,
-        "text": "MURGUL"
+        "ilce_id": "1828",
+        "ilce": "MURGUL"
       },
       {
-        "value": 1653,
-        "text": "ŞAVŞAT"
+        "ilce_id": "1653",
+        "ilce": "ŞAVŞAT"
       },
       {
-        "value": 1736,
-        "text": "YUSUFELİ"
+        "ilce_id": "1736",
+        "ilce": "YUSUFELİ"
       }
     ]
   },
   {
-    "value": 9,
-    "text": "AYDIN",
-    "districts": [
+    "id": "9",
+    "name": "AYDIN",
+    "ilceler": [
       {
-        "value": 1206,
-        "text": "BOZDOĞAN"
+        "ilce_id": "1206",
+        "ilce": "BOZDOĞAN"
       },
       {
-        "value": 1781,
-        "text": "BUHARKENT"
+        "ilce_id": "1781",
+        "ilce": "BUHARKENT"
       },
       {
-        "value": 1256,
-        "text": "ÇİNE"
+        "ilce_id": "1256",
+        "ilce": "ÇİNE"
       },
       {
-        "value": 2000,
-        "text": "DİDİM"
+        "ilce_id": "2000",
+        "ilce": "DİDİM"
       },
       {
-        "value": 2076,
-        "text": "EFELER"
+        "ilce_id": "2076",
+        "ilce": "EFELER"
       },
       {
-        "value": 1348,
-        "text": "GERMENCİK"
+        "ilce_id": "1348",
+        "ilce": "GERMENCİK"
       },
       {
-        "value": 1807,
-        "text": "İNCİRLİOVA"
+        "ilce_id": "1807",
+        "ilce": "İNCİRLİOVA"
       },
       {
-        "value": 1435,
-        "text": "KARACASU"
+        "ilce_id": "1435",
+        "ilce": "KARACASU"
       },
       {
-        "value": 1957,
-        "text": "KARPUZLU"
+        "ilce_id": "1957",
+        "ilce": "KARPUZLU"
       },
       {
-        "value": 1479,
-        "text": "KOÇARLI"
+        "ilce_id": "1479",
+        "ilce": "KOÇARLI"
       },
       {
-        "value": 1968,
-        "text": "KÖŞK"
+        "ilce_id": "1968",
+        "ilce": "KÖŞK"
       },
       {
-        "value": 1497,
-        "text": "KUŞADASI"
+        "ilce_id": "1497",
+        "ilce": "KUŞADASI"
       },
       {
-        "value": 1498,
-        "text": "KUYUCAK"
+        "ilce_id": "1498",
+        "ilce": "KUYUCAK"
       },
       {
-        "value": 1542,
-        "text": "NAZİLLİ"
+        "ilce_id": "1542",
+        "ilce": "NAZİLLİ"
       },
       {
-        "value": 1637,
-        "text": "SÖKE"
+        "ilce_id": "1637",
+        "ilce": "SÖKE"
       },
       {
-        "value": 1640,
-        "text": "SULTANHİSAR"
+        "ilce_id": "1640",
+        "ilce": "SULTANHİSAR"
       },
       {
-        "value": 1724,
-        "text": "YENİPAZAR"
+        "ilce_id": "1724",
+        "ilce": "YENİPAZAR"
       }
     ]
   },
   {
-    "value": 10,
-    "text": "BALIKESİR",
-    "districts": [
+    "id": "10",
+    "name": "BALIKESİR",
+    "ilceler": [
       {
-        "value": 2077,
-        "text": "ALTIEYLÜL"
+        "ilce_id": "2077",
+        "ilce": "ALTIEYLÜL"
       },
       {
-        "value": 1161,
-        "text": "AYVALIK"
+        "ilce_id": "1161",
+        "ilce": "AYVALIK"
       },
       {
-        "value": 1169,
-        "text": "BALYA"
+        "ilce_id": "1169",
+        "ilce": "BALYA"
       },
       {
-        "value": 1171,
-        "text": "BANDIRMA"
+        "ilce_id": "1171",
+        "ilce": "BANDIRMA"
       },
       {
-        "value": 1191,
-        "text": "BİGADİÇ"
+        "ilce_id": "1191",
+        "ilce": "BİGADİÇ"
       },
       {
-        "value": 1216,
-        "text": "BURHANİYE"
+        "ilce_id": "1216",
+        "ilce": "BURHANİYE"
       },
       {
-        "value": 1291,
-        "text": "DURSUNBEY"
+        "ilce_id": "1291",
+        "ilce": "DURSUNBEY"
       },
       {
-        "value": 1294,
-        "text": "EDREMİT"
+        "ilce_id": "1294",
+        "ilce": "EDREMİT"
       },
       {
-        "value": 1310,
-        "text": "ERDEK"
+        "ilce_id": "1310",
+        "ilce": "ERDEK"
       },
       {
-        "value": 1928,
-        "text": "GÖMEÇ"
+        "ilce_id": "1928",
+        "ilce": "GÖMEÇ"
       },
       {
-        "value": 1360,
-        "text": "GÖNEN"
+        "ilce_id": "1360",
+        "ilce": "GÖNEN"
       },
       {
-        "value": 1384,
-        "text": "HAVRAN"
+        "ilce_id": "1384",
+        "ilce": "HAVRAN"
       },
       {
-        "value": 1418,
-        "text": "İVRİNDİ"
+        "ilce_id": "1418",
+        "ilce": "İVRİNDİ"
       },
       {
-        "value": 2078,
-        "text": "KARESİ"
+        "ilce_id": "2078",
+        "ilce": "KARESİ"
       },
       {
-        "value": 1462,
-        "text": "KEPSUT"
+        "ilce_id": "1462",
+        "ilce": "KEPSUT"
       },
       {
-        "value": 1514,
-        "text": "MANYAS"
+        "ilce_id": "1514",
+        "ilce": "MANYAS"
       },
       {
-        "value": 1824,
-        "text": "MARMARA"
+        "ilce_id": "1824",
+        "ilce": "MARMARA"
       },
       {
-        "value": 1608,
-        "text": "SAVAŞTEPE"
+        "ilce_id": "1608",
+        "ilce": "SAVAŞTEPE"
       },
       {
-        "value": 1619,
-        "text": "SINDIRGI"
+        "ilce_id": "1619",
+        "ilce": "SINDIRGI"
       },
       {
-        "value": 1644,
-        "text": "SUSURLUK"
+        "ilce_id": "1644",
+        "ilce": "SUSURLUK"
       }
     ]
   },
   {
-    "value": 74,
-    "text": "BARTIN",
-    "districts": [
+    "id": "74",
+    "name": "BARTIN",
+    "ilceler": [
       {
-        "value": 1761,
-        "text": "AMASRA"
+        "ilce_id": "1761",
+        "ilce": "AMASRA"
       },
       {
-        "value": 1496,
-        "text": "KURUCAŞİLE"
+        "ilce_id": "1496",
+        "ilce": "KURUCAŞİLE"
       },
       {
-        "value": 1172,
-        "text": "MERKEZ"
+        "ilce_id": "1172",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1701,
-        "text": "ULUS"
+        "ilce_id": "1701",
+        "ilce": "ULUS"
       }
     ]
   },
   {
-    "value": 72,
-    "text": "BATMAN",
-    "districts": [
+    "id": "72",
+    "name": "BATMAN",
+    "ilceler": [
       {
-        "value": 1184,
-        "text": "BEŞİRİ"
+        "ilce_id": "1184",
+        "ilce": "BEŞİRİ"
       },
       {
-        "value": 1345,
-        "text": "GERCÜŞ"
+        "ilce_id": "1345",
+        "ilce": "GERCÜŞ"
       },
       {
-        "value": 1941,
-        "text": "HASANKEYF"
+        "ilce_id": "1941",
+        "ilce": "HASANKEYF"
       },
       {
-        "value": 1487,
-        "text": "KOZLUK"
+        "ilce_id": "1487",
+        "ilce": "KOZLUK"
       },
       {
-        "value": 1174,
-        "text": "MERKEZ"
+        "ilce_id": "1174",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1607,
-        "text": "SASON"
+        "ilce_id": "1607",
+        "ilce": "SASON"
       }
     ]
   },
   {
-    "value": 69,
-    "text": "BAYBURT",
-    "districts": [
+    "id": "69",
+    "name": "BAYBURT",
+    "ilceler": [
       {
-        "value": 1767,
-        "text": "AYDINTEPE"
+        "ilce_id": "1767",
+        "ilce": "AYDINTEPE"
       },
       {
-        "value": 1788,
-        "text": "DEMİRÖZÜ"
+        "ilce_id": "1788",
+        "ilce": "DEMİRÖZÜ"
       },
       {
-        "value": 1176,
-        "text": "MERKEZ"
+        "ilce_id": "1176",
+        "ilce": "MERKEZ"
       }
     ]
   },
   {
-    "value": 11,
-    "text": "BİLECİK",
-    "districts": [
+    "id": "11",
+    "name": "BİLECİK",
+    "ilceler": [
       {
-        "value": 1210,
-        "text": "BOZÜYÜK"
+        "ilce_id": "1210",
+        "ilce": "BOZÜYÜK"
       },
       {
-        "value": 1359,
-        "text": "GÖLPAZARI"
+        "ilce_id": "1359",
+        "ilce": "GÖLPAZARI"
       },
       {
-        "value": 1948,
-        "text": "İNHİSAR"
+        "ilce_id": "1948",
+        "ilce": "İNHİSAR"
       },
       {
-        "value": 1192,
-        "text": "MERKEZ"
+        "ilce_id": "1192",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1559,
-        "text": "OSMANELİ"
+        "ilce_id": "1559",
+        "ilce": "OSMANELİ"
       },
       {
-        "value": 1571,
-        "text": "PAZARYERİ"
+        "ilce_id": "1571",
+        "ilce": "PAZARYERİ"
       },
       {
-        "value": 1636,
-        "text": "SÖĞÜT"
+        "ilce_id": "1636",
+        "ilce": "SÖĞÜT"
       },
       {
-        "value": 1857,
-        "text": "YENİPAZAR"
+        "ilce_id": "1857",
+        "ilce": "YENİPAZAR"
       }
     ]
   },
   {
-    "value": 12,
-    "text": "BİNGÖL",
-    "districts": [
+    "id": "12",
+    "name": "BİNGÖL",
+    "ilceler": [
       {
-        "value": 1750,
-        "text": "ADAKLI"
+        "ilce_id": "1750",
+        "ilce": "ADAKLI"
       },
       {
-        "value": 1344,
-        "text": "GENÇ"
+        "ilce_id": "1344",
+        "ilce": "GENÇ"
       },
       {
-        "value": 1446,
-        "text": "KARLIOVA"
+        "ilce_id": "1446",
+        "ilce": "KARLIOVA"
       },
       {
-        "value": 1475,
-        "text": "KİĞI"
+        "ilce_id": "1475",
+        "ilce": "KİĞI"
       },
       {
-        "value": 1193,
-        "text": "MERKEZ"
+        "ilce_id": "1193",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1633,
-        "text": "SOLHAN"
+        "ilce_id": "1633",
+        "ilce": "SOLHAN"
       },
       {
-        "value": 1855,
-        "text": "YAYLADERE"
+        "ilce_id": "1855",
+        "ilce": "YAYLADERE"
       },
       {
-        "value": 1996,
-        "text": "YEDİSU"
+        "ilce_id": "1996",
+        "ilce": "YEDİSU"
       }
     ]
   },
   {
-    "value": 13,
-    "text": "BİTLİS",
-    "districts": [
+    "id": "13",
+    "name": "BİTLİS",
+    "ilceler": [
       {
-        "value": 1106,
-        "text": "ADİLCEVAZ"
+        "ilce_id": "1106",
+        "ilce": "ADİLCEVAZ"
       },
       {
-        "value": 1112,
-        "text": "AHLAT"
+        "ilce_id": "1112",
+        "ilce": "AHLAT"
       },
       {
-        "value": 1798,
-        "text": "GÜROYMAK"
+        "ilce_id": "1798",
+        "ilce": "GÜROYMAK"
       },
       {
-        "value": 1394,
-        "text": "HİZAN"
+        "ilce_id": "1394",
+        "ilce": "HİZAN"
       },
       {
-        "value": 1196,
-        "text": "MERKEZ"
+        "ilce_id": "1196",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1537,
-        "text": "MUTKİ"
+        "ilce_id": "1537",
+        "ilce": "MUTKİ"
       },
       {
-        "value": 1669,
-        "text": "TATVAN"
+        "ilce_id": "1669",
+        "ilce": "TATVAN"
       }
     ]
   },
   {
-    "value": 14,
-    "text": "BOLU",
-    "districts": [
+    "id": "14",
+    "name": "BOLU",
+    "ilceler": [
       {
-        "value": 1916,
-        "text": "DÖRTDİVAN"
+        "ilce_id": "1916",
+        "ilce": "DÖRTDİVAN"
       },
       {
-        "value": 1346,
-        "text": "GEREDE"
+        "ilce_id": "1346",
+        "ilce": "GEREDE"
       },
       {
-        "value": 1364,
-        "text": "GÖYNÜK"
+        "ilce_id": "1364",
+        "ilce": "GÖYNÜK"
       },
       {
-        "value": 1466,
-        "text": "KIBRISCIK"
+        "ilce_id": "1466",
+        "ilce": "KIBRISCIK"
       },
       {
-        "value": 1522,
-        "text": "MENGEN"
+        "ilce_id": "1522",
+        "ilce": "MENGEN"
       },
       {
-        "value": 1199,
-        "text": "MERKEZ"
+        "ilce_id": "1199",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1531,
-        "text": "MUDURNU"
+        "ilce_id": "1531",
+        "ilce": "MUDURNU"
       },
       {
-        "value": 1610,
-        "text": "SEBEN"
+        "ilce_id": "1610",
+        "ilce": "SEBEN"
       },
       {
-        "value": 1997,
-        "text": "YENİÇAĞA"
+        "ilce_id": "1997",
+        "ilce": "YENİÇAĞA"
       }
     ]
   },
   {
-    "value": 15,
-    "text": "BURDUR",
-    "districts": [
+    "id": "15",
+    "name": "BURDUR",
+    "ilceler": [
       {
-        "value": 1109,
-        "text": "AĞLASUN"
+        "ilce_id": "1109",
+        "ilce": "AĞLASUN"
       },
       {
-        "value": 1874,
-        "text": "ALTINYAYLA"
+        "ilce_id": "1874",
+        "ilce": "ALTINYAYLA"
       },
       {
-        "value": 1211,
-        "text": "BUCAK"
+        "ilce_id": "1211",
+        "ilce": "BUCAK"
       },
       {
-        "value": 1899,
-        "text": "ÇAVDIR"
+        "ilce_id": "1899",
+        "ilce": "ÇAVDIR"
       },
       {
-        "value": 1903,
-        "text": "ÇELTİKÇİ"
+        "ilce_id": "1903",
+        "ilce": "ÇELTİKÇİ"
       },
       {
-        "value": 1357,
-        "text": "GÖLHİSAR"
+        "ilce_id": "1357",
+        "ilce": "GÖLHİSAR"
       },
       {
-        "value": 1813,
-        "text": "KARAMANLI"
+        "ilce_id": "1813",
+        "ilce": "KARAMANLI"
       },
       {
-        "value": 1816,
-        "text": "KEMER"
+        "ilce_id": "1816",
+        "ilce": "KEMER"
       },
       {
-        "value": 1215,
-        "text": "MERKEZ"
+        "ilce_id": "1215",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1672,
-        "text": "TEFENNİ"
+        "ilce_id": "1672",
+        "ilce": "TEFENNİ"
       },
       {
-        "value": 1728,
-        "text": "YEŞİLOVA"
+        "ilce_id": "1728",
+        "ilce": "YEŞİLOVA"
       }
     ]
   },
   {
-    "value": 16,
-    "text": "BURSA",
-    "districts": [
+    "id": "16",
+    "name": "BURSA",
+    "ilceler": [
       {
-        "value": 1783,
-        "text": "BÜYÜKORHAN"
+        "ilce_id": "1783",
+        "ilce": "BÜYÜKORHAN"
       },
       {
-        "value": 1343,
-        "text": "GEMLİK"
+        "ilce_id": "1343",
+        "ilce": "GEMLİK"
       },
       {
-        "value": 1935,
-        "text": "GÜRSU"
+        "ilce_id": "1935",
+        "ilce": "GÜRSU"
       },
       {
-        "value": 1799,
-        "text": "HARMANCIK"
+        "ilce_id": "1799",
+        "ilce": "HARMANCIK"
       },
       {
-        "value": 1411,
-        "text": "İNEGÖL"
+        "ilce_id": "1411",
+        "ilce": "İNEGÖL"
       },
       {
-        "value": 1420,
-        "text": "İZNİK"
+        "ilce_id": "1420",
+        "ilce": "İZNİK"
       },
       {
-        "value": 1434,
-        "text": "KARACABEY"
+        "ilce_id": "1434",
+        "ilce": "KARACABEY"
       },
       {
-        "value": 1457,
-        "text": "KELES"
+        "ilce_id": "1457",
+        "ilce": "KELES"
       },
       {
-        "value": 1960,
-        "text": "KESTEL"
+        "ilce_id": "1960",
+        "ilce": "KESTEL"
       },
       {
-        "value": 1535,
-        "text": "M.KEMALPAŞA"
+        "ilce_id": "1535",
+        "ilce": "M.KEMALPAŞA"
       },
       {
-        "value": 1530,
-        "text": "MUDANYA"
+        "ilce_id": "1530",
+        "ilce": "MUDANYA"
       },
       {
-        "value": 1829,
-        "text": "NİLÜFER"
+        "ilce_id": "1829",
+        "ilce": "NİLÜFER"
       },
       {
-        "value": 1553,
-        "text": "ORHANELİ"
+        "ilce_id": "1553",
+        "ilce": "ORHANELİ"
       },
       {
-        "value": 1554,
-        "text": "ORHANGAZİ"
+        "ilce_id": "1554",
+        "ilce": "ORHANGAZİ"
       },
       {
-        "value": 1832,
-        "text": "OSMANGAZİ"
+        "ilce_id": "1832",
+        "ilce": "OSMANGAZİ"
       },
       {
-        "value": 1725,
-        "text": "YENİŞEHİR"
+        "ilce_id": "1725",
+        "ilce": "YENİŞEHİR"
       },
       {
-        "value": 1859,
-        "text": "YILDIRIM"
+        "ilce_id": "1859",
+        "ilce": "YILDIRIM"
       }
     ]
   },
   {
-    "value": 17,
-    "text": "ÇANAKKALE",
-    "districts": [
+    "id": "17",
+    "name": "ÇANAKKALE",
+    "ilceler": [
       {
-        "value": 1160,
-        "text": "AYVACIK"
+        "ilce_id": "1160",
+        "ilce": "AYVACIK"
       },
       {
-        "value": 1180,
-        "text": "BAYRAMİÇ"
+        "ilce_id": "1180",
+        "ilce": "BAYRAMİÇ"
       },
       {
-        "value": 1190,
-        "text": "BİGA"
+        "ilce_id": "1190",
+        "ilce": "BİGA"
       },
       {
-        "value": 1205,
-        "text": "BOZCAADA"
+        "ilce_id": "1205",
+        "ilce": "BOZCAADA"
       },
       {
-        "value": 1229,
-        "text": "ÇAN"
+        "ilce_id": "1229",
+        "ilce": "ÇAN"
       },
       {
-        "value": 1293,
-        "text": "ECEABAT"
+        "ilce_id": "1293",
+        "ilce": "ECEABAT"
       },
       {
-        "value": 1326,
-        "text": "EZİNE"
+        "ilce_id": "1326",
+        "ilce": "EZİNE"
       },
       {
-        "value": 1340,
-        "text": "GELİBOLU"
+        "ilce_id": "1340",
+        "ilce": "GELİBOLU"
       },
       {
-        "value": 1408,
-        "text": "GÖKÇEADA"
+        "ilce_id": "1408",
+        "ilce": "GÖKÇEADA"
       },
       {
-        "value": 1503,
-        "text": "LAPSEKİ"
+        "ilce_id": "1503",
+        "ilce": "LAPSEKİ"
       },
       {
-        "value": 1230,
-        "text": "MERKEZ"
+        "ilce_id": "1230",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1722,
-        "text": "YENİCE"
+        "ilce_id": "1722",
+        "ilce": "YENİCE"
       }
     ]
   },
   {
-    "value": 18,
-    "text": "ÇANKIRI",
-    "districts": [
+    "id": "18",
+    "name": "ÇANKIRI",
+    "ilceler": [
       {
-        "value": 1765,
-        "text": "ATKARACALAR"
+        "ilce_id": "1765",
+        "ilce": "ATKARACALAR"
       },
       {
-        "value": 1885,
-        "text": "BAYRAMÖREN"
+        "ilce_id": "1885",
+        "ilce": "BAYRAMÖREN"
       },
       {
-        "value": 1248,
-        "text": "ÇERKEŞ"
+        "ilce_id": "1248",
+        "ilce": "ÇERKEŞ"
       },
       {
-        "value": 1300,
-        "text": "ELDİVAN"
+        "ilce_id": "1300",
+        "ilce": "ELDİVAN"
       },
       {
-        "value": 1399,
-        "text": "ILGAZ"
+        "ilce_id": "1399",
+        "ilce": "ILGAZ"
       },
       {
-        "value": 1817,
-        "text": "KIZILIRMAK"
+        "ilce_id": "1817",
+        "ilce": "KIZILIRMAK"
       },
       {
-        "value": 1963,
-        "text": "KORGUN"
+        "ilce_id": "1963",
+        "ilce": "KORGUN"
       },
       {
-        "value": 1494,
-        "text": "KURŞUNLU"
+        "ilce_id": "1494",
+        "ilce": "KURŞUNLU"
       },
       {
-        "value": 1232,
-        "text": "MERKEZ"
+        "ilce_id": "1232",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1555,
-        "text": "ORTA"
+        "ilce_id": "1555",
+        "ilce": "ORTA"
       },
       {
-        "value": 1649,
-        "text": "ŞABANÖZÜ"
+        "ilce_id": "1649",
+        "ilce": "ŞABANÖZÜ"
       },
       {
-        "value": 1718,
-        "text": "YAPRAKLI"
+        "ilce_id": "1718",
+        "ilce": "YAPRAKLI"
       }
     ]
   },
   {
-    "value": 19,
-    "text": "ÇORUM",
-    "districts": [
+    "id": "19",
+    "name": "ÇORUM",
+    "ilceler": [
       {
-        "value": 1124,
-        "text": "ALACA"
+        "ilce_id": "1124",
+        "ilce": "ALACA"
       },
       {
-        "value": 1177,
-        "text": "BAYAT"
+        "ilce_id": "1177",
+        "ilce": "BAYAT"
       },
       {
-        "value": 1778,
-        "text": "BOĞAZKALE"
+        "ilce_id": "1778",
+        "ilce": "BOĞAZKALE"
       },
       {
-        "value": 1911,
-        "text": "DODURGA"
+        "ilce_id": "1911",
+        "ilce": "DODURGA"
       },
       {
-        "value": 1414,
-        "text": "İSKİLİP"
+        "ilce_id": "1414",
+        "ilce": "İSKİLİP"
       },
       {
-        "value": 1445,
-        "text": "KARGI"
+        "ilce_id": "1445",
+        "ilce": "KARGI"
       },
       {
-        "value": 1972,
-        "text": "LAÇİN"
+        "ilce_id": "1972",
+        "ilce": "LAÇİN"
       },
       {
-        "value": 1520,
-        "text": "MECİTÖZÜ"
+        "ilce_id": "1520",
+        "ilce": "MECİTÖZÜ"
       },
       {
-        "value": 1259,
-        "text": "MERKEZ"
+        "ilce_id": "1259",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1976,
-        "text": "OĞUZLAR"
+        "ilce_id": "1976",
+        "ilce": "OĞUZLAR"
       },
       {
-        "value": 1556,
-        "text": "ORTAKÖY"
+        "ilce_id": "1556",
+        "ilce": "ORTAKÖY"
       },
       {
-        "value": 1558,
-        "text": "OSMANCIK"
+        "ilce_id": "1558",
+        "ilce": "OSMANCIK"
       },
       {
-        "value": 1642,
-        "text": "SUNGURLU"
+        "ilce_id": "1642",
+        "ilce": "SUNGURLU"
       },
       {
-        "value": 1850,
-        "text": "UĞURLUDAĞ"
+        "ilce_id": "1850",
+        "ilce": "UĞURLUDAĞ"
       }
     ]
   },
   {
-    "value": 20,
-    "text": "DENİZLİ",
-    "districts": [
+    "id": "20",
+    "name": "DENİZLİ",
+    "ilceler": [
       {
-        "value": 1102,
-        "text": "ACIPAYAM"
+        "ilce_id": "1102",
+        "ilce": "ACIPAYAM"
       },
       {
-        "value": 1769,
-        "text": "BABADAĞ"
+        "ilce_id": "1769",
+        "ilce": "BABADAĞ"
       },
       {
-        "value": 1881,
-        "text": "BAKLAN"
+        "ilce_id": "1881",
+        "ilce": "BAKLAN"
       },
       {
-        "value": 1774,
-        "text": "BEKİLLİ"
+        "ilce_id": "1774",
+        "ilce": "BEKİLLİ"
       },
       {
-        "value": 1888,
-        "text": "BEYAĞAÇ"
+        "ilce_id": "1888",
+        "ilce": "BEYAĞAÇ"
       },
       {
-        "value": 1889,
-        "text": "BOZKURT"
+        "ilce_id": "1889",
+        "ilce": "BOZKURT"
       },
       {
-        "value": 1214,
-        "text": "BULDAN"
+        "ilce_id": "1214",
+        "ilce": "BULDAN"
       },
       {
-        "value": 1224,
-        "text": "ÇAL"
+        "ilce_id": "1224",
+        "ilce": "ÇAL"
       },
       {
-        "value": 1226,
-        "text": "ÇAMELİ"
+        "ilce_id": "1226",
+        "ilce": "ÇAMELİ"
       },
       {
-        "value": 1233,
-        "text": "ÇARDAK"
+        "ilce_id": "1233",
+        "ilce": "ÇARDAK"
       },
       {
-        "value": 1257,
-        "text": "ÇİVRİL"
+        "ilce_id": "1257",
+        "ilce": "ÇİVRİL"
       },
       {
-        "value": 1371,
-        "text": "GÜNEY"
+        "ilce_id": "1371",
+        "ilce": "GÜNEY"
       },
       {
-        "value": 1803,
-        "text": "HONAZ"
+        "ilce_id": "1803",
+        "ilce": "HONAZ"
       },
       {
-        "value": 1426,
-        "text": "KALE"
+        "ilce_id": "1426",
+        "ilce": "KALE"
       },
       {
-        "value": 2079,
-        "text": "MERKEZEFENDİ"
+        "ilce_id": "2079",
+        "ilce": "MERKEZEFENDİ"
       },
       {
-        "value": 1871,
-        "text": "PAMUKKALE"
+        "ilce_id": "1871",
+        "ilce": "PAMUKKALE"
       },
       {
-        "value": 1597,
-        "text": "SARAYKÖY"
+        "ilce_id": "1597",
+        "ilce": "SARAYKÖY"
       },
       {
-        "value": 1840,
-        "text": "SERİNHİSAR"
+        "ilce_id": "1840",
+        "ilce": "SERİNHİSAR"
       },
       {
-        "value": 1670,
-        "text": "TAVAS"
+        "ilce_id": "1670",
+        "ilce": "TAVAS"
       }
     ]
   },
   {
-    "value": 21,
-    "text": "DİYARBAKIR",
-    "districts": [
+    "id": "21",
+    "name": "DİYARBAKIR",
+    "ilceler": [
       {
-        "value": 2040,
-        "text": "BAĞLAR"
+        "ilce_id": "2040",
+        "ilce": "BAĞLAR"
       },
       {
-        "value": 1195,
-        "text": "BİSMİL"
+        "ilce_id": "1195",
+        "ilce": "BİSMİL"
       },
       {
-        "value": 1249,
-        "text": "ÇERMİK"
+        "ilce_id": "1249",
+        "ilce": "ÇERMİK"
       },
       {
-        "value": 1253,
-        "text": "ÇINAR"
+        "ilce_id": "1253",
+        "ilce": "ÇINAR"
       },
       {
-        "value": 1263,
-        "text": "ÇÜNGÜŞ"
+        "ilce_id": "1263",
+        "ilce": "ÇÜNGÜŞ"
       },
       {
-        "value": 1278,
-        "text": "DİCLE"
+        "ilce_id": "1278",
+        "ilce": "DİCLE"
       },
       {
-        "value": 1791,
-        "text": "EĞİL"
+        "ilce_id": "1791",
+        "ilce": "EĞİL"
       },
       {
-        "value": 1315,
-        "text": "ERGANİ"
+        "ilce_id": "1315",
+        "ilce": "ERGANİ"
       },
       {
-        "value": 1381,
-        "text": "HANİ"
+        "ilce_id": "1381",
+        "ilce": "HANİ"
       },
       {
-        "value": 1389,
-        "text": "HAZRO"
+        "ilce_id": "1389",
+        "ilce": "HAZRO"
       },
       {
-        "value": 2041,
-        "text": "KAYAPINAR"
+        "ilce_id": "2041",
+        "ilce": "KAYAPINAR"
       },
       {
-        "value": 1962,
-        "text": "KOCAKÖY"
+        "ilce_id": "1962",
+        "ilce": "KOCAKÖY"
       },
       {
-        "value": 1490,
-        "text": "KULP"
+        "ilce_id": "1490",
+        "ilce": "KULP"
       },
       {
-        "value": 1504,
-        "text": "LİCE"
+        "ilce_id": "1504",
+        "ilce": "LİCE"
       },
       {
-        "value": 1624,
-        "text": "SİLVAN"
+        "ilce_id": "1624",
+        "ilce": "SİLVAN"
       },
       {
-        "value": 2042,
-        "text": "SUR"
+        "ilce_id": "2042",
+        "ilce": "SUR"
       },
       {
-        "value": 2043,
-        "text": "YENİŞEHİR"
+        "ilce_id": "2043",
+        "ilce": "YENİŞEHİR"
       }
     ]
   },
   {
-    "value": 81,
-    "text": "DÜZCE",
-    "districts": [
+    "id": "81",
+    "name": "DÜZCE",
+    "ilceler": [
       {
-        "value": 1116,
-        "text": "AKÇAKOCA"
+        "ilce_id": "1116",
+        "ilce": "AKÇAKOCA"
       },
       {
-        "value": 1905,
-        "text": "ÇİLİMLİ"
+        "ilce_id": "1905",
+        "ilce": "ÇİLİMLİ"
       },
       {
-        "value": 1784,
-        "text": "CUMAYERİ"
+        "ilce_id": "1784",
+        "ilce": "CUMAYERİ"
       },
       {
-        "value": 1794,
-        "text": "GÖLYAKA"
+        "ilce_id": "1794",
+        "ilce": "GÖLYAKA"
       },
       {
-        "value": 2017,
-        "text": "GÜMÜŞOVA"
+        "ilce_id": "2017",
+        "ilce": "GÜMÜŞOVA"
       },
       {
-        "value": 2031,
-        "text": "KAYNAŞLI"
+        "ilce_id": "2031",
+        "ilce": "KAYNAŞLI"
       },
       {
-        "value": 1292,
-        "text": "MERKEZ"
+        "ilce_id": "1292",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1730,
-        "text": "YIĞILCA"
+        "ilce_id": "1730",
+        "ilce": "YIĞILCA"
       }
     ]
   },
   {
-    "value": 22,
-    "text": "EDİRNE",
-    "districts": [
+    "id": "22",
+    "name": "EDİRNE",
+    "ilceler": [
       {
-        "value": 1307,
-        "text": "ENEZ"
+        "ilce_id": "1307",
+        "ilce": "ENEZ"
       },
       {
-        "value": 1385,
-        "text": "HAVSA"
+        "ilce_id": "1385",
+        "ilce": "HAVSA"
       },
       {
-        "value": 1412,
-        "text": "İPSALA"
+        "ilce_id": "1412",
+        "ilce": "İPSALA"
       },
       {
-        "value": 1464,
-        "text": "KEŞAN"
+        "ilce_id": "1464",
+        "ilce": "KEŞAN"
       },
       {
-        "value": 1502,
-        "text": "LALAPAŞA"
+        "ilce_id": "1502",
+        "ilce": "LALAPAŞA"
       },
       {
-        "value": 1523,
-        "text": "MERİÇ"
+        "ilce_id": "1523",
+        "ilce": "MERİÇ"
       },
       {
-        "value": 1295,
-        "text": "MERKEZ"
+        "ilce_id": "1295",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1988,
-        "text": "SÜLOĞLU"
+        "ilce_id": "1988",
+        "ilce": "SÜLOĞLU"
       },
       {
-        "value": 1705,
-        "text": "UZUNKÖPRÜ"
+        "ilce_id": "1705",
+        "ilce": "UZUNKÖPRÜ"
       }
     ]
   },
   {
-    "value": 23,
-    "text": "ELAZIĞ",
-    "districts": [
+    "id": "23",
+    "name": "ELAZIĞ",
+    "ilceler": [
       {
-        "value": 1110,
-        "text": "AĞIN"
+        "ilce_id": "1110",
+        "ilce": "AĞIN"
       },
       {
-        "value": 1873,
-        "text": "ALACAKAYA"
+        "ilce_id": "1873",
+        "ilce": "ALACAKAYA"
       },
       {
-        "value": 1762,
-        "text": "ARICAK"
+        "ilce_id": "1762",
+        "ilce": "ARICAK"
       },
       {
-        "value": 1173,
-        "text": "BASKİL"
+        "ilce_id": "1173",
+        "ilce": "BASKİL"
       },
       {
-        "value": 1438,
-        "text": "KARAKOÇAN"
+        "ilce_id": "1438",
+        "ilce": "KARAKOÇAN"
       },
       {
-        "value": 1455,
-        "text": "KEBAN"
+        "ilce_id": "1455",
+        "ilce": "KEBAN"
       },
       {
-        "value": 1820,
-        "text": "KOVANCILAR"
+        "ilce_id": "1820",
+        "ilce": "KOVANCILAR"
       },
       {
-        "value": 1506,
-        "text": "MADEN"
+        "ilce_id": "1506",
+        "ilce": "MADEN"
       },
       {
-        "value": 1298,
-        "text": "MERKEZ"
+        "ilce_id": "1298",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1566,
-        "text": "PALU"
+        "ilce_id": "1566",
+        "ilce": "PALU"
       },
       {
-        "value": 1631,
-        "text": "SİVRİCE"
+        "ilce_id": "1631",
+        "ilce": "SİVRİCE"
       }
     ]
   },
   {
-    "value": 24,
-    "text": "ERZİNCAN",
-    "districts": [
+    "id": "24",
+    "name": "ERZİNCAN",
+    "ilceler": [
       {
-        "value": 1243,
-        "text": "ÇAYIRLI"
+        "ilce_id": "1243",
+        "ilce": "ÇAYIRLI"
       },
       {
-        "value": 1406,
-        "text": "İLİÇ"
+        "ilce_id": "1406",
+        "ilce": "İLİÇ"
       },
       {
-        "value": 1459,
-        "text": "KEMAH"
+        "ilce_id": "1459",
+        "ilce": "KEMAH"
       },
       {
-        "value": 1460,
-        "text": "KEMALİYE"
+        "ilce_id": "1460",
+        "ilce": "KEMALİYE"
       },
       {
-        "value": 1318,
-        "text": "MERKEZ"
+        "ilce_id": "1318",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1977,
-        "text": "OTLUKBELİ"
+        "ilce_id": "1977",
+        "ilce": "OTLUKBELİ"
       },
       {
-        "value": 1583,
-        "text": "REFAHİYE"
+        "ilce_id": "1583",
+        "ilce": "REFAHİYE"
       },
       {
-        "value": 1675,
-        "text": "TERCAN"
+        "ilce_id": "1675",
+        "ilce": "TERCAN"
       },
       {
-        "value": 1853,
-        "text": "ÜZÜMLÜ"
+        "ilce_id": "1853",
+        "ilce": "ÜZÜMLÜ"
       }
     ]
   },
   {
-    "value": 25,
-    "text": "ERZURUM",
-    "districts": [
+    "id": "25",
+    "name": "ERZURUM",
+    "ilceler": [
       {
-        "value": 1153,
-        "text": "AŞKALE"
+        "ilce_id": "1153",
+        "ilce": "AŞKALE"
       },
       {
-        "value": 1945,
-        "text": "AZİZİYE"
+        "ilce_id": "1945",
+        "ilce": "AZİZİYE"
       },
       {
-        "value": 1235,
-        "text": "ÇAT"
+        "ilce_id": "1235",
+        "ilce": "ÇAT"
       },
       {
-        "value": 1392,
-        "text": "HINIS"
+        "ilce_id": "1392",
+        "ilce": "HINIS"
       },
       {
-        "value": 1396,
-        "text": "HORASAN"
+        "ilce_id": "1396",
+        "ilce": "HORASAN"
       },
       {
-        "value": 1416,
-        "text": "İSPİR"
+        "ilce_id": "1416",
+        "ilce": "İSPİR"
       },
       {
-        "value": 1812,
-        "text": "KARAÇOBAN"
+        "ilce_id": "1812",
+        "ilce": "KARAÇOBAN"
       },
       {
-        "value": 1444,
-        "text": "KARAYAZI"
+        "ilce_id": "1444",
+        "ilce": "KARAYAZI"
       },
       {
-        "value": 1967,
-        "text": "KÖPRÜKÖY"
+        "ilce_id": "1967",
+        "ilce": "KÖPRÜKÖY"
       },
       {
-        "value": 1540,
-        "text": "NARMAN"
+        "ilce_id": "1540",
+        "ilce": "NARMAN"
       },
       {
-        "value": 1550,
-        "text": "OLTU"
+        "ilce_id": "1550",
+        "ilce": "OLTU"
       },
       {
-        "value": 1551,
-        "text": "OLUR"
+        "ilce_id": "1551",
+        "ilce": "OLUR"
       },
       {
-        "value": 2044,
-        "text": "PALANDÖKEN"
+        "ilce_id": "2044",
+        "ilce": "PALANDÖKEN"
       },
       {
-        "value": 1567,
-        "text": "PASİNLER"
+        "ilce_id": "1567",
+        "ilce": "PASİNLER"
       },
       {
-        "value": 1865,
-        "text": "PAZARYOLU"
+        "ilce_id": "1865",
+        "ilce": "PAZARYOLU"
       },
       {
-        "value": 1657,
-        "text": "ŞENKAYA"
+        "ilce_id": "1657",
+        "ilce": "ŞENKAYA"
       },
       {
-        "value": 1674,
-        "text": "TEKMAN"
+        "ilce_id": "1674",
+        "ilce": "TEKMAN"
       },
       {
-        "value": 1683,
-        "text": "TORTUM"
+        "ilce_id": "1683",
+        "ilce": "TORTUM"
       },
       {
-        "value": 1851,
-        "text": "UZUNDERE"
+        "ilce_id": "1851",
+        "ilce": "UZUNDERE"
       },
       {
-        "value": 2045,
-        "text": "YAKUTİYE"
+        "ilce_id": "2045",
+        "ilce": "YAKUTİYE"
       }
     ]
   },
   {
-    "value": 26,
-    "text": "ESKİŞEHİR",
-    "districts": [
+    "id": "26",
+    "name": "ESKİŞEHİR",
+    "ilceler": [
       {
-        "value": 1759,
-        "text": "ALPU"
+        "ilce_id": "1759",
+        "ilce": "ALPU"
       },
       {
-        "value": 1777,
-        "text": "BEYLİKOVA"
+        "ilce_id": "1777",
+        "ilce": "BEYLİKOVA"
       },
       {
-        "value": 1255,
-        "text": "ÇİFTELER"
+        "ilce_id": "1255",
+        "ilce": "ÇİFTELER"
       },
       {
-        "value": 1934,
-        "text": "GÜNYÜZÜ"
+        "ilce_id": "1934",
+        "ilce": "GÜNYÜZÜ"
       },
       {
-        "value": 1939,
-        "text": "HAN"
+        "ilce_id": "1939",
+        "ilce": "HAN"
       },
       {
-        "value": 1808,
-        "text": "İNÖNÜ"
+        "ilce_id": "1808",
+        "ilce": "İNÖNÜ"
       },
       {
-        "value": 1508,
-        "text": "MAHMUDİYE"
+        "ilce_id": "1508",
+        "ilce": "MAHMUDİYE"
       },
       {
-        "value": 1973,
-        "text": "MİHALGAZİ"
+        "ilce_id": "1973",
+        "ilce": "MİHALGAZİ"
       },
       {
-        "value": 1527,
-        "text": "MİHALIÇÇIK"
+        "ilce_id": "1527",
+        "ilce": "MİHALIÇÇIK"
       },
       {
-        "value": 2046,
-        "text": "ODUNPAZARI"
+        "ilce_id": "2046",
+        "ilce": "ODUNPAZARI"
       },
       {
-        "value": 1599,
-        "text": "SARICAKAYA"
+        "ilce_id": "1599",
+        "ilce": "SARICAKAYA"
       },
       {
-        "value": 1618,
-        "text": "SEYİTGAZİ"
+        "ilce_id": "1618",
+        "ilce": "SEYİTGAZİ"
       },
       {
-        "value": 1632,
-        "text": "SİVRİHİSAR"
+        "ilce_id": "1632",
+        "ilce": "SİVRİHİSAR"
       },
       {
-        "value": 2047,
-        "text": "TEPEBAŞI"
+        "ilce_id": "2047",
+        "ilce": "TEPEBAŞI"
       }
     ]
   },
   {
-    "value": 27,
-    "text": "GAZİANTEP",
-    "districts": [
+    "id": "27",
+    "name": "GAZİANTEP",
+    "ilceler": [
       {
-        "value": 1139,
-        "text": "ARABAN"
+        "ilce_id": "1139",
+        "ilce": "ARABAN"
       },
       {
-        "value": 1415,
-        "text": "İSLAHİYE"
+        "ilce_id": "1415",
+        "ilce": "İSLAHİYE"
       },
       {
-        "value": 1956,
-        "text": "KARKAMIŞ"
+        "ilce_id": "1956",
+        "ilce": "KARKAMIŞ"
       },
       {
-        "value": 1546,
-        "text": "NİZİP"
+        "ilce_id": "1546",
+        "ilce": "NİZİP"
       },
       {
-        "value": 1974,
-        "text": "NURDAĞI"
+        "ilce_id": "1974",
+        "ilce": "NURDAĞI"
       },
       {
-        "value": 1549,
-        "text": "OĞUZELİ"
+        "ilce_id": "1549",
+        "ilce": "OĞUZELİ"
       },
       {
-        "value": 1841,
-        "text": "ŞAHİNBEY"
+        "ilce_id": "1841",
+        "ilce": "ŞAHİNBEY"
       },
       {
-        "value": 1844,
-        "text": "ŞEHİTKAMİL"
+        "ilce_id": "1844",
+        "ilce": "ŞEHİTKAMİL"
       },
       {
-        "value": 1720,
-        "text": "YAVUZELİ"
+        "ilce_id": "1720",
+        "ilce": "YAVUZELİ"
       }
     ]
   },
   {
-    "value": 28,
-    "text": "GİRESUN",
-    "districts": [
+    "id": "28",
+    "name": "GİRESUN",
+    "ilceler": [
       {
-        "value": 1133,
-        "text": "ALUCRA"
+        "ilce_id": "1133",
+        "ilce": "ALUCRA"
       },
       {
-        "value": 1212,
-        "text": "BULANCAK"
+        "ilce_id": "1212",
+        "ilce": "BULANCAK"
       },
       {
-        "value": 1893,
-        "text": "ÇAMOLUK"
+        "ilce_id": "1893",
+        "ilce": "ÇAMOLUK"
       },
       {
-        "value": 1894,
-        "text": "ÇANAKÇI"
+        "ilce_id": "1894",
+        "ilce": "ÇANAKÇI"
       },
       {
-        "value": 1272,
-        "text": "DERELİ"
+        "ilce_id": "1272",
+        "ilce": "DERELİ"
       },
       {
-        "value": 1912,
-        "text": "DOĞANKENT"
+        "ilce_id": "1912",
+        "ilce": "DOĞANKENT"
       },
       {
-        "value": 1320,
-        "text": "ESPİYE"
+        "ilce_id": "1320",
+        "ilce": "ESPİYE"
       },
       {
-        "value": 1324,
-        "text": "EYNESİL"
+        "ilce_id": "1324",
+        "ilce": "EYNESİL"
       },
       {
-        "value": 1361,
-        "text": "GÖRELE"
+        "ilce_id": "1361",
+        "ilce": "GÖRELE"
       },
       {
-        "value": 1930,
-        "text": "GÜCE"
+        "ilce_id": "1930",
+        "ilce": "GÜCE"
       },
       {
-        "value": 1465,
-        "text": "KEŞAP"
+        "ilce_id": "1465",
+        "ilce": "KEŞAP"
       },
       {
-        "value": 1352,
-        "text": "MERKEZ"
+        "ilce_id": "1352",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1837,
-        "text": "PİRAZİZ"
+        "ilce_id": "1837",
+        "ilce": "PİRAZİZ"
       },
       {
-        "value": 1654,
-        "text": "ŞEBİNKARAHİSAR"
+        "ilce_id": "1654",
+        "ilce": "ŞEBİNKARAHİSAR"
       },
       {
-        "value": 1678,
-        "text": "TİREBOLU"
+        "ilce_id": "1678",
+        "ilce": "TİREBOLU"
       },
       {
-        "value": 1854,
-        "text": "YAĞLIDERE"
+        "ilce_id": "1854",
+        "ilce": "YAĞLIDERE"
       }
     ]
   },
   {
-    "value": 29,
-    "text": "GÜMÜŞHANE",
-    "districts": [
+    "id": "29",
+    "name": "GÜMÜŞHANE",
+    "ilceler": [
       {
-        "value": 1458,
-        "text": "KELKİT"
+        "ilce_id": "1458",
+        "ilce": "KELKİT"
       },
       {
-        "value": 1822,
-        "text": "KÖSE"
+        "ilce_id": "1822",
+        "ilce": "KÖSE"
       },
       {
-        "value": 1971,
-        "text": "KÜRTÜN"
+        "ilce_id": "1971",
+        "ilce": "KÜRTÜN"
       },
       {
-        "value": 1369,
-        "text": "MERKEZ"
+        "ilce_id": "1369",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1660,
-        "text": "ŞİRAN"
+        "ilce_id": "1660",
+        "ilce": "ŞİRAN"
       },
       {
-        "value": 1684,
-        "text": "TORUL"
+        "ilce_id": "1684",
+        "ilce": "TORUL"
       }
     ]
   },
   {
-    "value": 30,
-    "text": "HAKKARİ",
-    "districts": [
+    "id": "30",
+    "name": "HAKKARİ",
+    "ilceler": [
       {
-        "value": 1261,
-        "text": "ÇUKURCA"
+        "ilce_id": "1261",
+        "ilce": "ÇUKURCA"
       },
       {
-        "value": 2107,
-        "text": "DERECİK"
+        "ilce_id": "2107",
+        "ilce": "DERECİK"
       },
       {
-        "value": 1377,
-        "text": "MERKEZ"
+        "ilce_id": "1377",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1656,
-        "text": "ŞEMDİNLİ"
+        "ilce_id": "1656",
+        "ilce": "ŞEMDİNLİ"
       },
       {
-        "value": 1737,
-        "text": "YÜKSEKOVA"
+        "ilce_id": "1737",
+        "ilce": "YÜKSEKOVA"
       }
     ]
   },
   {
-    "value": 31,
-    "text": "HATAY",
-    "districts": [
+    "id": "31",
+    "name": "HATAY",
+    "ilceler": [
       {
-        "value": 1131,
-        "text": "ALTINÖZÜ"
+        "ilce_id": "1131",
+        "ilce": "ALTINÖZÜ"
       },
       {
-        "value": 2080,
-        "text": "ANTAKYA"
+        "ilce_id": "2080",
+        "ilce": "ANTAKYA"
       },
       {
-        "value": 2081,
-        "text": "ARSUZ"
+        "ilce_id": "2081",
+        "ilce": "ARSUZ"
       },
       {
-        "value": 1887,
-        "text": "BELEN"
+        "ilce_id": "1887",
+        "ilce": "BELEN"
       },
       {
-        "value": 2082,
-        "text": "DEFNE"
+        "ilce_id": "2082",
+        "ilce": "DEFNE"
       },
       {
-        "value": 1289,
-        "text": "DÖRTYOL"
+        "ilce_id": "1289",
+        "ilce": "DÖRTYOL"
       },
       {
-        "value": 1792,
-        "text": "ERZİN"
+        "ilce_id": "1792",
+        "ilce": "ERZİN"
       },
       {
-        "value": 1382,
-        "text": "HASSA"
+        "ilce_id": "1382",
+        "ilce": "HASSA"
       },
       {
-        "value": 1413,
-        "text": "İSKENDERUN"
+        "ilce_id": "1413",
+        "ilce": "İSKENDERUN"
       },
       {
-        "value": 1468,
-        "text": "KIRIKHAN"
+        "ilce_id": "1468",
+        "ilce": "KIRIKHAN"
       },
       {
-        "value": 1970,
-        "text": "KUMLU"
+        "ilce_id": "1970",
+        "ilce": "KUMLU"
       },
       {
-        "value": 2083,
-        "text": "PAYAS"
+        "ilce_id": "2083",
+        "ilce": "PAYAS"
       },
       {
-        "value": 1585,
-        "text": "REYHANLI"
+        "ilce_id": "1585",
+        "ilce": "REYHANLI"
       },
       {
-        "value": 1591,
-        "text": "SAMANDAĞ"
+        "ilce_id": "1591",
+        "ilce": "SAMANDAĞ"
       },
       {
-        "value": 1721,
-        "text": "YAYLADAĞI"
+        "ilce_id": "1721",
+        "ilce": "YAYLADAĞI"
       }
     ]
   },
   {
-    "value": 76,
-    "text": "IĞDIR",
-    "districts": [
+    "id": "76",
+    "name": "IĞDIR",
+    "ilceler": [
       {
-        "value": 1142,
-        "text": "ARALIK"
+        "ilce_id": "1142",
+        "ilce": "ARALIK"
       },
       {
-        "value": 2011,
-        "text": "KARAKOYUNLU"
+        "ilce_id": "2011",
+        "ilce": "KARAKOYUNLU"
       },
       {
-        "value": 1398,
-        "text": "MERKEZ"
+        "ilce_id": "1398",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1692,
-        "text": "TUZLUCA"
+        "ilce_id": "1692",
+        "ilce": "TUZLUCA"
       }
     ]
   },
   {
-    "value": 32,
-    "text": "ISPARTA",
-    "districts": [
+    "id": "32",
+    "name": "ISPARTA",
+    "ilceler": [
       {
-        "value": 1755,
-        "text": "AKSU"
+        "ilce_id": "1755",
+        "ilce": "AKSU"
       },
       {
-        "value": 1154,
-        "text": "ATABEY"
+        "ilce_id": "1154",
+        "ilce": "ATABEY"
       },
       {
-        "value": 1297,
-        "text": "EĞİRDİR"
+        "ilce_id": "1297",
+        "ilce": "EĞİRDİR"
       },
       {
-        "value": 1341,
-        "text": "GELENDOST"
+        "ilce_id": "1341",
+        "ilce": "GELENDOST"
       },
       {
-        "value": 1929,
-        "text": "GÖNEN"
+        "ilce_id": "1929",
+        "ilce": "GÖNEN"
       },
       {
-        "value": 1456,
-        "text": "KEÇİBORLU"
+        "ilce_id": "1456",
+        "ilce": "KEÇİBORLU"
       },
       {
-        "value": 1401,
-        "text": "MERKEZ"
+        "ilce_id": "1401",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1651,
-        "text": "ŞARKİKARAAĞAÇ"
+        "ilce_id": "1651",
+        "ilce": "ŞARKİKARAAĞAÇ"
       },
       {
-        "value": 1615,
-        "text": "SENİRKENT"
+        "ilce_id": "1615",
+        "ilce": "SENİRKENT"
       },
       {
-        "value": 1648,
-        "text": "SÜTÇÜLER"
+        "ilce_id": "1648",
+        "ilce": "SÜTÇÜLER"
       },
       {
-        "value": 1699,
-        "text": "ULUBORLU"
+        "ilce_id": "1699",
+        "ilce": "ULUBORLU"
       },
       {
-        "value": 1717,
-        "text": "YALVAÇ"
+        "ilce_id": "1717",
+        "ilce": "YALVAÇ"
       },
       {
-        "value": 2001,
-        "text": "YENİŞARBADEMLİ"
+        "ilce_id": "2001",
+        "ilce": "YENİŞARBADEMLİ"
       }
     ]
   },
   {
-    "value": 34,
-    "text": "İSTANBUL",
-    "districts": [
+    "id": "34",
+    "name": "İSTANBUL",
+    "ilceler": [
       {
-        "value": 1103,
-        "text": "ADALAR"
+        "ilce_id": "1103",
+        "ilce": "ADALAR"
       },
       {
-        "value": 2048,
-        "text": "ARNAVUTKÖY"
+        "ilce_id": "2048",
+        "ilce": "ARNAVUTKÖY"
       },
       {
-        "value": 2049,
-        "text": "ATAŞEHİR"
+        "ilce_id": "2049",
+        "ilce": "ATAŞEHİR"
       },
       {
-        "value": 2003,
-        "text": "AVCILAR"
+        "ilce_id": "2003",
+        "ilce": "AVCILAR"
       },
       {
-        "value": 2004,
-        "text": "BAĞCILAR"
+        "ilce_id": "2004",
+        "ilce": "BAĞCILAR"
       },
       {
-        "value": 2005,
-        "text": "BAHÇELİEVLER"
+        "ilce_id": "2005",
+        "ilce": "BAHÇELİEVLER"
       },
       {
-        "value": 1166,
-        "text": "BAKIRKÖY"
+        "ilce_id": "1166",
+        "ilce": "BAKIRKÖY"
       },
       {
-        "value": 2050,
-        "text": "BAŞAKŞEHİR"
+        "ilce_id": "2050",
+        "ilce": "BAŞAKŞEHİR"
       },
       {
-        "value": 1886,
-        "text": "BAYRAMPAŞA"
+        "ilce_id": "1886",
+        "ilce": "BAYRAMPAŞA"
       },
       {
-        "value": 1183,
-        "text": "BEŞİKTAŞ"
+        "ilce_id": "1183",
+        "ilce": "BEŞİKTAŞ"
       },
       {
-        "value": 1185,
-        "text": "BEYKOZ"
+        "ilce_id": "1185",
+        "ilce": "BEYKOZ"
       },
       {
-        "value": 2051,
-        "text": "BEYLİKDÜZÜ"
+        "ilce_id": "2051",
+        "ilce": "BEYLİKDÜZÜ"
       },
       {
-        "value": 1186,
-        "text": "BEYOĞLU"
+        "ilce_id": "1186",
+        "ilce": "BEYOĞLU"
       },
       {
-        "value": 1782,
-        "text": "BÜYÜKÇEKMECE"
+        "ilce_id": "1782",
+        "ilce": "BÜYÜKÇEKMECE"
       },
       {
-        "value": 1237,
-        "text": "ÇATALCA"
+        "ilce_id": "1237",
+        "ilce": "ÇATALCA"
       },
       {
-        "value": 2052,
-        "text": "ÇEKMEKÖY"
+        "ilce_id": "2052",
+        "ilce": "ÇEKMEKÖY"
       },
       {
-        "value": 2016,
-        "text": "ESENLER"
+        "ilce_id": "2016",
+        "ilce": "ESENLER"
       },
       {
-        "value": 2053,
-        "text": "ESENYURT"
+        "ilce_id": "2053",
+        "ilce": "ESENYURT"
       },
       {
-        "value": 1325,
-        "text": "EYÜPSULTAN"
+        "ilce_id": "1325",
+        "ilce": "EYÜPSULTAN"
       },
       {
-        "value": 1327,
-        "text": "FATİH"
+        "ilce_id": "1327",
+        "ilce": "FATİH"
       },
       {
-        "value": 1336,
-        "text": "GAZİOSMANPAŞA"
+        "ilce_id": "1336",
+        "ilce": "GAZİOSMANPAŞA"
       },
       {
-        "value": 2010,
-        "text": "GÜNGÖREN"
+        "ilce_id": "2010",
+        "ilce": "GÜNGÖREN"
       },
       {
-        "value": 1421,
-        "text": "KADIKÖY"
+        "ilce_id": "1421",
+        "ilce": "KADIKÖY"
       },
       {
-        "value": 1810,
-        "text": "KAĞITHANE"
+        "ilce_id": "1810",
+        "ilce": "KAĞITHANE"
       },
       {
-        "value": 1449,
-        "text": "KARTAL"
+        "ilce_id": "1449",
+        "ilce": "KARTAL"
       },
       {
-        "value": 1823,
-        "text": "KÜÇÜKÇEKMECE"
+        "ilce_id": "1823",
+        "ilce": "KÜÇÜKÇEKMECE"
       },
       {
-        "value": 2012,
-        "text": "MALTEPE"
+        "ilce_id": "2012",
+        "ilce": "MALTEPE"
       },
       {
-        "value": 1835,
-        "text": "PENDİK"
+        "ilce_id": "1835",
+        "ilce": "PENDİK"
       },
       {
-        "value": 2054,
-        "text": "SANCAKTEPE"
+        "ilce_id": "2054",
+        "ilce": "SANCAKTEPE"
       },
       {
-        "value": 1604,
-        "text": "SARIYER"
+        "ilce_id": "1604",
+        "ilce": "SARIYER"
       },
       {
-        "value": 1659,
-        "text": "ŞİLE"
+        "ilce_id": "1659",
+        "ilce": "ŞİLE"
       },
       {
-        "value": 1622,
-        "text": "SİLİVRİ"
+        "ilce_id": "1622",
+        "ilce": "SİLİVRİ"
       },
       {
-        "value": 1663,
-        "text": "ŞİŞLİ"
+        "ilce_id": "1663",
+        "ilce": "ŞİŞLİ"
       },
       {
-        "value": 2014,
-        "text": "SULTANBEYLİ"
+        "ilce_id": "2014",
+        "ilce": "SULTANBEYLİ"
       },
       {
-        "value": 2055,
-        "text": "SULTANGAZİ"
+        "ilce_id": "2055",
+        "ilce": "SULTANGAZİ"
       },
       {
-        "value": 2015,
-        "text": "TUZLA"
+        "ilce_id": "2015",
+        "ilce": "TUZLA"
       },
       {
-        "value": 1852,
-        "text": "ÜMRANİYE"
+        "ilce_id": "1852",
+        "ilce": "ÜMRANİYE"
       },
       {
-        "value": 1708,
-        "text": "ÜSKÜDAR"
+        "ilce_id": "1708",
+        "ilce": "ÜSKÜDAR"
       },
       {
-        "value": 1739,
-        "text": "ZEYTİNBURNU"
+        "ilce_id": "1739",
+        "ilce": "ZEYTİNBURNU"
       }
     ]
   },
   {
-    "value": 35,
-    "text": "İZMİR",
-    "districts": [
+    "id": "35",
+    "name": "İZMİR",
+    "ilceler": [
       {
-        "value": 1128,
-        "text": "ALİAĞA"
+        "ilce_id": "1128",
+        "ilce": "ALİAĞA"
       },
       {
-        "value": 2006,
-        "text": "BALÇOVA"
+        "ilce_id": "2006",
+        "ilce": "BALÇOVA"
       },
       {
-        "value": 1178,
-        "text": "BAYINDIR"
+        "ilce_id": "1178",
+        "ilce": "BAYINDIR"
       },
       {
-        "value": 2056,
-        "text": "BAYRAKLI"
+        "ilce_id": "2056",
+        "ilce": "BAYRAKLI"
       },
       {
-        "value": 1181,
-        "text": "BERGAMA"
+        "ilce_id": "1181",
+        "ilce": "BERGAMA"
       },
       {
-        "value": 1776,
-        "text": "BEYDAĞ"
+        "ilce_id": "1776",
+        "ilce": "BEYDAĞ"
       },
       {
-        "value": 1203,
-        "text": "BORNOVA"
+        "ilce_id": "1203",
+        "ilce": "BORNOVA"
       },
       {
-        "value": 1780,
-        "text": "BUCA"
+        "ilce_id": "1780",
+        "ilce": "BUCA"
       },
       {
-        "value": 1251,
-        "text": "ÇEŞME"
+        "ilce_id": "1251",
+        "ilce": "ÇEŞME"
       },
       {
-        "value": 2007,
-        "text": "ÇİĞLİ"
+        "ilce_id": "2007",
+        "ilce": "ÇİĞLİ"
       },
       {
-        "value": 1280,
-        "text": "DİKİLİ"
+        "ilce_id": "1280",
+        "ilce": "DİKİLİ"
       },
       {
-        "value": 1334,
-        "text": "FOÇA"
+        "ilce_id": "1334",
+        "ilce": "FOÇA"
       },
       {
-        "value": 2009,
-        "text": "GAZİEMİR"
+        "ilce_id": "2009",
+        "ilce": "GAZİEMİR"
       },
       {
-        "value": 2018,
-        "text": "GÜZELBAHÇE"
+        "ilce_id": "2018",
+        "ilce": "GÜZELBAHÇE"
       },
       {
-        "value": 2057,
-        "text": "KARABAĞLAR"
+        "ilce_id": "2057",
+        "ilce": "KARABAĞLAR"
       },
       {
-        "value": 1432,
-        "text": "KARABURUN"
+        "ilce_id": "1432",
+        "ilce": "KARABURUN"
       },
       {
-        "value": 1448,
-        "text": "KARŞIYAKA"
+        "ilce_id": "1448",
+        "ilce": "KARŞIYAKA"
       },
       {
-        "value": 1461,
-        "text": "KEMALPAŞA"
+        "ilce_id": "1461",
+        "ilce": "KEMALPAŞA"
       },
       {
-        "value": 1467,
-        "text": "KINIK"
+        "ilce_id": "1467",
+        "ilce": "KINIK"
       },
       {
-        "value": 1477,
-        "text": "KİRAZ"
+        "ilce_id": "1477",
+        "ilce": "KİRAZ"
       },
       {
-        "value": 1819,
-        "text": "KONAK"
+        "ilce_id": "1819",
+        "ilce": "KONAK"
       },
       {
-        "value": 1826,
-        "text": "MENDERES"
+        "ilce_id": "1826",
+        "ilce": "MENDERES"
       },
       {
-        "value": 1521,
-        "text": "MENEMEN"
+        "ilce_id": "1521",
+        "ilce": "MENEMEN"
       },
       {
-        "value": 2013,
-        "text": "NARLIDERE"
+        "ilce_id": "2013",
+        "ilce": "NARLIDERE"
       },
       {
-        "value": 1563,
-        "text": "ÖDEMİŞ"
+        "ilce_id": "1563",
+        "ilce": "ÖDEMİŞ"
       },
       {
-        "value": 1611,
-        "text": "SEFERİHİSAR"
+        "ilce_id": "1611",
+        "ilce": "SEFERİHİSAR"
       },
       {
-        "value": 1612,
-        "text": "SELÇUK"
+        "ilce_id": "1612",
+        "ilce": "SELÇUK"
       },
       {
-        "value": 1677,
-        "text": "TİRE"
+        "ilce_id": "1677",
+        "ilce": "TİRE"
       },
       {
-        "value": 1682,
-        "text": "TORBALI"
+        "ilce_id": "1682",
+        "ilce": "TORBALI"
       },
       {
-        "value": 1703,
-        "text": "URLA"
+        "ilce_id": "1703",
+        "ilce": "URLA"
       }
     ]
   },
   {
-    "value": 46,
-    "text": "KAHRAMANMARAŞ",
-    "districts": [
+    "id": "46",
+    "name": "KAHRAMANMARAŞ",
+    "ilceler": [
       {
-        "value": 1107,
-        "text": "AFŞİN"
+        "ilce_id": "1107",
+        "ilce": "AFŞİN"
       },
       {
-        "value": 1136,
-        "text": "ANDIRIN"
+        "ilce_id": "1136",
+        "ilce": "ANDIRIN"
       },
       {
-        "value": 1785,
-        "text": "ÇAĞLAYANCERİT"
+        "ilce_id": "1785",
+        "ilce": "ÇAĞLAYANCERİT"
       },
       {
-        "value": 2084,
-        "text": "DULKADİROĞLU"
+        "ilce_id": "2084",
+        "ilce": "DULKADİROĞLU"
       },
       {
-        "value": 1919,
-        "text": "EKİNÖZÜ"
+        "ilce_id": "1919",
+        "ilce": "EKİNÖZÜ"
       },
       {
-        "value": 1299,
-        "text": "ELBİSTAN"
+        "ilce_id": "1299",
+        "ilce": "ELBİSTAN"
       },
       {
-        "value": 1353,
-        "text": "GÖKSUN"
+        "ilce_id": "1353",
+        "ilce": "GÖKSUN"
       },
       {
-        "value": 1975,
-        "text": "NURHAK"
+        "ilce_id": "1975",
+        "ilce": "NURHAK"
       },
       {
-        "value": 2085,
-        "text": "ONİKİŞUBAT"
+        "ilce_id": "2085",
+        "ilce": "ONİKİŞUBAT"
       },
       {
-        "value": 1570,
-        "text": "PAZARCIK"
+        "ilce_id": "1570",
+        "ilce": "PAZARCIK"
       },
       {
-        "value": 1694,
-        "text": "TÜRKOĞLU"
+        "ilce_id": "1694",
+        "ilce": "TÜRKOĞLU"
       }
     ]
   },
   {
-    "value": 78,
-    "text": "KARABÜK",
-    "districts": [
+    "id": "78",
+    "name": "KARABÜK",
+    "ilceler": [
       {
-        "value": 1296,
-        "text": "EFLANİ"
+        "ilce_id": "1296",
+        "ilce": "EFLANİ"
       },
       {
-        "value": 1321,
-        "text": "ESKİPAZAR"
+        "ilce_id": "1321",
+        "ilce": "ESKİPAZAR"
       },
       {
-        "value": 1433,
-        "text": "MERKEZ"
+        "ilce_id": "1433",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1561,
-        "text": "OVACIK"
+        "ilce_id": "1561",
+        "ilce": "OVACIK"
       },
       {
-        "value": 1587,
-        "text": "SAFRANBOLU"
+        "ilce_id": "1587",
+        "ilce": "SAFRANBOLU"
       },
       {
-        "value": 1856,
-        "text": "YENİCE"
+        "ilce_id": "1856",
+        "ilce": "YENİCE"
       }
     ]
   },
   {
-    "value": 70,
-    "text": "KARAMAN",
-    "districts": [
+    "id": "70",
+    "name": "KARAMAN",
+    "ilceler": [
       {
-        "value": 1768,
-        "text": "AYRANCI"
+        "ilce_id": "1768",
+        "ilce": "AYRANCI"
       },
       {
-        "value": 1884,
-        "text": "BAŞYAYLA"
+        "ilce_id": "1884",
+        "ilce": "BAŞYAYLA"
       },
       {
-        "value": 1316,
-        "text": "ERMENEK"
+        "ilce_id": "1316",
+        "ilce": "ERMENEK"
       },
       {
-        "value": 1862,
-        "text": "KAZIMKARABEKİR"
+        "ilce_id": "1862",
+        "ilce": "KAZIMKARABEKİR"
       },
       {
-        "value": 1439,
-        "text": "MERKEZ"
+        "ilce_id": "1439",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1983,
-        "text": "SARIVELİLER"
+        "ilce_id": "1983",
+        "ilce": "SARIVELİLER"
       }
     ]
   },
   {
-    "value": 36,
-    "text": "KARS",
-    "districts": [
+    "id": "36",
+    "name": "KARS",
+    "ilceler": [
       {
-        "value": 1756,
-        "text": "AKYAKA"
+        "ilce_id": "1756",
+        "ilce": "AKYAKA"
       },
       {
-        "value": 1149,
-        "text": "ARPAÇAY"
+        "ilce_id": "1149",
+        "ilce": "ARPAÇAY"
       },
       {
-        "value": 1279,
-        "text": "DİGOR"
+        "ilce_id": "1279",
+        "ilce": "DİGOR"
       },
       {
-        "value": 1424,
-        "text": "KAĞIZMAN"
+        "ilce_id": "1424",
+        "ilce": "KAĞIZMAN"
       },
       {
-        "value": 1447,
-        "text": "MERKEZ"
+        "ilce_id": "1447",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1601,
-        "text": "SARIKAMIŞ"
+        "ilce_id": "1601",
+        "ilce": "SARIKAMIŞ"
       },
       {
-        "value": 1614,
-        "text": "SELİM"
+        "ilce_id": "1614",
+        "ilce": "SELİM"
       },
       {
-        "value": 1645,
-        "text": "SUSUZ"
+        "ilce_id": "1645",
+        "ilce": "SUSUZ"
       }
     ]
   },
   {
-    "value": 37,
-    "text": "KASTAMONU",
-    "districts": [
+    "id": "37",
+    "name": "KASTAMONU",
+    "ilceler": [
       {
-        "value": 1101,
-        "text": "ABANA"
+        "ilce_id": "1101",
+        "ilce": "ABANA"
       },
       {
-        "value": 1867,
-        "text": "AĞLI"
+        "ilce_id": "1867",
+        "ilce": "AĞLI"
       },
       {
-        "value": 1140,
-        "text": "ARAÇ"
+        "ilce_id": "1140",
+        "ilce": "ARAÇ"
       },
       {
-        "value": 1162,
-        "text": "AZDAVAY"
+        "ilce_id": "1162",
+        "ilce": "AZDAVAY"
       },
       {
-        "value": 1208,
-        "text": "BOZKURT"
+        "ilce_id": "1208",
+        "ilce": "BOZKURT"
       },
       {
-        "value": 1238,
-        "text": "ÇATALZEYTİN"
+        "ilce_id": "1238",
+        "ilce": "ÇATALZEYTİN"
       },
       {
-        "value": 1221,
-        "text": "CİDE"
+        "ilce_id": "1221",
+        "ilce": "CİDE"
       },
       {
-        "value": 1264,
-        "text": "DADAY"
+        "ilce_id": "1264",
+        "ilce": "DADAY"
       },
       {
-        "value": 1277,
-        "text": "DEVREKANİ"
+        "ilce_id": "1277",
+        "ilce": "DEVREKANİ"
       },
       {
-        "value": 1915,
-        "text": "DOĞANYURT"
+        "ilce_id": "1915",
+        "ilce": "DOĞANYURT"
       },
       {
-        "value": 1940,
-        "text": "HANÖNÜ"
+        "ilce_id": "1940",
+        "ilce": "HANÖNÜ"
       },
       {
-        "value": 1805,
-        "text": "İHSANGAZİ"
+        "ilce_id": "1805",
+        "ilce": "İHSANGAZİ"
       },
       {
-        "value": 1410,
-        "text": "İNEBOLU"
+        "ilce_id": "1410",
+        "ilce": "İNEBOLU"
       },
       {
-        "value": 1499,
-        "text": "KÜRE"
+        "ilce_id": "1499",
+        "ilce": "KÜRE"
       },
       {
-        "value": 1450,
-        "text": "MERKEZ"
+        "ilce_id": "1450",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1836,
-        "text": "PINARBAŞI"
+        "ilce_id": "1836",
+        "ilce": "PINARBAŞI"
       },
       {
-        "value": 1845,
-        "text": "ŞENPAZAR"
+        "ilce_id": "1845",
+        "ilce": "ŞENPAZAR"
       },
       {
-        "value": 1984,
-        "text": "SEYDİLER"
+        "ilce_id": "1984",
+        "ilce": "SEYDİLER"
       },
       {
-        "value": 1666,
-        "text": "TAŞKÖPRÜ"
+        "ilce_id": "1666",
+        "ilce": "TAŞKÖPRÜ"
       },
       {
-        "value": 1685,
-        "text": "TOSYA"
+        "ilce_id": "1685",
+        "ilce": "TOSYA"
       }
     ]
   },
   {
-    "value": 38,
-    "text": "KAYSERİ",
-    "districts": [
+    "id": "38",
+    "name": "KAYSERİ",
+    "ilceler": [
       {
-        "value": 1752,
-        "text": "AKKIŞLA"
+        "ilce_id": "1752",
+        "ilce": "AKKIŞLA"
       },
       {
-        "value": 1218,
-        "text": "BÜNYAN"
+        "ilce_id": "1218",
+        "ilce": "BÜNYAN"
       },
       {
-        "value": 1275,
-        "text": "DEVELİ"
+        "ilce_id": "1275",
+        "ilce": "DEVELİ"
       },
       {
-        "value": 1330,
-        "text": "FELAHİYE"
+        "ilce_id": "1330",
+        "ilce": "FELAHİYE"
       },
       {
-        "value": 1936,
-        "text": "HACILAR"
+        "ilce_id": "1936",
+        "ilce": "HACILAR"
       },
       {
-        "value": 1409,
-        "text": "İNCESU"
+        "ilce_id": "1409",
+        "ilce": "İNCESU"
       },
       {
-        "value": 1863,
-        "text": "KOCASİNAN"
+        "ilce_id": "1863",
+        "ilce": "KOCASİNAN"
       },
       {
-        "value": 1864,
-        "text": "MELİKGAZİ"
+        "ilce_id": "1864",
+        "ilce": "MELİKGAZİ"
       },
       {
-        "value": 1978,
-        "text": "ÖZVATAN"
+        "ilce_id": "1978",
+        "ilce": "ÖZVATAN"
       },
       {
-        "value": 1576,
-        "text": "PINARBAŞI"
+        "ilce_id": "1576",
+        "ilce": "PINARBAŞI"
       },
       {
-        "value": 1603,
-        "text": "SARIOĞLAN"
+        "ilce_id": "1603",
+        "ilce": "SARIOĞLAN"
       },
       {
-        "value": 1605,
-        "text": "SARIZ"
+        "ilce_id": "1605",
+        "ilce": "SARIZ"
       },
       {
-        "value": 1846,
-        "text": "TALAS"
+        "ilce_id": "1846",
+        "ilce": "TALAS"
       },
       {
-        "value": 1680,
-        "text": "TOMARZA"
+        "ilce_id": "1680",
+        "ilce": "TOMARZA"
       },
       {
-        "value": 1715,
-        "text": "YAHYALI"
+        "ilce_id": "1715",
+        "ilce": "YAHYALI"
       },
       {
-        "value": 1727,
-        "text": "YEŞİLHİSAR"
+        "ilce_id": "1727",
+        "ilce": "YEŞİLHİSAR"
       }
     ]
   },
   {
-    "value": 79,
-    "text": "KİLİS",
-    "districts": [
+    "id": "79",
+    "name": "KİLİS",
+    "ilceler": [
       {
-        "value": 2023,
-        "text": "ELBEYLİ"
+        "ilce_id": "2023",
+        "ilce": "ELBEYLİ"
       },
       {
-        "value": 1476,
-        "text": "MERKEZ"
+        "ilce_id": "1476",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 2024,
-        "text": "MUSABEYLİ"
+        "ilce_id": "2024",
+        "ilce": "MUSABEYLİ"
       },
       {
-        "value": 2025,
-        "text": "POLATELİ"
+        "ilce_id": "2025",
+        "ilce": "POLATELİ"
       }
     ]
   },
   {
-    "value": 71,
-    "text": "KIRIKKALE",
-    "districts": [
+    "id": "71",
+    "name": "KIRIKKALE",
+    "ilceler": [
       {
-        "value": 1880,
-        "text": "BAHŞİLİ"
+        "ilce_id": "1880",
+        "ilce": "BAHŞİLİ"
       },
       {
-        "value": 1882,
-        "text": "BALIŞEYH"
+        "ilce_id": "1882",
+        "ilce": "BALIŞEYH"
       },
       {
-        "value": 1901,
-        "text": "ÇELEBİ"
+        "ilce_id": "1901",
+        "ilce": "ÇELEBİ"
       },
       {
-        "value": 1268,
-        "text": "DELİCE"
+        "ilce_id": "1268",
+        "ilce": "DELİCE"
       },
       {
-        "value": 1954,
-        "text": "KARAKEÇİLİ"
+        "ilce_id": "1954",
+        "ilce": "KARAKEÇİLİ"
       },
       {
-        "value": 1463,
-        "text": "KESKİN"
+        "ilce_id": "1463",
+        "ilce": "KESKİN"
       },
       {
-        "value": 1469,
-        "text": "MERKEZ"
+        "ilce_id": "1469",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1638,
-        "text": "SULAKYURT"
+        "ilce_id": "1638",
+        "ilce": "SULAKYURT"
       },
       {
-        "value": 1992,
-        "text": "YAHŞİHAN"
+        "ilce_id": "1992",
+        "ilce": "YAHŞİHAN"
       }
     ]
   },
   {
-    "value": 39,
-    "text": "KIRKLARELİ",
-    "districts": [
+    "id": "39",
+    "name": "KIRKLARELİ",
+    "ilceler": [
       {
-        "value": 1163,
-        "text": "BABAESKİ"
+        "ilce_id": "1163",
+        "ilce": "BABAESKİ"
       },
       {
-        "value": 1270,
-        "text": "DEMİRKÖY"
+        "ilce_id": "1270",
+        "ilce": "DEMİRKÖY"
       },
       {
-        "value": 1480,
-        "text": "KOFÇAZ"
+        "ilce_id": "1480",
+        "ilce": "KOFÇAZ"
       },
       {
-        "value": 1505,
-        "text": "LÜLEBURGAZ"
+        "ilce_id": "1505",
+        "ilce": "LÜLEBURGAZ"
       },
       {
-        "value": 1471,
-        "text": "MERKEZ"
+        "ilce_id": "1471",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1572,
-        "text": "PEHLİVANKÖY"
+        "ilce_id": "1572",
+        "ilce": "PEHLİVANKÖY"
       },
       {
-        "value": 1577,
-        "text": "PINARHİSAR"
+        "ilce_id": "1577",
+        "ilce": "PINARHİSAR"
       },
       {
-        "value": 1714,
-        "text": "VİZE"
+        "ilce_id": "1714",
+        "ilce": "VİZE"
       }
     ]
   },
   {
-    "value": 40,
-    "text": "KIRŞEHİR",
-    "districts": [
+    "id": "40",
+    "name": "KIRŞEHİR",
+    "ilceler": [
       {
-        "value": 1869,
-        "text": "AKÇAKENT"
+        "ilce_id": "1869",
+        "ilce": "AKÇAKENT"
       },
       {
-        "value": 1754,
-        "text": "AKPINAR"
+        "ilce_id": "1754",
+        "ilce": "AKPINAR"
       },
       {
-        "value": 1890,
-        "text": "BOZTEPE"
+        "ilce_id": "1890",
+        "ilce": "BOZTEPE"
       },
       {
-        "value": 1254,
-        "text": "ÇİÇEKDAĞI"
+        "ilce_id": "1254",
+        "ilce": "ÇİÇEKDAĞI"
       },
       {
-        "value": 1429,
-        "text": "KAMAN"
+        "ilce_id": "1429",
+        "ilce": "KAMAN"
       },
       {
-        "value": 1472,
-        "text": "MERKEZ"
+        "ilce_id": "1472",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1529,
-        "text": "MUCUR"
+        "ilce_id": "1529",
+        "ilce": "MUCUR"
       }
     ]
   },
   {
-    "value": 41,
-    "text": "KOCAELİ",
-    "districts": [
+    "id": "41",
+    "name": "KOCAELİ",
+    "ilceler": [
       {
-        "value": 2058,
-        "text": "BAŞİSKELE"
+        "ilce_id": "2058",
+        "ilce": "BAŞİSKELE"
       },
       {
-        "value": 2059,
-        "text": "ÇAYIROVA"
+        "ilce_id": "2059",
+        "ilce": "ÇAYIROVA"
       },
       {
-        "value": 2060,
-        "text": "DARICA"
+        "ilce_id": "2060",
+        "ilce": "DARICA"
       },
       {
-        "value": 2030,
-        "text": "DERİNCE"
+        "ilce_id": "2030",
+        "ilce": "DERİNCE"
       },
       {
-        "value": 2061,
-        "text": "DİLOVASI"
+        "ilce_id": "2061",
+        "ilce": "DİLOVASI"
       },
       {
-        "value": 1338,
-        "text": "GEBZE"
+        "ilce_id": "1338",
+        "ilce": "GEBZE"
       },
       {
-        "value": 1355,
-        "text": "GÖLCÜK"
+        "ilce_id": "1355",
+        "ilce": "GÖLCÜK"
       },
       {
-        "value": 2062,
-        "text": "İZMİT"
+        "ilce_id": "2062",
+        "ilce": "İZMİT"
       },
       {
-        "value": 1430,
-        "text": "KANDIRA"
+        "ilce_id": "1430",
+        "ilce": "KANDIRA"
       },
       {
-        "value": 1440,
-        "text": "KARAMÜRSEL"
+        "ilce_id": "1440",
+        "ilce": "KARAMÜRSEL"
       },
       {
-        "value": 2063,
-        "text": "KARTEPE"
+        "ilce_id": "2063",
+        "ilce": "KARTEPE"
       },
       {
-        "value": 1821,
-        "text": "KÖRFEZ"
+        "ilce_id": "1821",
+        "ilce": "KÖRFEZ"
       }
     ]
   },
   {
-    "value": 42,
-    "text": "KONYA",
-    "districts": [
+    "id": "42",
+    "name": "KONYA",
+    "ilceler": [
       {
-        "value": 1868,
-        "text": "AHIRLI"
+        "ilce_id": "1868",
+        "ilce": "AHIRLI"
       },
       {
-        "value": 1753,
-        "text": "AKÖREN"
+        "ilce_id": "1753",
+        "ilce": "AKÖREN"
       },
       {
-        "value": 1122,
-        "text": "AKŞEHİR"
+        "ilce_id": "1122",
+        "ilce": "AKŞEHİR"
       },
       {
-        "value": 1760,
-        "text": "ALTINEKİN"
+        "ilce_id": "1760",
+        "ilce": "ALTINEKİN"
       },
       {
-        "value": 1188,
-        "text": "BEYŞEHİR"
+        "ilce_id": "1188",
+        "ilce": "BEYŞEHİR"
       },
       {
-        "value": 1207,
-        "text": "BOZKIR"
+        "ilce_id": "1207",
+        "ilce": "BOZKIR"
       },
       {
-        "value": 1902,
-        "text": "ÇELTİK"
+        "ilce_id": "1902",
+        "ilce": "ÇELTİK"
       },
       {
-        "value": 1222,
-        "text": "CİHANBEYLİ"
+        "ilce_id": "1222",
+        "ilce": "CİHANBEYLİ"
       },
       {
-        "value": 1262,
-        "text": "ÇUMRA"
+        "ilce_id": "1262",
+        "ilce": "ÇUMRA"
       },
       {
-        "value": 1907,
-        "text": "DERBENT"
+        "ilce_id": "1907",
+        "ilce": "DERBENT"
       },
       {
-        "value": 1789,
-        "text": "DEREBUCAK"
+        "ilce_id": "1789",
+        "ilce": "DEREBUCAK"
       },
       {
-        "value": 1285,
-        "text": "DOĞANHİSAR"
+        "ilce_id": "1285",
+        "ilce": "DOĞANHİSAR"
       },
       {
-        "value": 1920,
-        "text": "EMİRGAZİ"
+        "ilce_id": "1920",
+        "ilce": "EMİRGAZİ"
       },
       {
-        "value": 1312,
-        "text": "EREĞLİ"
+        "ilce_id": "1312",
+        "ilce": "EREĞLİ"
       },
       {
-        "value": 1933,
-        "text": "GÜNEYSINIR"
+        "ilce_id": "1933",
+        "ilce": "GÜNEYSINIR"
       },
       {
-        "value": 1375,
-        "text": "HADİM"
+        "ilce_id": "1375",
+        "ilce": "HADİM"
       },
       {
-        "value": 1937,
-        "text": "HALKAPINAR"
+        "ilce_id": "1937",
+        "ilce": "HALKAPINAR"
       },
       {
-        "value": 1804,
-        "text": "HÜYÜK"
+        "ilce_id": "1804",
+        "ilce": "HÜYÜK"
       },
       {
-        "value": 1400,
-        "text": "ILGIN"
+        "ilce_id": "1400",
+        "ilce": "ILGIN"
       },
       {
-        "value": 1422,
-        "text": "KADINHANI"
+        "ilce_id": "1422",
+        "ilce": "KADINHANI"
       },
       {
-        "value": 1441,
-        "text": "KARAPINAR"
+        "ilce_id": "1441",
+        "ilce": "KARAPINAR"
       },
       {
-        "value": 1814,
-        "text": "KARATAY"
+        "ilce_id": "1814",
+        "ilce": "KARATAY"
       },
       {
-        "value": 1491,
-        "text": "KULU"
+        "ilce_id": "1491",
+        "ilce": "KULU"
       },
       {
-        "value": 1827,
-        "text": "MERAM"
+        "ilce_id": "1827",
+        "ilce": "MERAM"
       },
       {
-        "value": 1598,
-        "text": "SARAYÖNÜ"
+        "ilce_id": "1598",
+        "ilce": "SARAYÖNÜ"
       },
       {
-        "value": 1839,
-        "text": "SELÇUKLU"
+        "ilce_id": "1839",
+        "ilce": "SELÇUKLU"
       },
       {
-        "value": 1617,
-        "text": "SEYDİŞEHİR"
+        "ilce_id": "1617",
+        "ilce": "SEYDİŞEHİR"
       },
       {
-        "value": 1848,
-        "text": "TAŞKENT"
+        "ilce_id": "1848",
+        "ilce": "TAŞKENT"
       },
       {
-        "value": 1990,
-        "text": "TUZLUKÇU"
+        "ilce_id": "1990",
+        "ilce": "TUZLUKÇU"
       },
       {
-        "value": 1994,
-        "text": "YALIHÜYÜK"
+        "ilce_id": "1994",
+        "ilce": "YALIHÜYÜK"
       },
       {
-        "value": 1735,
-        "text": "YUNAK"
+        "ilce_id": "1735",
+        "ilce": "YUNAK"
       }
     ]
   },
   {
-    "value": 43,
-    "text": "KÜTAHYA",
-    "districts": [
+    "id": "43",
+    "name": "KÜTAHYA",
+    "ilceler": [
       {
-        "value": 1132,
-        "text": "ALTINTAŞ"
+        "ilce_id": "1132",
+        "ilce": "ALTINTAŞ"
       },
       {
-        "value": 1764,
-        "text": "ASLANAPA"
+        "ilce_id": "1764",
+        "ilce": "ASLANAPA"
       },
       {
-        "value": 1898,
-        "text": "ÇAVDARHİSAR"
+        "ilce_id": "1898",
+        "ilce": "ÇAVDARHİSAR"
       },
       {
-        "value": 1288,
-        "text": "DOMANİÇ"
+        "ilce_id": "1288",
+        "ilce": "DOMANİÇ"
       },
       {
-        "value": 1790,
-        "text": "DUMLUPINAR"
+        "ilce_id": "1790",
+        "ilce": "DUMLUPINAR"
       },
       {
-        "value": 1304,
-        "text": "EMET"
+        "ilce_id": "1304",
+        "ilce": "EMET"
       },
       {
-        "value": 1339,
-        "text": "GEDİZ"
+        "ilce_id": "1339",
+        "ilce": "GEDİZ"
       },
       {
-        "value": 1802,
-        "text": "HİSARCIK"
+        "ilce_id": "1802",
+        "ilce": "HİSARCIK"
       },
       {
-        "value": 1500,
-        "text": "MERKEZ"
+        "ilce_id": "1500",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1979,
-        "text": "PAZARLAR"
+        "ilce_id": "1979",
+        "ilce": "PAZARLAR"
       },
       {
-        "value": 1843,
-        "text": "ŞAPHANE"
+        "ilce_id": "1843",
+        "ilce": "ŞAPHANE"
       },
       {
-        "value": 1625,
-        "text": "SİMAV"
+        "ilce_id": "1625",
+        "ilce": "SİMAV"
       },
       {
-        "value": 1671,
-        "text": "TAVŞANLI"
+        "ilce_id": "1671",
+        "ilce": "TAVŞANLI"
       }
     ]
   },
   {
-    "value": 44,
-    "text": "MALATYA",
-    "districts": [
+    "id": "44",
+    "name": "MALATYA",
+    "ilceler": [
       {
-        "value": 1114,
-        "text": "AKÇADAĞ"
+        "ilce_id": "1114",
+        "ilce": "AKÇADAĞ"
       },
       {
-        "value": 1143,
-        "text": "ARAPGİR"
+        "ilce_id": "1143",
+        "ilce": "ARAPGİR"
       },
       {
-        "value": 1148,
-        "text": "ARGUVAN"
+        "ilce_id": "1148",
+        "ilce": "ARGUVAN"
       },
       {
-        "value": 1772,
-        "text": "BATTALGAZİ"
+        "ilce_id": "1772",
+        "ilce": "BATTALGAZİ"
       },
       {
-        "value": 1265,
-        "text": "DARENDE"
+        "ilce_id": "1265",
+        "ilce": "DARENDE"
       },
       {
-        "value": 1286,
-        "text": "DOĞANŞEHİR"
+        "ilce_id": "1286",
+        "ilce": "DOĞANŞEHİR"
       },
       {
-        "value": 1914,
-        "text": "DOĞANYOL"
+        "ilce_id": "1914",
+        "ilce": "DOĞANYOL"
       },
       {
-        "value": 1390,
-        "text": "HEKİMHAN"
+        "ilce_id": "1390",
+        "ilce": "HEKİMHAN"
       },
       {
-        "value": 1953,
-        "text": "KALE"
+        "ilce_id": "1953",
+        "ilce": "KALE"
       },
       {
-        "value": 1969,
-        "text": "KULUNCAK"
+        "ilce_id": "1969",
+        "ilce": "KULUNCAK"
       },
       {
-        "value": 1582,
-        "text": "PÜTÜRGE"
+        "ilce_id": "1582",
+        "ilce": "PÜTÜRGE"
       },
       {
-        "value": 1995,
-        "text": "YAZIHAN"
+        "ilce_id": "1995",
+        "ilce": "YAZIHAN"
       },
       {
-        "value": 1729,
-        "text": "YEŞİLYURT"
+        "ilce_id": "1729",
+        "ilce": "YEŞİLYURT"
       }
     ]
   },
   {
-    "value": 45,
-    "text": "MANİSA",
-    "districts": [
+    "id": "45",
+    "name": "MANİSA",
+    "ilceler": [
       {
-        "value": 1751,
-        "text": "AHMETLİ"
+        "ilce_id": "1751",
+        "ilce": "AHMETLİ"
       },
       {
-        "value": 1118,
-        "text": "AKHİSAR"
+        "ilce_id": "1118",
+        "ilce": "AKHİSAR"
       },
       {
-        "value": 1127,
-        "text": "ALAŞEHİR"
+        "ilce_id": "1127",
+        "ilce": "ALAŞEHİR"
       },
       {
-        "value": 1269,
-        "text": "DEMİRCİ"
+        "ilce_id": "1269",
+        "ilce": "DEMİRCİ"
       },
       {
-        "value": 1793,
-        "text": "GÖLMARMARA"
+        "ilce_id": "1793",
+        "ilce": "GÖLMARMARA"
       },
       {
-        "value": 1362,
-        "text": "GÖRDES"
+        "ilce_id": "1362",
+        "ilce": "GÖRDES"
       },
       {
-        "value": 1470,
-        "text": "KIRKAĞAÇ"
+        "ilce_id": "1470",
+        "ilce": "KIRKAĞAÇ"
       },
       {
-        "value": 1965,
-        "text": "KÖPRÜBAŞI"
+        "ilce_id": "1965",
+        "ilce": "KÖPRÜBAŞI"
       },
       {
-        "value": 1489,
-        "text": "KULA"
+        "ilce_id": "1489",
+        "ilce": "KULA"
       },
       {
-        "value": 1590,
-        "text": "SALİHLİ"
+        "ilce_id": "1590",
+        "ilce": "SALİHLİ"
       },
       {
-        "value": 1600,
-        "text": "SARIGÖL"
+        "ilce_id": "1600",
+        "ilce": "SARIGÖL"
       },
       {
-        "value": 1606,
-        "text": "SARUHANLI"
+        "ilce_id": "1606",
+        "ilce": "SARUHANLI"
       },
       {
-        "value": 2086,
-        "text": "ŞEHZADELER"
+        "ilce_id": "2086",
+        "ilce": "ŞEHZADELER"
       },
       {
-        "value": 1613,
-        "text": "SELENDİ"
+        "ilce_id": "1613",
+        "ilce": "SELENDİ"
       },
       {
-        "value": 1634,
-        "text": "SOMA"
+        "ilce_id": "1634",
+        "ilce": "SOMA"
       },
       {
-        "value": 1689,
-        "text": "TURGUTLU"
+        "ilce_id": "1689",
+        "ilce": "TURGUTLU"
       },
       {
-        "value": 2087,
-        "text": "YUNUSEMRE"
+        "ilce_id": "2087",
+        "ilce": "YUNUSEMRE"
       }
     ]
   },
   {
-    "value": 47,
-    "text": "MARDİN",
-    "districts": [
+    "id": "47",
+    "name": "MARDİN",
+    "ilceler": [
       {
-        "value": 2088,
-        "text": "ARTUKLU"
+        "ilce_id": "2088",
+        "ilce": "ARTUKLU"
       },
       {
-        "value": 1787,
-        "text": "DARGEÇİT"
+        "ilce_id": "1787",
+        "ilce": "DARGEÇİT"
       },
       {
-        "value": 1273,
-        "text": "DERİK"
+        "ilce_id": "1273",
+        "ilce": "DERİK"
       },
       {
-        "value": 1474,
-        "text": "KIZILTEPE"
+        "ilce_id": "1474",
+        "ilce": "KIZILTEPE"
       },
       {
-        "value": 1519,
-        "text": "MAZIDAĞI"
+        "ilce_id": "1519",
+        "ilce": "MAZIDAĞI"
       },
       {
-        "value": 1526,
-        "text": "MİDYAT"
+        "ilce_id": "1526",
+        "ilce": "MİDYAT"
       },
       {
-        "value": 1547,
-        "text": "NUSAYBİN"
+        "ilce_id": "1547",
+        "ilce": "NUSAYBİN"
       },
       {
-        "value": 1564,
-        "text": "ÖMERLİ"
+        "ilce_id": "1564",
+        "ilce": "ÖMERLİ"
       },
       {
-        "value": 1609,
-        "text": "SAVUR"
+        "ilce_id": "1609",
+        "ilce": "SAVUR"
       },
       {
-        "value": 2002,
-        "text": "YEŞİLLİ"
+        "ilce_id": "2002",
+        "ilce": "YEŞİLLİ"
       }
     ]
   },
   {
-    "value": 33,
-    "text": "MERSİN",
-    "districts": [
+    "id": "33",
+    "name": "MERSİN",
+    "ilceler": [
       {
-        "value": 2064,
-        "text": "AKDENİZ"
+        "ilce_id": "2064",
+        "ilce": "AKDENİZ"
       },
       {
-        "value": 1135,
-        "text": "ANAMUR"
+        "ilce_id": "1135",
+        "ilce": "ANAMUR"
       },
       {
-        "value": 1766,
-        "text": "AYDINCIK"
+        "ilce_id": "1766",
+        "ilce": "AYDINCIK"
       },
       {
-        "value": 1779,
-        "text": "BOZYAZI"
+        "ilce_id": "1779",
+        "ilce": "BOZYAZI"
       },
       {
-        "value": 1892,
-        "text": "ÇAMLIYAYLA"
+        "ilce_id": "1892",
+        "ilce": "ÇAMLIYAYLA"
       },
       {
-        "value": 1311,
-        "text": "ERDEMLİ"
+        "ilce_id": "1311",
+        "ilce": "ERDEMLİ"
       },
       {
-        "value": 1366,
-        "text": "GÜLNAR"
+        "ilce_id": "1366",
+        "ilce": "GÜLNAR"
       },
       {
-        "value": 2065,
-        "text": "MEZİTLİ"
+        "ilce_id": "2065",
+        "ilce": "MEZİTLİ"
       },
       {
-        "value": 1536,
-        "text": "MUT"
+        "ilce_id": "1536",
+        "ilce": "MUT"
       },
       {
-        "value": 1621,
-        "text": "SİLİFKE"
+        "ilce_id": "1621",
+        "ilce": "SİLİFKE"
       },
       {
-        "value": 1665,
-        "text": "TARSUS"
+        "ilce_id": "1665",
+        "ilce": "TARSUS"
       },
       {
-        "value": 2066,
-        "text": "TOROSLAR"
+        "ilce_id": "2066",
+        "ilce": "TOROSLAR"
       },
       {
-        "value": 2067,
-        "text": "YENİŞEHİR"
+        "ilce_id": "2067",
+        "ilce": "YENİŞEHİR"
       }
     ]
   },
   {
-    "value": 48,
-    "text": "MUĞLA",
-    "districts": [
+    "id": "48",
+    "name": "MUĞLA",
+    "ilceler": [
       {
-        "value": 1197,
-        "text": "BODRUM"
+        "ilce_id": "1197",
+        "ilce": "BODRUM"
       },
       {
-        "value": 1742,
-        "text": "DALAMAN"
+        "ilce_id": "1742",
+        "ilce": "DALAMAN"
       },
       {
-        "value": 1266,
-        "text": "DATÇA"
+        "ilce_id": "1266",
+        "ilce": "DATÇA"
       },
       {
-        "value": 1331,
-        "text": "FETHİYE"
+        "ilce_id": "1331",
+        "ilce": "FETHİYE"
       },
       {
-        "value": 1958,
-        "text": "KAVAKLIDERE"
+        "ilce_id": "1958",
+        "ilce": "KAVAKLIDERE"
       },
       {
-        "value": 1488,
-        "text": "KÖYCEĞİZ"
+        "ilce_id": "1488",
+        "ilce": "KÖYCEĞİZ"
       },
       {
-        "value": 1517,
-        "text": "MARMARİS"
+        "ilce_id": "1517",
+        "ilce": "MARMARİS"
       },
       {
-        "value": 2089,
-        "text": "MENTEŞE"
+        "ilce_id": "2089",
+        "ilce": "MENTEŞE"
       },
       {
-        "value": 1528,
-        "text": "MİLAS"
+        "ilce_id": "1528",
+        "ilce": "MİLAS"
       },
       {
-        "value": 1831,
-        "text": "ORTACA"
+        "ilce_id": "1831",
+        "ilce": "ORTACA"
       },
       {
-        "value": 2090,
-        "text": "SEYDİKEMER"
+        "ilce_id": "2090",
+        "ilce": "SEYDİKEMER"
       },
       {
-        "value": 1695,
-        "text": "ULA"
+        "ilce_id": "1695",
+        "ilce": "ULA"
       },
       {
-        "value": 1719,
-        "text": "YATAĞAN"
+        "ilce_id": "1719",
+        "ilce": "YATAĞAN"
       }
     ]
   },
   {
-    "value": 49,
-    "text": "MUŞ",
-    "districts": [
+    "id": "49",
+    "name": "MUŞ",
+    "ilceler": [
       {
-        "value": 1213,
-        "text": "BULANIK"
+        "ilce_id": "1213",
+        "ilce": "BULANIK"
       },
       {
-        "value": 1801,
-        "text": "HASKÖY"
+        "ilce_id": "1801",
+        "ilce": "HASKÖY"
       },
       {
-        "value": 1964,
-        "text": "KORKUT"
+        "ilce_id": "1964",
+        "ilce": "KORKUT"
       },
       {
-        "value": 1510,
-        "text": "MALAZGİRT"
+        "ilce_id": "1510",
+        "ilce": "MALAZGİRT"
       },
       {
-        "value": 1534,
-        "text": "MERKEZ"
+        "ilce_id": "1534",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1711,
-        "text": "VARTO"
+        "ilce_id": "1711",
+        "ilce": "VARTO"
       }
     ]
   },
   {
-    "value": 50,
-    "text": "NEVŞEHİR",
-    "districts": [
+    "id": "50",
+    "name": "NEVŞEHİR",
+    "ilceler": [
       {
-        "value": 1749,
-        "text": "ACIGÖL"
+        "ilce_id": "1749",
+        "ilce": "ACIGÖL"
       },
       {
-        "value": 1155,
-        "text": "AVANOS"
+        "ilce_id": "1155",
+        "ilce": "AVANOS"
       },
       {
-        "value": 1274,
-        "text": "DERİNKUYU"
+        "ilce_id": "1274",
+        "ilce": "DERİNKUYU"
       },
       {
-        "value": 1367,
-        "text": "GÜLŞEHİR"
+        "ilce_id": "1367",
+        "ilce": "GÜLŞEHİR"
       },
       {
-        "value": 1374,
-        "text": "HACIBEKTAŞ"
+        "ilce_id": "1374",
+        "ilce": "HACIBEKTAŞ"
       },
       {
-        "value": 1485,
-        "text": "KOZAKLI"
+        "ilce_id": "1485",
+        "ilce": "KOZAKLI"
       },
       {
-        "value": 1543,
-        "text": "MERKEZ"
+        "ilce_id": "1543",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1707,
-        "text": "ÜRGÜP"
+        "ilce_id": "1707",
+        "ilce": "ÜRGÜP"
       }
     ]
   },
   {
-    "value": 51,
-    "text": "NİĞDE",
-    "districts": [
+    "id": "51",
+    "name": "NİĞDE",
+    "ilceler": [
       {
-        "value": 1876,
-        "text": "ALTUNHİSAR"
+        "ilce_id": "1876",
+        "ilce": "ALTUNHİSAR"
       },
       {
-        "value": 1201,
-        "text": "BOR"
+        "ilce_id": "1201",
+        "ilce": "BOR"
       },
       {
-        "value": 1225,
-        "text": "ÇAMARDI"
+        "ilce_id": "1225",
+        "ilce": "ÇAMARDI"
       },
       {
-        "value": 1904,
-        "text": "ÇİFTLİK"
+        "ilce_id": "1904",
+        "ilce": "ÇİFTLİK"
       },
       {
-        "value": 1544,
-        "text": "MERKEZ"
+        "ilce_id": "1544",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1700,
-        "text": "ULUKIŞLA"
+        "ilce_id": "1700",
+        "ilce": "ULUKIŞLA"
       }
     ]
   },
   {
-    "value": 52,
-    "text": "ORDU",
-    "districts": [
+    "id": "52",
+    "name": "ORDU",
+    "ilceler": [
       {
-        "value": 1119,
-        "text": "AKKUŞ"
+        "ilce_id": "1119",
+        "ilce": "AKKUŞ"
       },
       {
-        "value": 2103,
-        "text": "ALTINORDU"
+        "ilce_id": "2103",
+        "ilce": "ALTINORDU"
       },
       {
-        "value": 1158,
-        "text": "AYBASTI"
+        "ilce_id": "1158",
+        "ilce": "AYBASTI"
       },
       {
-        "value": 1891,
-        "text": "ÇAMAŞ"
+        "ilce_id": "1891",
+        "ilce": "ÇAMAŞ"
       },
       {
-        "value": 1897,
-        "text": "ÇATALPINAR"
+        "ilce_id": "1897",
+        "ilce": "ÇATALPINAR"
       },
       {
-        "value": 1900,
-        "text": "ÇAYBAŞI"
+        "ilce_id": "1900",
+        "ilce": "ÇAYBAŞI"
       },
       {
-        "value": 1328,
-        "text": "FATSA"
+        "ilce_id": "1328",
+        "ilce": "FATSA"
       },
       {
-        "value": 1358,
-        "text": "GÖLKÖY"
+        "ilce_id": "1358",
+        "ilce": "GÖLKÖY"
       },
       {
-        "value": 1795,
-        "text": "GÜLYALI"
+        "ilce_id": "1795",
+        "ilce": "GÜLYALI"
       },
       {
-        "value": 1797,
-        "text": "GÜRGENTEPE"
+        "ilce_id": "1797",
+        "ilce": "GÜRGENTEPE"
       },
       {
-        "value": 1947,
-        "text": "İKİZCE"
+        "ilce_id": "1947",
+        "ilce": "İKİZCE"
       },
       {
-        "value": 1950,
-        "text": "KABADÜZ"
+        "ilce_id": "1950",
+        "ilce": "KABADÜZ"
       },
       {
-        "value": 1951,
-        "text": "KABATAŞ"
+        "ilce_id": "1951",
+        "ilce": "KABATAŞ"
       },
       {
-        "value": 1482,
-        "text": "KORGAN"
+        "ilce_id": "1482",
+        "ilce": "KORGAN"
       },
       {
-        "value": 1493,
-        "text": "KUMRU"
+        "ilce_id": "1493",
+        "ilce": "KUMRU"
       },
       {
-        "value": 1525,
-        "text": "MESUDİYE"
+        "ilce_id": "1525",
+        "ilce": "MESUDİYE"
       },
       {
-        "value": 1573,
-        "text": "PERŞEMBE"
+        "ilce_id": "1573",
+        "ilce": "PERŞEMBE"
       },
       {
-        "value": 1696,
-        "text": "ULUBEY"
+        "ilce_id": "1696",
+        "ilce": "ULUBEY"
       },
       {
-        "value": 1706,
-        "text": "ÜNYE"
+        "ilce_id": "1706",
+        "ilce": "ÜNYE"
       }
     ]
   },
   {
-    "value": 80,
-    "text": "OSMANİYE",
-    "districts": [
+    "id": "80",
+    "name": "OSMANİYE",
+    "ilceler": [
       {
-        "value": 1165,
-        "text": "BAHÇE"
+        "ilce_id": "1165",
+        "ilce": "BAHÇE"
       },
       {
-        "value": 1743,
-        "text": "DÜZİÇİ"
+        "ilce_id": "1743",
+        "ilce": "DÜZİÇİ"
       },
       {
-        "value": 2027,
-        "text": "HASANBEYLİ"
+        "ilce_id": "2027",
+        "ilce": "HASANBEYLİ"
       },
       {
-        "value": 1423,
-        "text": "KADİRLİ"
+        "ilce_id": "1423",
+        "ilce": "KADİRLİ"
       },
       {
-        "value": 1560,
-        "text": "MERKEZ"
+        "ilce_id": "1560",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 2028,
-        "text": "SUMBAS"
+        "ilce_id": "2028",
+        "ilce": "SUMBAS"
       },
       {
-        "value": 2029,
-        "text": "TOPRAKKALE"
+        "ilce_id": "2029",
+        "ilce": "TOPRAKKALE"
       }
     ]
   },
   {
-    "value": 53,
-    "text": "RİZE",
-    "districts": [
+    "id": "53",
+    "name": "RİZE",
+    "ilceler": [
       {
-        "value": 1146,
-        "text": "ARDEŞEN"
+        "ilce_id": "1146",
+        "ilce": "ARDEŞEN"
       },
       {
-        "value": 1228,
-        "text": "ÇAMLIHEMŞİN"
+        "ilce_id": "1228",
+        "ilce": "ÇAMLIHEMŞİN"
       },
       {
-        "value": 1241,
-        "text": "ÇAYELİ"
+        "ilce_id": "1241",
+        "ilce": "ÇAYELİ"
       },
       {
-        "value": 1908,
-        "text": "DEREPAZARI"
+        "ilce_id": "1908",
+        "ilce": "DEREPAZARI"
       },
       {
-        "value": 1332,
-        "text": "FINDIKLI"
+        "ilce_id": "1332",
+        "ilce": "FINDIKLI"
       },
       {
-        "value": 1796,
-        "text": "GÜNEYSU"
+        "ilce_id": "1796",
+        "ilce": "GÜNEYSU"
       },
       {
-        "value": 1943,
-        "text": "HEMŞİN"
+        "ilce_id": "1943",
+        "ilce": "HEMŞİN"
       },
       {
-        "value": 1405,
-        "text": "İKİZDERE"
+        "ilce_id": "1405",
+        "ilce": "İKİZDERE"
       },
       {
-        "value": 1949,
-        "text": "İYİDERE"
+        "ilce_id": "1949",
+        "ilce": "İYİDERE"
       },
       {
-        "value": 1428,
-        "text": "KALKANDERE"
+        "ilce_id": "1428",
+        "ilce": "KALKANDERE"
       },
       {
-        "value": 1586,
-        "text": "MERKEZ"
+        "ilce_id": "1586",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1569,
-        "text": "PAZAR"
+        "ilce_id": "1569",
+        "ilce": "PAZAR"
       }
     ]
   },
   {
-    "value": 54,
-    "text": "SAKARYA",
-    "districts": [
+    "id": "54",
+    "name": "SAKARYA",
+    "ilceler": [
       {
-        "value": 2068,
-        "text": "ADAPAZARI"
+        "ilce_id": "2068",
+        "ilce": "ADAPAZARI"
       },
       {
-        "value": 1123,
-        "text": "AKYAZI"
+        "ilce_id": "1123",
+        "ilce": "AKYAZI"
       },
       {
-        "value": 2069,
-        "text": "ARİFİYE"
+        "ilce_id": "2069",
+        "ilce": "ARİFİYE"
       },
       {
-        "value": 2070,
-        "text": "ERENLER"
+        "ilce_id": "2070",
+        "ilce": "ERENLER"
       },
       {
-        "value": 1925,
-        "text": "FERİZLİ"
+        "ilce_id": "1925",
+        "ilce": "FERİZLİ"
       },
       {
-        "value": 1351,
-        "text": "GEYVE"
+        "ilce_id": "1351",
+        "ilce": "GEYVE"
       },
       {
-        "value": 1391,
-        "text": "HENDEK"
+        "ilce_id": "1391",
+        "ilce": "HENDEK"
       },
       {
-        "value": 1955,
-        "text": "KARAPÜRÇEK"
+        "ilce_id": "1955",
+        "ilce": "KARAPÜRÇEK"
       },
       {
-        "value": 1442,
-        "text": "KARASU"
+        "ilce_id": "1442",
+        "ilce": "KARASU"
       },
       {
-        "value": 1453,
-        "text": "KAYNARCA"
+        "ilce_id": "1453",
+        "ilce": "KAYNARCA"
       },
       {
-        "value": 1818,
-        "text": "KOCAALİ"
+        "ilce_id": "1818",
+        "ilce": "KOCAALİ"
       },
       {
-        "value": 1833,
-        "text": "PAMUKOVA"
+        "ilce_id": "1833",
+        "ilce": "PAMUKOVA"
       },
       {
-        "value": 1595,
-        "text": "SAPANCA"
+        "ilce_id": "1595",
+        "ilce": "SAPANCA"
       },
       {
-        "value": 2071,
-        "text": "SERDİVAN"
+        "ilce_id": "2071",
+        "ilce": "SERDİVAN"
       },
       {
-        "value": 1986,
-        "text": "SÖĞÜTLÜ"
+        "ilce_id": "1986",
+        "ilce": "SÖĞÜTLÜ"
       },
       {
-        "value": 1847,
-        "text": "TARAKLI"
+        "ilce_id": "1847",
+        "ilce": "TARAKLI"
       }
     ]
   },
   {
-    "value": 55,
-    "text": "SAMSUN",
-    "districts": [
+    "id": "55",
+    "name": "SAMSUN",
+    "ilceler": [
       {
-        "value": 1830,
-        "text": "19MAYIS"
+        "ilce_id": "1830",
+        "ilce": "19MAYIS"
       },
       {
-        "value": 1125,
-        "text": "ALAÇAM"
+        "ilce_id": "1125",
+        "ilce": "ALAÇAM"
       },
       {
-        "value": 1763,
-        "text": "ASARCIK"
+        "ilce_id": "1763",
+        "ilce": "ASARCIK"
       },
       {
-        "value": 2072,
-        "text": "ATAKUM"
+        "ilce_id": "2072",
+        "ilce": "ATAKUM"
       },
       {
-        "value": 1879,
-        "text": "AYVACIK"
+        "ilce_id": "1879",
+        "ilce": "AYVACIK"
       },
       {
-        "value": 1164,
-        "text": "BAFRA"
+        "ilce_id": "1164",
+        "ilce": "BAFRA"
       },
       {
-        "value": 2073,
-        "text": "CANİK"
+        "ilce_id": "2073",
+        "ilce": "CANİK"
       },
       {
-        "value": 1234,
-        "text": "ÇARŞAMBA"
+        "ilce_id": "1234",
+        "ilce": "ÇARŞAMBA"
       },
       {
-        "value": 1386,
-        "text": "HAVZA"
+        "ilce_id": "1386",
+        "ilce": "HAVZA"
       },
       {
-        "value": 2074,
-        "text": "İLKADIM"
+        "ilce_id": "2074",
+        "ilce": "İLKADIM"
       },
       {
-        "value": 1452,
-        "text": "KAVAK"
+        "ilce_id": "1452",
+        "ilce": "KAVAK"
       },
       {
-        "value": 1501,
-        "text": "LADİK"
+        "ilce_id": "1501",
+        "ilce": "LADİK"
       },
       {
-        "value": 1838,
-        "text": "SALIPAZARI"
+        "ilce_id": "1838",
+        "ilce": "SALIPAZARI"
       },
       {
-        "value": 1849,
-        "text": "TEKKEKÖY"
+        "ilce_id": "1849",
+        "ilce": "TEKKEKÖY"
       },
       {
-        "value": 1676,
-        "text": "TERME"
+        "ilce_id": "1676",
+        "ilce": "TERME"
       },
       {
-        "value": 1712,
-        "text": "VEZİRKÖPRÜ"
+        "ilce_id": "1712",
+        "ilce": "VEZİRKÖPRÜ"
       },
       {
-        "value": 1993,
-        "text": "YAKAKENT"
+        "ilce_id": "1993",
+        "ilce": "YAKAKENT"
       }
     ]
   },
   {
-    "value": 63,
-    "text": "ŞANLIURFA",
-    "districts": [
+    "id": "63",
+    "name": "ŞANLIURFA",
+    "ilceler": [
       {
-        "value": 1115,
-        "text": "AKÇAKALE"
+        "ilce_id": "1115",
+        "ilce": "AKÇAKALE"
       },
       {
-        "value": 1194,
-        "text": "BİRECİK"
+        "ilce_id": "1194",
+        "ilce": "BİRECİK"
       },
       {
-        "value": 1209,
-        "text": "BOZOVA"
+        "ilce_id": "1209",
+        "ilce": "BOZOVA"
       },
       {
-        "value": 1220,
-        "text": "CEYLANPINAR"
+        "ilce_id": "1220",
+        "ilce": "CEYLANPINAR"
       },
       {
-        "value": 2091,
-        "text": "EYYÜBİYE"
+        "ilce_id": "2091",
+        "ilce": "EYYÜBİYE"
       },
       {
-        "value": 1378,
-        "text": "HALFETİ"
+        "ilce_id": "1378",
+        "ilce": "HALFETİ"
       },
       {
-        "value": 2092,
-        "text": "HALİLİYE"
+        "ilce_id": "2092",
+        "ilce": "HALİLİYE"
       },
       {
-        "value": 1800,
-        "text": "HARRAN"
+        "ilce_id": "1800",
+        "ilce": "HARRAN"
       },
       {
-        "value": 1393,
-        "text": "HİLVAN"
+        "ilce_id": "1393",
+        "ilce": "HİLVAN"
       },
       {
-        "value": 2093,
-        "text": "KARAKÖPRÜ"
+        "ilce_id": "2093",
+        "ilce": "KARAKÖPRÜ"
       },
       {
-        "value": 1630,
-        "text": "SİVEREK"
+        "ilce_id": "1630",
+        "ilce": "SİVEREK"
       },
       {
-        "value": 1643,
-        "text": "SURUÇ"
+        "ilce_id": "1643",
+        "ilce": "SURUÇ"
       },
       {
-        "value": 1713,
-        "text": "VİRANŞEHİR"
+        "ilce_id": "1713",
+        "ilce": "VİRANŞEHİR"
       }
     ]
   },
   {
-    "value": 56,
-    "text": "SİİRT",
-    "districts": [
+    "id": "56",
+    "name": "SİİRT",
+    "ilceler": [
       {
-        "value": 1179,
-        "text": "BAYKAN"
+        "ilce_id": "1179",
+        "ilce": "BAYKAN"
       },
       {
-        "value": 1317,
-        "text": "ERUH"
+        "ilce_id": "1317",
+        "ilce": "ERUH"
       },
       {
-        "value": 1495,
-        "text": "KURTALAN"
+        "ilce_id": "1495",
+        "ilce": "KURTALAN"
       },
       {
-        "value": 1620,
-        "text": "MERKEZ"
+        "ilce_id": "1620",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1575,
-        "text": "PERVARİ"
+        "ilce_id": "1575",
+        "ilce": "PERVARİ"
       },
       {
-        "value": 1662,
-        "text": "ŞİRVAN"
+        "ilce_id": "1662",
+        "ilce": "ŞİRVAN"
       },
       {
-        "value": 1878,
-        "text": "TİLLO"
+        "ilce_id": "1878",
+        "ilce": "TİLLO"
       }
     ]
   },
   {
-    "value": 57,
-    "text": "SİNOP",
-    "districts": [
+    "id": "57",
+    "name": "SİNOP",
+    "ilceler": [
       {
-        "value": 1156,
-        "text": "AYANCIK"
+        "ilce_id": "1156",
+        "ilce": "AYANCIK"
       },
       {
-        "value": 1204,
-        "text": "BOYABAT"
+        "ilce_id": "1204",
+        "ilce": "BOYABAT"
       },
       {
-        "value": 1910,
-        "text": "DİKMEN"
+        "ilce_id": "1910",
+        "ilce": "DİKMEN"
       },
       {
-        "value": 1290,
-        "text": "DURAĞAN"
+        "ilce_id": "1290",
+        "ilce": "DURAĞAN"
       },
       {
-        "value": 1314,
-        "text": "ERFELEK"
+        "ilce_id": "1314",
+        "ilce": "ERFELEK"
       },
       {
-        "value": 1349,
-        "text": "GERZE"
+        "ilce_id": "1349",
+        "ilce": "GERZE"
       },
       {
-        "value": 1627,
-        "text": "MERKEZ"
+        "ilce_id": "1627",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1981,
-        "text": "SARAYDÜZÜ"
+        "ilce_id": "1981",
+        "ilce": "SARAYDÜZÜ"
       },
       {
-        "value": 1693,
-        "text": "TÜRKELİ"
+        "ilce_id": "1693",
+        "ilce": "TÜRKELİ"
       }
     ]
   },
   {
-    "value": 73,
-    "text": "ŞIRNAK",
-    "districts": [
+    "id": "73",
+    "name": "ŞIRNAK",
+    "ilceler": [
       {
-        "value": 1189,
-        "text": "BEYTÜŞŞEBAP"
+        "ilce_id": "1189",
+        "ilce": "BEYTÜŞŞEBAP"
       },
       {
-        "value": 1223,
-        "text": "CİZRE"
+        "ilce_id": "1223",
+        "ilce": "CİZRE"
       },
       {
-        "value": 1931,
-        "text": "GÜÇLÜKONAK"
+        "ilce_id": "1931",
+        "ilce": "GÜÇLÜKONAK"
       },
       {
-        "value": 1403,
-        "text": "İDİL"
+        "ilce_id": "1403",
+        "ilce": "İDİL"
       },
       {
-        "value": 1661,
-        "text": "MERKEZ"
+        "ilce_id": "1661",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1623,
-        "text": "SİLOPİ"
+        "ilce_id": "1623",
+        "ilce": "SİLOPİ"
       },
       {
-        "value": 1698,
-        "text": "ULUDERE"
+        "ilce_id": "1698",
+        "ilce": "ULUDERE"
       }
     ]
   },
   {
-    "value": 58,
-    "text": "SİVAS",
-    "districts": [
+    "id": "58",
+    "name": "SİVAS",
+    "ilceler": [
       {
-        "value": 1870,
-        "text": "AKINCILAR"
+        "ilce_id": "1870",
+        "ilce": "AKINCILAR"
       },
       {
-        "value": 1875,
-        "text": "ALTINYAYLA"
+        "ilce_id": "1875",
+        "ilce": "ALTINYAYLA"
       },
       {
-        "value": 1282,
-        "text": "DİVRİĞİ"
+        "ilce_id": "1282",
+        "ilce": "DİVRİĞİ"
       },
       {
-        "value": 1913,
-        "text": "DOĞANŞAR"
+        "ilce_id": "1913",
+        "ilce": "DOĞANŞAR"
       },
       {
-        "value": 1342,
-        "text": "GEMEREK"
+        "ilce_id": "1342",
+        "ilce": "GEMEREK"
       },
       {
-        "value": 1927,
-        "text": "GÖLOVA"
+        "ilce_id": "1927",
+        "ilce": "GÖLOVA"
       },
       {
-        "value": 1373,
-        "text": "GÜRÜN"
+        "ilce_id": "1373",
+        "ilce": "GÜRÜN"
       },
       {
-        "value": 1376,
-        "text": "HAFİK"
+        "ilce_id": "1376",
+        "ilce": "HAFİK"
       },
       {
-        "value": 1407,
-        "text": "İMRANLI"
+        "ilce_id": "1407",
+        "ilce": "İMRANLI"
       },
       {
-        "value": 1431,
-        "text": "KANGAL"
+        "ilce_id": "1431",
+        "ilce": "KANGAL"
       },
       {
-        "value": 1484,
-        "text": "KOYULHİSAR"
+        "ilce_id": "1484",
+        "ilce": "KOYULHİSAR"
       },
       {
-        "value": 1628,
-        "text": "MERKEZ"
+        "ilce_id": "1628",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1650,
-        "text": "ŞARKIŞLA"
+        "ilce_id": "1650",
+        "ilce": "ŞARKIŞLA"
       },
       {
-        "value": 1646,
-        "text": "SUŞEHRİ"
+        "ilce_id": "1646",
+        "ilce": "SUŞEHRİ"
       },
       {
-        "value": 1991,
-        "text": "ULAŞ"
+        "ilce_id": "1991",
+        "ilce": "ULAŞ"
       },
       {
-        "value": 1731,
-        "text": "YILDIZELİ"
+        "ilce_id": "1731",
+        "ilce": "YILDIZELİ"
       },
       {
-        "value": 1738,
-        "text": "ZARA"
+        "ilce_id": "1738",
+        "ilce": "ZARA"
       }
     ]
   },
   {
-    "value": 59,
-    "text": "TEKİRDAĞ",
-    "districts": [
+    "id": "59",
+    "name": "TEKİRDAĞ",
+    "ilceler": [
       {
-        "value": 1250,
-        "text": "ÇERKEZKÖY"
+        "ilce_id": "1250",
+        "ilce": "ÇERKEZKÖY"
       },
       {
-        "value": 1258,
-        "text": "ÇORLU"
+        "ilce_id": "1258",
+        "ilce": "ÇORLU"
       },
       {
-        "value": 2094,
-        "text": "ERGENE"
+        "ilce_id": "2094",
+        "ilce": "ERGENE"
       },
       {
-        "value": 1388,
-        "text": "HAYRABOLU"
+        "ilce_id": "1388",
+        "ilce": "HAYRABOLU"
       },
       {
-        "value": 2095,
-        "text": "KAPAKLI"
+        "ilce_id": "2095",
+        "ilce": "KAPAKLI"
       },
       {
-        "value": 1511,
-        "text": "MALKARA"
+        "ilce_id": "1511",
+        "ilce": "MALKARA"
       },
       {
-        "value": 1825,
-        "text": "MARMARAEREĞLİSİ"
+        "ilce_id": "1825",
+        "ilce": "MARMARAEREĞLİSİ"
       },
       {
-        "value": 1538,
-        "text": "MURATLI"
+        "ilce_id": "1538",
+        "ilce": "MURATLI"
       },
       {
-        "value": 1596,
-        "text": "SARAY"
+        "ilce_id": "1596",
+        "ilce": "SARAY"
       },
       {
-        "value": 1652,
-        "text": "ŞARKÖY"
+        "ilce_id": "1652",
+        "ilce": "ŞARKÖY"
       },
       {
-        "value": 2096,
-        "text": "SÜLEYMANPAŞA"
+        "ilce_id": "2096",
+        "ilce": "SÜLEYMANPAŞA"
       }
     ]
   },
   {
-    "value": 60,
-    "text": "TOKAT",
-    "districts": [
+    "id": "60",
+    "name": "TOKAT",
+    "ilceler": [
       {
-        "value": 1129,
-        "text": "ALMUS"
+        "ilce_id": "1129",
+        "ilce": "ALMUS"
       },
       {
-        "value": 1151,
-        "text": "ARTOVA"
+        "ilce_id": "1151",
+        "ilce": "ARTOVA"
       },
       {
-        "value": 1883,
-        "text": "BAŞÇİFTLİK"
+        "ilce_id": "1883",
+        "ilce": "BAŞÇİFTLİK"
       },
       {
-        "value": 1308,
-        "text": "ERBAA"
+        "ilce_id": "1308",
+        "ilce": "ERBAA"
       },
       {
-        "value": 1679,
-        "text": "MERKEZ"
+        "ilce_id": "1679",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1545,
-        "text": "NİKSAR"
+        "ilce_id": "1545",
+        "ilce": "NİKSAR"
       },
       {
-        "value": 1834,
-        "text": "PAZAR"
+        "ilce_id": "1834",
+        "ilce": "PAZAR"
       },
       {
-        "value": 1584,
-        "text": "REŞADİYE"
+        "ilce_id": "1584",
+        "ilce": "REŞADİYE"
       },
       {
-        "value": 1987,
-        "text": "SULUSARAY"
+        "ilce_id": "1987",
+        "ilce": "SULUSARAY"
       },
       {
-        "value": 1690,
-        "text": "TURHAL"
+        "ilce_id": "1690",
+        "ilce": "TURHAL"
       },
       {
-        "value": 1858,
-        "text": "YEŞİLYURT"
+        "ilce_id": "1858",
+        "ilce": "YEŞİLYURT"
       },
       {
-        "value": 1740,
-        "text": "ZİLE"
+        "ilce_id": "1740",
+        "ilce": "ZİLE"
       }
     ]
   },
   {
-    "value": 61,
-    "text": "TRABZON",
-    "districts": [
+    "id": "61",
+    "name": "TRABZON",
+    "ilceler": [
       {
-        "value": 1113,
-        "text": "AKÇAABAT"
+        "ilce_id": "1113",
+        "ilce": "AKÇAABAT"
       },
       {
-        "value": 1141,
-        "text": "ARAKLI"
+        "ilce_id": "1141",
+        "ilce": "ARAKLI"
       },
       {
-        "value": 1150,
-        "text": "ARSİN"
+        "ilce_id": "1150",
+        "ilce": "ARSİN"
       },
       {
-        "value": 1775,
-        "text": "BEŞİKDÜZÜ"
+        "ilce_id": "1775",
+        "ilce": "BEŞİKDÜZÜ"
       },
       {
-        "value": 1896,
-        "text": "ÇARŞIBAŞI"
+        "ilce_id": "1896",
+        "ilce": "ÇARŞIBAŞI"
       },
       {
-        "value": 1244,
-        "text": "ÇAYKARA"
+        "ilce_id": "1244",
+        "ilce": "ÇAYKARA"
       },
       {
-        "value": 1909,
-        "text": "DERNEKPAZARI"
+        "ilce_id": "1909",
+        "ilce": "DERNEKPAZARI"
       },
       {
-        "value": 1917,
-        "text": "DÜZKÖY"
+        "ilce_id": "1917",
+        "ilce": "DÜZKÖY"
       },
       {
-        "value": 1942,
-        "text": "HAYRAT"
+        "ilce_id": "1942",
+        "ilce": "HAYRAT"
       },
       {
-        "value": 1966,
-        "text": "KÖPRÜBAŞI"
+        "ilce_id": "1966",
+        "ilce": "KÖPRÜBAŞI"
       },
       {
-        "value": 1507,
-        "text": "MAÇKA"
+        "ilce_id": "1507",
+        "ilce": "MAÇKA"
       },
       {
-        "value": 1548,
-        "text": "OF"
+        "ilce_id": "1548",
+        "ilce": "OF"
       },
       {
-        "value": 2097,
-        "text": "ORTAHİSAR"
+        "ilce_id": "2097",
+        "ilce": "ORTAHİSAR"
       },
       {
-        "value": 1842,
-        "text": "ŞALPAZARI"
+        "ilce_id": "1842",
+        "ilce": "ŞALPAZARI"
       },
       {
-        "value": 1647,
-        "text": "SÜRMENE"
+        "ilce_id": "1647",
+        "ilce": "SÜRMENE"
       },
       {
-        "value": 1681,
-        "text": "TONYA"
+        "ilce_id": "1681",
+        "ilce": "TONYA"
       },
       {
-        "value": 1709,
-        "text": "VAKFIKEBİR"
+        "ilce_id": "1709",
+        "ilce": "VAKFIKEBİR"
       },
       {
-        "value": 1732,
-        "text": "YOMRA"
+        "ilce_id": "1732",
+        "ilce": "YOMRA"
       }
     ]
   },
   {
-    "value": 62,
-    "text": "TUNCELİ",
-    "districts": [
+    "id": "62",
+    "name": "TUNCELİ",
+    "ilceler": [
       {
-        "value": 1247,
-        "text": "ÇEMİŞGEZEK"
+        "ilce_id": "1247",
+        "ilce": "ÇEMİŞGEZEK"
       },
       {
-        "value": 1397,
-        "text": "HOZAT"
+        "ilce_id": "1397",
+        "ilce": "HOZAT"
       },
       {
-        "value": 1518,
-        "text": "MAZGİRT"
+        "ilce_id": "1518",
+        "ilce": "MAZGİRT"
       },
       {
-        "value": 1688,
-        "text": "MERKEZ"
+        "ilce_id": "1688",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1541,
-        "text": "NAZIMİYE"
+        "ilce_id": "1541",
+        "ilce": "NAZIMİYE"
       },
       {
-        "value": 1562,
-        "text": "OVACIK"
+        "ilce_id": "1562",
+        "ilce": "OVACIK"
       },
       {
-        "value": 1574,
-        "text": "PERTEK"
+        "ilce_id": "1574",
+        "ilce": "PERTEK"
       },
       {
-        "value": 1581,
-        "text": "PÜLÜMÜR"
+        "ilce_id": "1581",
+        "ilce": "PÜLÜMÜR"
       }
     ]
   },
   {
-    "value": 64,
-    "text": "UŞAK",
-    "districts": [
+    "id": "64",
+    "name": "UŞAK",
+    "ilceler": [
       {
-        "value": 1170,
-        "text": "BANAZ"
+        "ilce_id": "1170",
+        "ilce": "BANAZ"
       },
       {
-        "value": 1323,
-        "text": "EŞME"
+        "ilce_id": "1323",
+        "ilce": "EŞME"
       },
       {
-        "value": 1436,
-        "text": "KARAHALLI"
+        "ilce_id": "1436",
+        "ilce": "KARAHALLI"
       },
       {
-        "value": 1704,
-        "text": "MERKEZ"
+        "ilce_id": "1704",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1629,
-        "text": "SİVASLI"
+        "ilce_id": "1629",
+        "ilce": "SİVASLI"
       },
       {
-        "value": 1697,
-        "text": "ULUBEY"
+        "ilce_id": "1697",
+        "ilce": "ULUBEY"
       }
     ]
   },
   {
-    "value": 65,
-    "text": "VAN",
-    "districts": [
+    "id": "65",
+    "name": "VAN",
+    "ilceler": [
       {
-        "value": 1770,
-        "text": "BAHÇESARAY"
+        "ilce_id": "1770",
+        "ilce": "BAHÇESARAY"
       },
       {
-        "value": 1175,
-        "text": "BAŞKALE"
+        "ilce_id": "1175",
+        "ilce": "BAŞKALE"
       },
       {
-        "value": 1786,
-        "text": "ÇALDIRAN"
+        "ilce_id": "1786",
+        "ilce": "ÇALDIRAN"
       },
       {
-        "value": 1236,
-        "text": "ÇATAK"
+        "ilce_id": "1236",
+        "ilce": "ÇATAK"
       },
       {
-        "value": 1918,
-        "text": "EDREMİT"
+        "ilce_id": "1918",
+        "ilce": "EDREMİT"
       },
       {
-        "value": 1309,
-        "text": "ERCİŞ"
+        "ilce_id": "1309",
+        "ilce": "ERCİŞ"
       },
       {
-        "value": 1350,
-        "text": "GEVAŞ"
+        "ilce_id": "1350",
+        "ilce": "GEVAŞ"
       },
       {
-        "value": 1372,
-        "text": "GÜRPINAR"
+        "ilce_id": "1372",
+        "ilce": "GÜRPINAR"
       },
       {
-        "value": 2098,
-        "text": "İPEKYOLU"
+        "ilce_id": "2098",
+        "ilce": "İPEKYOLU"
       },
       {
-        "value": 1533,
-        "text": "MURADİYE"
+        "ilce_id": "1533",
+        "ilce": "MURADİYE"
       },
       {
-        "value": 1565,
-        "text": "ÖZALP"
+        "ilce_id": "1565",
+        "ilce": "ÖZALP"
       },
       {
-        "value": 1980,
-        "text": "SARAY"
+        "ilce_id": "1980",
+        "ilce": "SARAY"
       },
       {
-        "value": 2099,
-        "text": "TUŞBA"
+        "ilce_id": "2099",
+        "ilce": "TUŞBA"
       }
     ]
   },
   {
-    "value": 77,
-    "text": "YALOVA",
-    "districts": [
+    "id": "77",
+    "name": "YALOVA",
+    "ilceler": [
       {
-        "value": 2019,
-        "text": "ALTINOVA"
+        "ilce_id": "2019",
+        "ilce": "ALTINOVA"
       },
       {
-        "value": 2020,
-        "text": "ARMUTLU"
+        "ilce_id": "2020",
+        "ilce": "ARMUTLU"
       },
       {
-        "value": 2022,
-        "text": "ÇİFTLİKKÖY"
+        "ilce_id": "2022",
+        "ilce": "ÇİFTLİKKÖY"
       },
       {
-        "value": 2021,
-        "text": "ÇINARCIK"
+        "ilce_id": "2021",
+        "ilce": "ÇINARCIK"
       },
       {
-        "value": 1716,
-        "text": "MERKEZ"
+        "ilce_id": "1716",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 2026,
-        "text": "TERMAL"
+        "ilce_id": "2026",
+        "ilce": "TERMAL"
       }
     ]
   },
   {
-    "value": 66,
-    "text": "YOZGAT",
-    "districts": [
+    "id": "66",
+    "name": "YOZGAT",
+    "ilceler": [
       {
-        "value": 1117,
-        "text": "AKDAĞMADENİ"
+        "ilce_id": "1117",
+        "ilce": "AKDAĞMADENİ"
       },
       {
-        "value": 1877,
-        "text": "AYDINCIK"
+        "ilce_id": "1877",
+        "ilce": "AYDINCIK"
       },
       {
-        "value": 1198,
-        "text": "BOĞAZLIYAN"
+        "ilce_id": "1198",
+        "ilce": "BOĞAZLIYAN"
       },
       {
-        "value": 1895,
-        "text": "ÇANDIR"
+        "ilce_id": "1895",
+        "ilce": "ÇANDIR"
       },
       {
-        "value": 1242,
-        "text": "ÇAYIRALAN"
+        "ilce_id": "1242",
+        "ilce": "ÇAYIRALAN"
       },
       {
-        "value": 1245,
-        "text": "ÇEKEREK"
+        "ilce_id": "1245",
+        "ilce": "ÇEKEREK"
       },
       {
-        "value": 1952,
-        "text": "KADIŞEHRİ"
+        "ilce_id": "1952",
+        "ilce": "KADIŞEHRİ"
       },
       {
-        "value": 1733,
-        "text": "MERKEZ"
+        "ilce_id": "1733",
+        "ilce": "MERKEZ"
       },
       {
-        "value": 1982,
-        "text": "SARAYKENT"
+        "ilce_id": "1982",
+        "ilce": "SARAYKENT"
       },
       {
-        "value": 1602,
-        "text": "SARIKAYA"
+        "ilce_id": "1602",
+        "ilce": "SARIKAYA"
       },
       {
-        "value": 1655,
-        "text": "ŞEFAATLİ"
+        "ilce_id": "1655",
+        "ilce": "ŞEFAATLİ"
       },
       {
-        "value": 1635,
-        "text": "SORGUN"
+        "ilce_id": "1635",
+        "ilce": "SORGUN"
       },
       {
-        "value": 1998,
-        "text": "YENİFAKILI"
+        "ilce_id": "1998",
+        "ilce": "YENİFAKILI"
       },
       {
-        "value": 1726,
-        "text": "YERKÖY"
+        "ilce_id": "1726",
+        "ilce": "YERKÖY"
       }
     ]
   },
   {
-    "value": 67,
-    "text": "ZONGULDAK",
-    "districts": [
+    "id": "67",
+    "name": "ZONGULDAK",
+    "ilceler": [
       {
-        "value": 1758,
-        "text": "ALAPLI"
+        "ilce_id": "1758",
+        "ilce": "ALAPLI"
       },
       {
-        "value": 1240,
-        "text": "ÇAYCUMA"
+        "ilce_id": "1240",
+        "ilce": "ÇAYCUMA"
       },
       {
-        "value": 1276,
-        "text": "DEVREK"
+        "ilce_id": "1276",
+        "ilce": "DEVREK"
       },
       {
-        "value": 1313,
-        "text": "EREĞLİ"
+        "ilce_id": "1313",
+        "ilce": "EREĞLİ"
       },
       {
-        "value": 1926,
-        "text": "GÖKÇEBEY"
+        "ilce_id": "1926",
+        "ilce": "GÖKÇEBEY"
       },
       {
-        "value": 2100,
-        "text": "KİLİMLİ"
+        "ilce_id": "2100",
+        "ilce": "KİLİMLİ"
       },
       {
-        "value": 2101,
-        "text": "KOZLU"
+        "ilce_id": "2101",
+        "ilce": "KOZLU"
       },
       {
-        "value": 1741,
-        "text": "MERKEZ"
+        "ilce_id": "1741",
+        "ilce": "MERKEZ"
       }
     ]
   }
